@@ -1,318 +1,11 @@
 {
-  "generatedAt": "2026-09-11T02:12:39.874Z",
+  "generatedAt": "2026-09-11T02:49:40.988Z",
   "weekOf": "2026-09-05",
-  "sports": [
+  "canterburyResults": [],
+  "ladders": [
     {
-      "sport": "Basketball",
-      "ladder": [
-        {
-          "division": "Boys 1st VI",
-          "headers": [
-            "Rank",
-            "Team",
-            "P",
-            "W",
-            "FW",
-            "L",
-            "FL",
-            "D",
-            "C",
-            "Byes",
-            "Points"
-          ],
-          "rows": [
-            {
-              "rank": "1",
-              "org": "CHAC",
-              "grade": "1st VI",
-              "team": "",
-              "stats": [
-                "7",
-                "7",
-                "0",
-                "0",
-                "0",
-                "0",
-                "0",
-                "0",
-                "28"
-              ]
-            },
-            {
-              "rank": "2",
-              "org": "St John's",
-              "grade": "Boys 1st VI",
-              "team": "",
-              "stats": [
-                "7",
-                "6",
-                "0",
-                "1",
-                "0",
-                "0",
-                "0",
-                "0",
-                "25"
-              ]
-            },
-            {
-              "rank": "3",
-              "org": "Canterbury",
-              "grade": "1st VI",
-              "team": "",
-              "stats": [
-                "7",
-                "5",
-                "0",
-                "2",
-                "0",
-                "0",
-                "0",
-                "0",
-                "22"
-              ]
-            },
-            {
-              "rank": "4",
-              "org": "St Paul's",
-              "grade": "1st VI",
-              "team": "",
-              "stats": [
-                "7",
-                "4",
-                "0",
-                "3",
-                "0",
-                "0",
-                "0",
-                "0",
-                "19"
-              ]
-            },
-            {
-              "rank": "5",
-              "org": "WestMAC",
-              "grade": "1st VI",
-              "team": "",
-              "stats": [
-                "7",
-                "3",
-                "0",
-                "4",
-                "0",
-                "0",
-                "0",
-                "0",
-                "16"
-              ]
-            },
-            {
-              "rank": "6",
-              "org": "Ormiston",
-              "grade": "1st VI",
-              "team": "",
-              "stats": [
-                "7",
-                "2",
-                "0",
-                "5",
-                "0",
-                "0",
-                "0",
-                "0",
-                "13"
-              ]
-            },
-            {
-              "rank": "7",
-              "org": "John Paul",
-              "grade": "1st VI",
-              "team": "",
-              "stats": [
-                "7",
-                "1",
-                "0",
-                "6",
-                "0",
-                "0",
-                "0",
-                "0",
-                "10"
-              ]
-            },
-            {
-              "rank": "8",
-              "org": "St Columban's",
-              "grade": "1st VI",
-              "team": "",
-              "stats": [
-                "7",
-                "0",
-                "0",
-                "7",
-                "0",
-                "0",
-                "0",
-                "0",
-                "7"
-              ]
-            }
-          ]
-        },
-        {
-          "division": "Boys 2nd VI",
-          "headers": [
-            "Rank",
-            "Team",
-            "P",
-            "W",
-            "FW",
-            "L",
-            "FL",
-            "D",
-            "C",
-            "Byes",
-            "Points"
-          ],
-          "rows": [
-            {
-              "rank": "1",
-              "org": "CHAC",
-              "grade": "2nd VI",
-              "team": "",
-              "stats": [
-                "7",
-                "7",
-                "0",
-                "0",
-                "0",
-                "0",
-                "0",
-                "0",
-                "28"
-              ]
-            },
-            {
-              "rank": "2",
-              "org": "Canterbury",
-              "grade": "2nd VI",
-              "team": "",
-              "stats": [
-                "7",
-                "6",
-                "0",
-                "1",
-                "0",
-                "0",
-                "0",
-                "0",
-                "25"
-              ]
-            },
-            {
-              "rank": "3",
-              "org": "Ormiston",
-              "grade": "2nd VI",
-              "team": "",
-              "stats": [
-                "7",
-                "4",
-                "0",
-                "3",
-                "0",
-                "0",
-                "0",
-                "0",
-                "19"
-              ]
-            },
-            {
-              "rank": "3",
-              "org": "St John's",
-              "grade": "Boys 2nd VI",
-              "team": "",
-              "stats": [
-                "7",
-                "4",
-                "0",
-                "3",
-                "0",
-                "0",
-                "0",
-                "0",
-                "19"
-              ]
-            },
-            {
-              "rank": "5",
-              "org": "St Paul's",
-              "grade": "2nd VI",
-              "team": "",
-              "stats": [
-                "7",
-                "3",
-                "0",
-                "4",
-                "0",
-                "0",
-                "0",
-                "0",
-                "16"
-              ]
-            },
-            {
-              "rank": "6",
-              "org": "St Columban's",
-              "grade": "2nd VI",
-              "team": "",
-              "stats": [
-                "7",
-                "2",
-                "0",
-                "5",
-                "0",
-                "0",
-                "0",
-                "0",
-                "13"
-              ]
-            },
-            {
-              "rank": "6",
-              "org": "WestMAC",
-              "grade": "2nd VI",
-              "team": "",
-              "stats": [
-                "7",
-                "2",
-                "0",
-                "5",
-                "0",
-                "0",
-                "0",
-                "0",
-                "13"
-              ]
-            },
-            {
-              "rank": "8",
-              "org": "John Paul",
-              "grade": "2nd VI",
-              "team": "",
-              "stats": [
-                "7",
-                "0",
-                "0",
-                "7",
-                "0",
-                "0",
-                "0",
-                "0",
-                "7"
-              ]
-            }
-          ]
-        },
+      "sport": "Basketball (Boys)",
+      "divisions": [
         {
           "division": "Boys Year 10",
           "headers": [
@@ -332,59 +25,55 @@
             {
               "rank": "1",
               "org": "CHAC",
-              "grade": "Year 10",
-              "team": "",
+              "team": "Year 10",
               "stats": [
                 "7",
-                "7",
+                "6",
                 "0",
                 "0",
                 "0",
+                "1",
                 "0",
-                "0",
-                "0",
-                "28"
+                "1",
+                "26"
               ]
             },
             {
-              "rank": "2",
-              "org": "St John's",
-              "grade": "Boys Year 10",
-              "team": "",
+              "rank": "1",
+              "org": "St Columban's",
+              "team": "Year 10",
               "stats": [
                 "7",
-                "5",
-                "0",
-                "2",
+                "6",
                 "0",
                 "0",
                 "0",
+                "1",
                 "0",
-                "22"
+                "1",
+                "26"
               ]
             },
             {
-              "rank": "2",
+              "rank": "3",
               "org": "St Paul's",
-              "grade": "Year 10",
-              "team": "",
+              "team": "Year 10",
               "stats": [
                 "7",
-                "5",
+                "4",
                 "0",
                 "2",
                 "0",
+                "1",
                 "0",
-                "0",
-                "0",
-                "22"
+                "1",
+                "20"
               ]
             },
             {
               "rank": "4",
               "org": "Canterbury",
-              "grade": "Year 10",
-              "team": "",
+              "team": "Year 10",
               "stats": [
                 "7",
                 "4",
@@ -393,32 +82,30 @@
                 "0",
                 "0",
                 "0",
-                "0",
+                "1",
                 "19"
               ]
             },
             {
-              "rank": "4",
+              "rank": "5",
               "org": "Ormiston",
-              "grade": "Year 10",
-              "team": "",
+              "team": "Year 10",
               "stats": [
                 "7",
-                "4",
+                "3",
                 "0",
                 "3",
                 "0",
+                "1",
                 "0",
-                "0",
-                "0",
-                "19"
+                "1",
+                "17"
               ]
             },
             {
               "rank": "6",
               "org": "John Paul",
-              "grade": "Year 10",
-              "team": "",
+              "team": "Year 10",
               "stats": [
                 "7",
                 "2",
@@ -427,15 +114,14 @@
                 "0",
                 "0",
                 "0",
-                "0",
+                "1",
                 "13"
               ]
             },
             {
               "rank": "7",
-              "org": "WestMAC",
-              "grade": "Year 10",
-              "team": "",
+              "org": "St John's",
+              "team": "Year 10",
               "stats": [
                 "7",
                 "1",
@@ -444,15 +130,14 @@
                 "0",
                 "0",
                 "0",
-                "0",
+                "1",
                 "10"
               ]
             },
             {
               "rank": "8",
-              "org": "St Columban's",
-              "grade": "Year 10",
-              "team": "",
+              "org": "WestMAC",
+              "team": "Year 10",
               "stats": [
                 "7",
                 "0",
@@ -461,7 +146,7 @@
                 "0",
                 "0",
                 "0",
-                "0",
+                "1",
                 "7"
               ]
             }
@@ -486,8 +171,7 @@
             {
               "rank": "1",
               "org": "St Columban's",
-              "grade": "Year 9",
-              "team": "",
+              "team": "Year 9",
               "stats": [
                 "7",
                 "7",
@@ -496,15 +180,14 @@
                 "0",
                 "0",
                 "0",
-                "0",
+                "1",
                 "28"
               ]
             },
             {
               "rank": "2",
-              "org": "CHAC",
-              "grade": "Year 9",
-              "team": "",
+              "org": "WestMAC",
+              "team": "Year 9",
               "stats": [
                 "7",
                 "6",
@@ -513,100 +196,78 @@
                 "0",
                 "0",
                 "0",
-                "0",
+                "1",
                 "25"
               ]
             },
             {
               "rank": "3",
-              "org": "Ormiston",
-              "grade": "Year 9",
-              "team": "",
-              "stats": [
-                "7",
-                "4",
-                "0",
-                "3",
-                "0",
-                "0",
-                "0",
-                "0",
-                "19"
-              ]
-            },
-            {
-              "rank": "4",
-              "org": "Canterbury",
-              "grade": "Year 9",
-              "team": "",
-              "stats": [
-                "7",
-                "3",
-                "0",
-                "4",
-                "0",
-                "0",
-                "0",
-                "0",
-                "16"
-              ]
-            },
-            {
-              "rank": "4",
-              "org": "St John's",
-              "grade": "Boys Year 9",
-              "team": "",
-              "stats": [
-                "7",
-                "3",
-                "0",
-                "4",
-                "0",
-                "0",
-                "0",
-                "0",
-                "16"
-              ]
-            },
-            {
-              "rank": "4",
-              "org": "WestMAC",
-              "grade": "Year 9",
-              "team": "",
-              "stats": [
-                "7",
-                "3",
-                "0",
-                "4",
-                "0",
-                "0",
-                "0",
-                "0",
-                "16"
-              ]
-            },
-            {
-              "rank": "7",
               "org": "John Paul",
-              "grade": "Year 9",
-              "team": "",
+              "team": "Year 9",
               "stats": [
                 "7",
+                "3",
+                "1",
+                "2",
+                "0",
                 "1",
                 "0",
-                "6",
+                "1",
+                "20"
+              ]
+            },
+            {
+              "rank": "3",
+              "org": "Ormiston",
+              "team": "Year 9",
+              "stats": [
+                "7",
+                "4",
+                "0",
+                "2",
+                "0",
+                "1",
+                "0",
+                "1",
+                "20"
+              ]
+            },
+            {
+              "rank": "5",
+              "org": "Canterbury",
+              "team": "Year 9",
+              "stats": [
+                "7",
+                "3",
+                "0",
+                "4",
                 "0",
                 "0",
                 "0",
+                "1",
+                "16"
+              ]
+            },
+            {
+              "rank": "6",
+              "org": "CHAC",
+              "team": "Year 9",
+              "stats": [
+                "7",
+                "2",
                 "0",
-                "10"
+                "4",
+                "1",
+                "0",
+                "0",
+                "1",
+                "12"
               ]
             },
             {
               "rank": "7",
-              "org": "St Paul's",
-              "grade": "Year 9",
-              "team": "",
+              "org": "St John's",
+              "team": "Year 9",
               "stats": [
                 "7",
                 "1",
@@ -615,8 +276,24 @@
                 "0",
                 "0",
                 "0",
-                "0",
+                "1",
                 "10"
+              ]
+            },
+            {
+              "rank": "8",
+              "org": "St Paul's",
+              "team": "Year 9",
+              "stats": [
+                "7",
+                "0",
+                "0",
+                "7",
+                "0",
+                "0",
+                "0",
+                "1",
+                "7"
               ]
             }
           ]
@@ -639,9 +316,8 @@
           "rows": [
             {
               "rank": "1",
-              "org": "St John's",
-              "grade": "Boys Year 8",
-              "team": "",
+              "org": "John Paul",
+              "team": "Year 8",
               "stats": [
                 "7",
                 "7",
@@ -650,32 +326,30 @@
                 "0",
                 "0",
                 "0",
-                "0",
+                "1",
                 "28"
               ]
             },
             {
               "rank": "2",
-              "org": "John Paul",
-              "grade": "Year 8",
-              "team": "",
+              "org": "Ormiston",
+              "team": "Year 8",
               "stats": [
+                "7",
                 "6",
-                "5",
                 "0",
                 "1",
                 "0",
                 "0",
-                "1",
                 "0",
-                "23"
+                "1",
+                "25"
               ]
             },
             {
               "rank": "3",
-              "org": "Ormiston",
-              "grade": "Year 8",
-              "team": "",
+              "org": "Canterbury",
+              "team": "Year 8",
               "stats": [
                 "7",
                 "5",
@@ -684,49 +358,46 @@
                 "0",
                 "0",
                 "0",
-                "0",
+                "1",
                 "22"
               ]
             },
             {
               "rank": "4",
               "org": "CHAC",
-              "grade": "Year 8",
-              "team": "",
+              "team": "Year 8",
               "stats": [
-                "6",
+                "7",
                 "4",
                 "0",
-                "2",
+                "3",
+                "0",
                 "0",
                 "0",
                 "1",
-                "0",
-                "20"
+                "19"
               ]
             },
             {
               "rank": "5",
-              "org": "St Columban's",
-              "grade": "Year 8",
-              "team": "",
+              "org": "St John's",
+              "team": "Year 8",
               "stats": [
                 "7",
-                "2",
+                "3",
                 "0",
-                "5",
-                "0",
-                "0",
+                "4",
                 "0",
                 "0",
-                "13"
+                "0",
+                "1",
+                "16"
               ]
             },
             {
-              "rank": "5",
+              "rank": "6",
               "org": "St Paul's",
-              "grade": "Year 8",
-              "team": "",
+              "team": "Year 8",
               "stats": [
                 "7",
                 "2",
@@ -735,15 +406,14 @@
                 "0",
                 "0",
                 "0",
-                "0",
+                "1",
                 "13"
               ]
             },
             {
               "rank": "7",
-              "org": "Canterbury",
-              "grade": "Year 8",
-              "team": "",
+              "org": "St Columban's",
+              "team": "Year 8",
               "stats": [
                 "7",
                 "1",
@@ -752,25 +422,24 @@
                 "0",
                 "0",
                 "0",
-                "0",
+                "1",
                 "10"
               ]
             },
             {
-              "rank": "7",
+              "rank": "8",
               "org": "WestMAC",
-              "grade": "Year 8",
-              "team": "",
+              "team": "Year 8",
               "stats": [
                 "7",
+                "0",
+                "0",
+                "7",
+                "0",
+                "0",
+                "0",
                 "1",
-                "0",
-                "6",
-                "0",
-                "0",
-                "0",
-                "0",
-                "10"
+                "7"
               ]
             }
           ]
@@ -793,9 +462,8 @@
           "rows": [
             {
               "rank": "1",
-              "org": "John Paul",
-              "grade": "Year 7",
-              "team": "",
+              "org": "WestMAC",
+              "team": "Year 7",
               "stats": [
                 "7",
                 "7",
@@ -804,127 +472,120 @@
                 "0",
                 "0",
                 "0",
-                "0",
+                "1",
                 "28"
               ]
             },
             {
               "rank": "2",
-              "org": "St Columban's",
-              "grade": "Year 7",
-              "team": "",
+              "org": "John Paul",
+              "team": "Year 7",
               "stats": [
                 "7",
-                "4",
+                "6",
                 "0",
-                "3",
-                "0",
-                "0",
+                "1",
                 "0",
                 "0",
-                "19"
+                "0",
+                "1",
+                "25"
               ]
             },
             {
               "rank": "3",
               "org": "CHAC",
-              "grade": "Year 7",
-              "team": "",
+              "team": "Year 7",
               "stats": [
                 "7",
-                "3",
+                "5",
                 "0",
-                "4",
-                "0",
-                "0",
+                "2",
                 "0",
                 "0",
-                "16"
+                "0",
+                "1",
+                "22"
               ]
             },
             {
-              "rank": "3",
+              "rank": "4",
               "org": "Ormiston",
-              "grade": "Year 7",
-              "team": "",
+              "team": "Year 7",
               "stats": [
                 "7",
-                "3",
-                "0",
                 "4",
                 "0",
+                "3",
                 "0",
                 "0",
                 "0",
-                "16"
+                "1",
+                "19"
               ]
             },
             {
-              "rank": "3",
+              "rank": "5",
+              "org": "St Columban's",
+              "team": "Year 7",
+              "stats": [
+                "7",
+                "2",
+                "0",
+                "4",
+                "0",
+                "1",
+                "0",
+                "1",
+                "14"
+              ]
+            },
+            {
+              "rank": "5",
               "org": "St John's",
-              "grade": "Boys Year 7",
-              "team": "",
+              "team": "Year 7",
               "stats": [
                 "7",
-                "3",
+                "2",
                 "0",
                 "4",
                 "0",
+                "1",
                 "0",
-                "0",
-                "0",
-                "16"
+                "1",
+                "14"
               ]
             },
             {
-              "rank": "3",
+              "rank": "7",
               "org": "St Paul's",
-              "grade": "Year 7",
-              "team": "",
+              "team": "Year 7",
               "stats": [
                 "7",
-                "3",
+                "1",
                 "0",
-                "4",
-                "0",
-                "0",
-                "0",
-                "0",
-                "16"
-              ]
-            },
-            {
-              "rank": "3",
-              "org": "WestMAC",
-              "grade": "Year 7",
-              "team": "",
-              "stats": [
-                "7",
-                "3",
-                "0",
-                "4",
+                "6",
                 "0",
                 "0",
                 "0",
-                "0",
-                "16"
+                "1",
+                "10"
               ]
             },
             {
               "rank": "8",
               "org": "Canterbury",
-              "grade": "Year 7",
-              "team": "",
+              "team": "Year 7",
               "stats": [
                 "7",
-                "2",
-                "0",
-                "5",
                 "0",
                 "0",
+                "7",
                 "0",
                 "0",
-                "13"
+                "0",
+                "1",
+                "7"
               ]
             }
           ]
@@ -948,154 +609,161 @@
             {
               "rank": "1",
               "org": "CHAC",
-              "grade": "3rd VI",
-              "team": "",
+              "team": "3rd V",
               "stats": [
-                "6",
+                "7",
                 "6",
                 "0",
-                "0",
+                "1",
                 "0",
                 "0",
                 "0",
                 "1",
-                "24"
+                "25"
               ]
             },
             {
-              "rank": "2",
+              "rank": "1",
               "org": "CHAC",
-              "grade": "4th VI",
-              "team": "",
+              "team": "4th V",
               "stats": [
+                "7",
                 "6",
-                "5",
                 "0",
                 "1",
                 "0",
                 "0",
                 "0",
-                "0",
-                "21"
+                "1",
+                "25"
               ]
             },
             {
-              "rank": "2",
+              "rank": "3",
               "org": "Ormiston",
-              "grade": "3rd VI",
-              "team": "",
+              "team": "3rd V",
               "stats": [
-                "6",
+                "7",
                 "5",
                 "0",
+                "2",
+                "0",
+                "0",
+                "0",
                 "1",
-                "0",
-                "0",
-                "0",
-                "0",
-                "21"
+                "22"
               ]
             },
             {
               "rank": "4",
-              "org": "CHAC",
-              "grade": "5th VI",
-              "team": "",
-              "stats": [
-                "6",
-                "4",
-                "0",
-                "2",
-                "0",
-                "0",
-                "0",
-                "1",
-                "18"
-              ]
-            },
-            {
-              "rank": "5",
               "org": "Canterbury",
-              "grade": "3rd VI",
-              "team": "",
+              "team": "3rd V",
               "stats": [
-                "6",
-                "2",
-                "0",
-                "4",
+                "7",
+                "3",
+                "1",
+                "3",
                 "0",
                 "0",
                 "0",
                 "1",
-                "12"
+                "19"
               ]
             },
             {
-              "rank": "5",
-              "org": "WestMAC",
-              "grade": "3rd VI",
-              "team": "",
+              "rank": "4",
+              "org": "John Paul",
+              "team": "3rd V",
               "stats": [
-                "6",
-                "2",
-                "0",
+                "7",
                 "4",
+                "0",
+                "3",
                 "0",
                 "0",
                 "0",
                 "1",
-                "12"
+                "19"
               ]
             },
             {
-              "rank": "7",
+              "rank": "6",
               "org": "CHAC",
-              "grade": "6th VI",
-              "team": "",
+              "team": "5th V",
               "stats": [
-                "6",
+                "7",
+                "1",
+                "2",
+                "3",
+                "0",
                 "1",
                 "0",
-                "5",
-                "0",
-                "0",
-                "0",
                 "1",
-                "9"
+                "17"
               ]
             },
             {
-              "rank": "7",
+              "rank": "6",
+              "org": "Ormiston",
+              "team": "4th V",
+              "stats": [
+                "7",
+                "3",
+                "0",
+                "3",
+                "0",
+                "1",
+                "0",
+                "1",
+                "17"
+              ]
+            },
+            {
+              "rank": "8",
               "org": "St Paul's",
-              "grade": "3rd VI",
-              "team": "",
+              "team": "3rd V",
               "stats": [
                 "6",
+                "2",
+                "0",
+                "3",
+                "1",
                 "0",
                 "1",
-                "5",
-                "0",
-                "0",
-                "0",
                 "1",
-                "9"
+                "13"
               ]
             },
             {
               "rank": "9",
-              "org": "Ormiston",
-              "grade": "4th VI",
-              "team": "",
+              "org": "John Paul",
+              "team": "4th V",
+              "stats": [
+                "7",
+                "0",
+                "0",
+                "7",
+                "0",
+                "0",
+                "0",
+                "1",
+                "7"
+              ]
+            },
+            {
+              "rank": "10",
+              "org": "John Paul",
+              "team": "5th V",
               "stats": [
                 "6",
-                "1",
+                "0",
                 "0",
                 "4",
+                "2",
+                "0",
                 "1",
                 "0",
-                "0",
-                "1",
-                "8"
+                "6"
               ]
             }
           ]
@@ -1118,138 +786,98 @@
           "rows": [
             {
               "rank": "1",
-              "org": "St John's",
-              "grade": "Boys Year 10 Red",
-              "team": "",
-              "stats": [
-                "7",
-                "6",
-                "0",
-                "1",
-                "0",
-                "0",
-                "0",
-                "0",
-                "25"
-              ]
-            },
-            {
-              "rank": "2",
               "org": "CHAC",
-              "grade": "Year 10 Blue",
-              "team": "",
+              "team": "Year 10 Blue",
               "stats": [
-                "6",
                 "4",
+                "3",
                 "0",
-                "2",
                 "0",
                 "0",
                 "1",
                 "0",
-                "20"
+                "3",
+                "14"
               ]
             },
             {
-              "rank": "2",
-              "org": "Ormiston",
-              "grade": "Year 10 Blue",
-              "team": "",
+              "rank": "1",
+              "org": "John Paul",
+              "team": "Year 10 Blue",
               "stats": [
-                "6",
                 "4",
+                "3",
                 "0",
-                "2",
                 "0",
                 "0",
                 "1",
                 "0",
-                "20"
+                "3",
+                "14"
               ]
             },
             {
-              "rank": "2",
-              "org": "St Paul's",
-              "grade": "Year 10 Red",
-              "team": "",
+              "rank": "3",
+              "org": "John Paul",
+              "team": "Year 10 Burgundy",
               "stats": [
-                "6",
                 "4",
+                "2",
                 "0",
                 "2",
                 "0",
                 "0",
+                "0",
+                "3",
+                "10"
+              ]
+            },
+            {
+              "rank": "4",
+              "org": "CHAC",
+              "team": "Year 10 Red",
+              "stats": [
+                "4",
                 "1",
                 "0",
-                "20"
+                "3",
+                "0",
+                "0",
+                "0",
+                "4",
+                "7"
               ]
             },
             {
               "rank": "5",
-              "org": "St Columban's",
-              "grade": "Intermediate Blue",
-              "team": "",
+              "org": "Ormiston",
+              "team": "Year 10 Blue",
               "stats": [
-                "6",
-                "3",
+                "4",
                 "0",
-                "3",
-                "0",
-                "0",
-                "1",
-                "0",
-                "17"
-              ]
-            },
-            {
-              "rank": "6",
-              "org": "Canterbury",
-              "grade": "Year 10 Navy",
-              "team": "",
-              "stats": [
-                "7",
-                "2",
-                "0",
-                "5",
-                "0",
-                "0",
-                "0",
-                "0",
-                "13"
-              ]
-            },
-            {
-              "rank": "7",
-              "org": "John Paul",
-              "grade": "Intermediate Blue",
-              "team": "",
-              "stats": [
-                "5",
-                "1",
                 "0",
                 "4",
                 "0",
                 "0",
-                "2",
                 "0",
-                "12"
+                "2",
+                "4"
               ]
             },
             {
-              "rank": "8",
-              "org": "WestMAC",
-              "grade": "Intermediate Navy",
-              "team": "",
+              "rank": "6",
+              "org": "St Paul's",
+              "team": "Year 10 Red",
               "stats": [
-                "5",
                 "0",
                 "0",
-                "5",
+                "0",
+                "0",
+                "0",
                 "0",
                 "0",
                 "2",
-                "0",
-                "9"
+                "0"
               ]
             }
           ]
@@ -1272,26 +900,300 @@
           "rows": [
             {
               "rank": "1",
-              "org": "CHAC",
-              "grade": "Year 10 Red",
-              "team": "",
+              "org": "John Paul",
+              "team": "Year 9 Blue",
               "stats": [
-                "5",
-                "5",
+                "7",
+                "7",
+                "0",
                 "0",
                 "0",
                 "0",
                 "0",
                 "1",
+                "28"
+              ]
+            },
+            {
+              "rank": "2",
+              "org": "Ormiston",
+              "team": "Year 9 Blue",
+              "stats": [
+                "7",
+                "6",
+                "0",
+                "1",
+                "0",
+                "0",
+                "0",
+                "1",
+                "25"
+              ]
+            },
+            {
+              "rank": "3",
+              "org": "John Paul",
+              "team": "Year 9 Burgundy",
+              "stats": [
+                "7",
+                "4",
+                "0",
+                "3",
+                "0",
+                "0",
+                "0",
+                "1",
+                "19"
+              ]
+            },
+            {
+              "rank": "4",
+              "org": "CHAC",
+              "team": "Year 9 Blue",
+              "stats": [
+                "7",
+                "2",
+                "0",
+                "5",
+                "0",
+                "0",
+                "0",
+                "1",
+                "13"
+              ]
+            },
+            {
+              "rank": "4",
+              "org": "Canterbury",
+              "team": "Year 9/10 Navy",
+              "stats": [
+                "7",
+                "2",
+                "0",
+                "5",
+                "0",
+                "0",
+                "0",
+                "1",
+                "13"
+              ]
+            },
+            {
+              "rank": "6",
+              "org": "Ormiston",
+              "team": "Year 8/9 Red",
+              "stats": [
+                "7",
+                "0",
+                "0",
+                "7",
+                "0",
+                "0",
+                "0",
+                "1",
+                "7"
+              ]
+            },
+            {
+              "rank": "7",
+              "org": "St John's",
+              "team": "Year 10 Red",
+              "stats": [
+                "0",
+                "0",
+                "0",
+                "0",
+                "0",
+                "0",
+                "0",
+                "0",
+                "0"
+              ]
+            }
+          ]
+        },
+        {
+          "division": "Boys Junior Shield (Division 1)",
+          "headers": [
+            "Rank",
+            "Team",
+            "P",
+            "W",
+            "FW",
+            "L",
+            "FL",
+            "D",
+            "C",
+            "Byes",
+            "Points"
+          ],
+          "rows": [
+            {
+              "rank": "1",
+              "org": "John Paul",
+              "team": "Year 8 Burgundy",
+              "stats": [
+                "7",
+                "7",
+                "0",
+                "0",
+                "0",
+                "0",
+                "0",
+                "1",
+                "28"
+              ]
+            },
+            {
+              "rank": "2",
+              "org": "Ormiston",
+              "team": "Year 8 Blue",
+              "stats": [
+                "7",
+                "5",
+                "0",
+                "1",
+                "0",
+                "1",
+                "0",
+                "1",
+                "23"
+              ]
+            },
+            {
+              "rank": "3",
+              "org": "John Paul",
+              "team": "Year 8 Blue",
+              "stats": [
+                "7",
+                "5",
+                "0",
+                "2",
+                "0",
+                "0",
+                "0",
                 "1",
                 "22"
               ]
             },
             {
-              "rank": "2",
+              "rank": "4",
+              "org": "Canterbury",
+              "team": "Year 8 Shield",
+              "stats": [
+                "7",
+                "4",
+                "0",
+                "3",
+                "0",
+                "0",
+                "0",
+                "1",
+                "19"
+              ]
+            },
+            {
+              "rank": "5",
+              "org": "John Paul",
+              "team": "Year 8 White",
+              "stats": [
+                "7",
+                "3",
+                "0",
+                "3",
+                "0",
+                "1",
+                "0",
+                "1",
+                "17"
+              ]
+            },
+            {
+              "rank": "6",
               "org": "CHAC",
-              "grade": "Year 9 Blue",
-              "team": "",
+              "team": "Year 8 Blue",
+              "stats": [
+                "7",
+                "2",
+                "0",
+                "5",
+                "0",
+                "0",
+                "0",
+                "1",
+                "13"
+              ]
+            },
+            {
+              "rank": "7",
+              "org": "St Paul's",
+              "team": "Year 8 Green",
+              "stats": [
+                "7",
+                "1",
+                "0",
+                "6",
+                "0",
+                "0",
+                "0",
+                "1",
+                "10"
+              ]
+            },
+            {
+              "rank": "8",
+              "org": "CHAC",
+              "team": "Year 8 Red",
+              "stats": [
+                "7",
+                "0",
+                "0",
+                "7",
+                "0",
+                "0",
+                "0",
+                "1",
+                "7"
+              ]
+            }
+          ]
+        },
+        {
+          "division": "Boys Junior Shield (Division 2)",
+          "headers": [
+            "Rank",
+            "Team",
+            "P",
+            "W",
+            "FW",
+            "L",
+            "FL",
+            "D",
+            "C",
+            "Byes",
+            "Points"
+          ],
+          "rows": [
+            {
+              "rank": "1",
+              "org": "John Paul",
+              "team": "Year 7 Blue",
+              "stats": [
+                "6",
+                "6",
+                "0",
+                "0",
+                "0",
+                "0",
+                "0",
+                "2",
+                "24"
+              ]
+            },
+            {
+              "rank": "2",
+              "org": "St Paul's",
+              "team": "Year 7/8 Red",
               "stats": [
                 "6",
                 "5",
@@ -1306,9 +1208,8 @@
             },
             {
               "rank": "3",
-              "org": "Ormiston",
-              "grade": "Year 10 White",
-              "team": "",
+              "org": "John Paul",
+              "team": "Year 7 Burgundy",
               "stats": [
                 "6",
                 "4",
@@ -1317,15 +1218,208 @@
                 "0",
                 "0",
                 "0",
-                "1",
+                "2",
                 "18"
               ]
             },
             {
-              "rank": "4",
+              "rank": "3",
+              "org": "WestMAC",
+              "team": "Junior Gold",
+              "stats": [
+                "6",
+                "4",
+                "0",
+                "2",
+                "0",
+                "0",
+                "0",
+                "2",
+                "18"
+              ]
+            },
+            {
+              "rank": "5",
+              "org": "CHAC",
+              "team": "Year 7 Blue",
+              "stats": [
+                "6",
+                "3",
+                "0",
+                "3",
+                "0",
+                "0",
+                "0",
+                "2",
+                "15"
+              ]
+            },
+            {
+              "rank": "5",
+              "org": "CHAC",
+              "team": "Year 7 Red",
+              "stats": [
+                "6",
+                "3",
+                "0",
+                "3",
+                "0",
+                "0",
+                "0",
+                "2",
+                "15"
+              ]
+            },
+            {
+              "rank": "7",
+              "org": "Canterbury",
+              "team": "Year 7 Navy",
+              "stats": [
+                "6",
+                "1",
+                "0",
+                "5",
+                "0",
+                "0",
+                "0",
+                "1",
+                "9"
+              ]
+            },
+            {
+              "rank": "7",
               "org": "Ormiston",
-              "grade": "Year 10 Red",
-              "team": "",
+              "team": "Year 7 Blue",
+              "stats": [
+                "6",
+                "1",
+                "0",
+                "5",
+                "0",
+                "0",
+                "0",
+                "2",
+                "9"
+              ]
+            },
+            {
+              "rank": "9",
+              "org": "St John's",
+              "team": "Year 7/8 Boys Basketball",
+              "stats": [
+                "6",
+                "0",
+                "0",
+                "6",
+                "0",
+                "0",
+                "0",
+                "2",
+                "6"
+              ]
+            },
+            {
+              "rank": "10",
+              "org": "Ormiston",
+              "team": "Year 7 Red",
+              "stats": [
+                "0",
+                "0",
+                "0",
+                "0",
+                "0",
+                "0",
+                "0",
+                "1",
+                "0"
+              ]
+            }
+          ]
+        },
+        {
+          "division": "Boys 1st V",
+          "headers": [
+            "Rank",
+            "Team",
+            "P",
+            "W",
+            "FW",
+            "L",
+            "FL",
+            "D",
+            "C",
+            "Byes",
+            "Points"
+          ],
+          "rows": [
+            {
+              "rank": "1",
+              "org": "Ormiston",
+              "team": "1st V",
+              "stats": [
+                "7",
+                "5",
+                "0",
+                "1",
+                "0",
+                "1",
+                "0",
+                "1",
+                "23"
+              ]
+            },
+            {
+              "rank": "1",
+              "org": "St John's",
+              "team": "1st V",
+              "stats": [
+                "7",
+                "5",
+                "0",
+                "1",
+                "0",
+                "1",
+                "0",
+                "0",
+                "23"
+              ]
+            },
+            {
+              "rank": "1",
+              "org": "St Paul's",
+              "team": "1st V",
+              "stats": [
+                "7",
+                "5",
+                "0",
+                "1",
+                "0",
+                "1",
+                "0",
+                "1",
+                "23"
+              ]
+            },
+            {
+              "rank": "4",
+              "org": "John Paul",
+              "team": "1st V",
+              "stats": [
+                "7",
+                "4",
+                "0",
+                "2",
+                "0",
+                "1",
+                "0",
+                "1",
+                "20"
+              ]
+            },
+            {
+              "rank": "5",
+              "org": "Canterbury",
+              "team": "1st V",
               "stats": [
                 "7",
                 "3",
@@ -1334,21 +1428,1875 @@
                 "0",
                 "0",
                 "0",
+                "1",
+                "16"
+              ]
+            },
+            {
+              "rank": "6",
+              "org": "CHAC",
+              "team": "1st V",
+              "stats": [
+                "7",
+                "2",
                 "0",
+                "5",
+                "0",
+                "0",
+                "0",
+                "1",
+                "13"
+              ]
+            },
+            {
+              "rank": "6",
+              "org": "St Columban's",
+              "team": "1st V",
+              "stats": [
+                "7",
+                "2",
+                "0",
+                "5",
+                "0",
+                "0",
+                "0",
+                "1",
+                "13"
+              ]
+            },
+            {
+              "rank": "8",
+              "org": "WestMAC",
+              "team": "1st V",
+              "stats": [
+                "7",
+                "0",
+                "0",
+                "7",
+                "0",
+                "0",
+                "0",
+                "1",
+                "7"
+              ]
+            }
+          ]
+        },
+        {
+          "division": "Boys 2nd V",
+          "headers": [
+            "Rank",
+            "Team",
+            "P",
+            "W",
+            "FW",
+            "L",
+            "FL",
+            "D",
+            "C",
+            "Byes",
+            "Points"
+          ],
+          "rows": [
+            {
+              "rank": "1",
+              "org": "John Paul",
+              "team": "2nd V",
+              "stats": [
+                "7",
+                "7",
+                "0",
+                "0",
+                "0",
+                "0",
+                "0",
+                "1",
+                "28"
+              ]
+            },
+            {
+              "rank": "2",
+              "org": "Ormiston",
+              "team": "2nd V",
+              "stats": [
+                "7",
+                "6",
+                "0",
+                "1",
+                "0",
+                "0",
+                "0",
+                "1",
+                "25"
+              ]
+            },
+            {
+              "rank": "3",
+              "org": "CHAC",
+              "team": "2nd V",
+              "stats": [
+                "7",
+                "4",
+                "0",
+                "2",
+                "0",
+                "1",
+                "0",
+                "1",
+                "20"
+              ]
+            },
+            {
+              "rank": "4",
+              "org": "Canterbury",
+              "team": "2nd V",
+              "stats": [
+                "7",
+                "3",
+                "0",
+                "3",
+                "0",
+                "1",
+                "0",
+                "1",
+                "17"
+              ]
+            },
+            {
+              "rank": "5",
+              "org": "St Paul's",
+              "team": "2nd V",
+              "stats": [
+                "7",
+                "2",
+                "0",
+                "3",
+                "0",
+                "2",
+                "0",
+                "1",
+                "15"
+              ]
+            },
+            {
+              "rank": "6",
+              "org": "St Columban's",
+              "team": "2nd V",
+              "stats": [
+                "7",
+                "2",
+                "0",
+                "5",
+                "0",
+                "0",
+                "0",
+                "1",
+                "13"
+              ]
+            },
+            {
+              "rank": "6",
+              "org": "St John's",
+              "team": "2nd V",
+              "stats": [
+                "7",
+                "2",
+                "0",
+                "5",
+                "0",
+                "0",
+                "0",
+                "0",
+                "13"
+              ]
+            },
+            {
+              "rank": "8",
+              "org": "WestMAC",
+              "team": "2nd V",
+              "stats": [
+                "7",
+                "0",
+                "0",
+                "7",
+                "0",
+                "0",
+                "0",
+                "1",
+                "7"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sport": "Volleyball (Girls)",
+      "divisions": [
+        {
+          "division": "Girls 1st VI",
+          "headers": [
+            "Rank",
+            "Team",
+            "P",
+            "W",
+            "FW",
+            "L",
+            "FL",
+            "D",
+            "C",
+            "Byes",
+            "Points"
+          ],
+          "rows": [
+            {
+              "rank": "1",
+              "org": "Ormiston",
+              "team": "1st VI",
+              "stats": [
+                "7",
+                "7",
+                "0",
+                "0",
+                "0",
+                "0",
+                "0",
+                "1",
+                "28"
+              ]
+            },
+            {
+              "rank": "2",
+              "org": "Canterbury",
+              "team": "1st VI",
+              "stats": [
+                "7",
+                "6",
+                "0",
+                "1",
+                "0",
+                "0",
+                "0",
+                "1",
+                "25"
+              ]
+            },
+            {
+              "rank": "3",
+              "org": "CHAC",
+              "team": "1st VI",
+              "stats": [
+                "7",
+                "5",
+                "0",
+                "2",
+                "0",
+                "0",
+                "0",
+                "1",
+                "22"
+              ]
+            },
+            {
+              "rank": "4",
+              "org": "John Paul",
+              "team": "1st VI",
+              "stats": [
+                "7",
+                "3",
+                "0",
+                "4",
+                "0",
+                "0",
+                "0",
+                "1",
+                "16"
+              ]
+            },
+            {
+              "rank": "5",
+              "org": "St Columban's",
+              "team": "1st VI",
+              "stats": [
+                "7",
+                "2",
+                "0",
+                "5",
+                "0",
+                "0",
+                "0",
+                "1",
+                "13"
+              ]
+            },
+            {
+              "rank": "5",
+              "org": "St Paul's",
+              "team": "1st VI",
+              "stats": [
+                "7",
+                "2",
+                "0",
+                "5",
+                "0",
+                "0",
+                "0",
+                "1",
+                "13"
+              ]
+            },
+            {
+              "rank": "5",
+              "org": "WestMAC",
+              "team": "1st VI",
+              "stats": [
+                "7",
+                "2",
+                "0",
+                "5",
+                "0",
+                "0",
+                "0",
+                "1",
+                "13"
+              ]
+            },
+            {
+              "rank": "8",
+              "org": "St John's",
+              "team": "1st VI",
+              "stats": [
+                "7",
+                "1",
+                "0",
+                "6",
+                "0",
+                "0",
+                "0",
+                "1",
+                "10"
+              ]
+            }
+          ]
+        },
+        {
+          "division": "Girls 2nd VI",
+          "headers": [
+            "Rank",
+            "Team",
+            "P",
+            "W",
+            "FW",
+            "L",
+            "FL",
+            "D",
+            "C",
+            "Byes",
+            "Points"
+          ],
+          "rows": [
+            {
+              "rank": "1",
+              "org": "Ormiston",
+              "team": "2nd VI",
+              "stats": [
+                "7",
+                "7",
+                "0",
+                "0",
+                "0",
+                "0",
+                "0",
+                "1",
+                "28"
+              ]
+            },
+            {
+              "rank": "2",
+              "org": "CHAC",
+              "team": "2nd VI",
+              "stats": [
+                "7",
+                "6",
+                "0",
+                "1",
+                "0",
+                "0",
+                "0",
+                "1",
+                "25"
+              ]
+            },
+            {
+              "rank": "3",
+              "org": "Canterbury",
+              "team": "2nd VI",
+              "stats": [
+                "7",
+                "5",
+                "0",
+                "2",
+                "0",
+                "0",
+                "0",
+                "1",
+                "22"
+              ]
+            },
+            {
+              "rank": "4",
+              "org": "St Columban's",
+              "team": "2nd VI",
+              "stats": [
+                "7",
+                "4",
+                "0",
+                "3",
+                "0",
+                "0",
+                "0",
+                "1",
+                "19"
+              ]
+            },
+            {
+              "rank": "5",
+              "org": "John Paul",
+              "team": "2nd VI",
+              "stats": [
+                "7",
+                "3",
+                "0",
+                "4",
+                "0",
+                "0",
+                "0",
+                "1",
+                "16"
+              ]
+            },
+            {
+              "rank": "6",
+              "org": "St John's",
+              "team": "2nd VI",
+              "stats": [
+                "7",
+                "2",
+                "0",
+                "5",
+                "0",
+                "0",
+                "0",
+                "1",
+                "13"
+              ]
+            },
+            {
+              "rank": "7",
+              "org": "WestMAC",
+              "team": "2nd VI",
+              "stats": [
+                "7",
+                "1",
+                "0",
+                "6",
+                "0",
+                "0",
+                "0",
+                "1",
+                "10"
+              ]
+            },
+            {
+              "rank": "8",
+              "org": "St Paul's",
+              "team": "2nd VI",
+              "stats": [
+                "7",
+                "0",
+                "0",
+                "7",
+                "0",
+                "0",
+                "0",
+                "1",
+                "7"
+              ]
+            }
+          ]
+        },
+        {
+          "division": "Girls Junior Shield (Division 1)",
+          "headers": [
+            "Rank",
+            "Team",
+            "P",
+            "W",
+            "FW",
+            "L",
+            "FL",
+            "D",
+            "C",
+            "Byes",
+            "Points"
+          ],
+          "rows": [
+            {
+              "rank": "1",
+              "org": "Ormiston",
+              "team": "Year 8 Blue",
+              "stats": [
+                "7",
+                "7",
+                "0",
+                "0",
+                "0",
+                "0",
+                "0",
+                "1",
+                "28"
+              ]
+            },
+            {
+              "rank": "2",
+              "org": "CHAC",
+              "team": "Year 8 Blue",
+              "stats": [
+                "7",
+                "6",
+                "0",
+                "1",
+                "0",
+                "0",
+                "0",
+                "1",
+                "25"
+              ]
+            },
+            {
+              "rank": "2",
+              "org": "St Columban's",
+              "team": "Junior Sky Blue",
+              "stats": [
+                "7",
+                "6",
+                "0",
+                "1",
+                "0",
+                "0",
+                "0",
+                "1",
+                "25"
+              ]
+            },
+            {
+              "rank": "4",
+              "org": "Ormiston",
+              "team": "Year 8 White",
+              "stats": [
+                "7",
+                "5",
+                "0",
+                "2",
+                "0",
+                "0",
+                "0",
+                "1",
+                "22"
+              ]
+            },
+            {
+              "rank": "5",
+              "org": "Canterbury",
+              "team": "Year 8 Navy",
+              "stats": [
+                "7",
+                "4",
+                "0",
+                "3",
+                "0",
+                "0",
+                "0",
+                "1",
+                "19"
+              ]
+            },
+            {
+              "rank": "6",
+              "org": "Ormiston",
+              "team": "Year 8 Red",
+              "stats": [
+                "7",
+                "3",
+                "0",
+                "4",
+                "0",
+                "0",
+                "0",
+                "1",
+                "16"
+              ]
+            },
+            {
+              "rank": "7",
+              "org": "St Paul's",
+              "team": "Year 8 Red",
+              "stats": [
+                "7",
+                "2",
+                "0",
+                "5",
+                "0",
+                "0",
+                "0",
+                "1",
+                "13"
+              ]
+            },
+            {
+              "rank": "8",
+              "org": "CHAC",
+              "team": "Year 8 Red",
+              "stats": [
+                "7",
+                "1",
+                "0",
+                "6",
+                "0",
+                "0",
+                "0",
+                "1",
+                "10"
+              ]
+            },
+            {
+              "rank": "8",
+              "org": "Canterbury",
+              "team": "Year 7 Navy",
+              "stats": [
+                "7",
+                "1",
+                "0",
+                "6",
+                "0",
+                "0",
+                "0",
+                "1",
+                "10"
+              ]
+            },
+            {
+              "rank": "10",
+              "org": "WestMAC",
+              "team": "Junior Navy",
+              "stats": [
+                "7",
+                "0",
+                "0",
+                "7",
+                "0",
+                "0",
+                "0",
+                "1",
+                "7"
+              ]
+            }
+          ]
+        },
+        {
+          "division": "Girls Junior Shield (Division 2)",
+          "headers": [
+            "Rank",
+            "Team",
+            "P",
+            "W",
+            "FW",
+            "L",
+            "FL",
+            "D",
+            "C",
+            "Byes",
+            "Points"
+          ],
+          "rows": [
+            {
+              "rank": "1",
+              "org": "St John's",
+              "team": "Year 7 Red",
+              "stats": [
+                "6",
+                "6",
+                "0",
+                "0",
+                "0",
+                "0",
+                "0",
+                "2",
+                "24"
+              ]
+            },
+            {
+              "rank": "2",
+              "org": "CHAC",
+              "team": "Year 7 Blue",
+              "stats": [
+                "6",
+                "5",
+                "0",
+                "1",
+                "0",
+                "0",
+                "0",
+                "2",
+                "21"
+              ]
+            },
+            {
+              "rank": "3",
+              "org": "John Paul",
+              "team": "Year 7/8 Blue",
+              "stats": [
+                "6",
+                "3",
+                "0",
+                "3",
+                "0",
+                "0",
+                "0",
+                "2",
+                "15"
+              ]
+            },
+            {
+              "rank": "3",
+              "org": "Ormiston",
+              "team": "Year 7 Blue",
+              "stats": [
+                "6",
+                "3",
+                "0",
+                "3",
+                "0",
+                "0",
+                "0",
+                "2",
+                "15"
+              ]
+            },
+            {
+              "rank": "5",
+              "org": "St Columban's",
+              "team": "Junior Blue",
+              "stats": [
+                "6",
+                "2",
+                "0",
+                "4",
+                "0",
+                "0",
+                "0",
+                "2",
+                "12"
+              ]
+            },
+            {
+              "rank": "6",
+              "org": "Canterbury",
+              "team": "Year 8 Red",
+              "stats": [
+                "6",
+                "1",
+                "0",
+                "5",
+                "0",
+                "0",
+                "0",
+                "1",
+                "9"
+              ]
+            },
+            {
+              "rank": "6",
+              "org": "St Paul's",
+              "team": "Year 7 Red",
+              "stats": [
+                "6",
+                "1",
+                "0",
+                "5",
+                "0",
+                "0",
+                "0",
+                "0",
+                "9"
+              ]
+            }
+          ]
+        },
+        {
+          "division": "Girls Year 10",
+          "headers": [
+            "Rank",
+            "Team",
+            "P",
+            "W",
+            "FW",
+            "L",
+            "FL",
+            "D",
+            "C",
+            "Byes",
+            "Points"
+          ],
+          "rows": [
+            {
+              "rank": "1",
+              "org": "CHAC",
+              "team": "Year 10",
+              "stats": [
+                "7",
+                "7",
+                "0",
+                "0",
+                "0",
+                "0",
+                "0",
+                "1",
+                "28"
+              ]
+            },
+            {
+              "rank": "2",
+              "org": "Ormiston",
+              "team": "Year 10",
+              "stats": [
+                "7",
+                "6",
+                "0",
+                "1",
+                "0",
+                "0",
+                "0",
+                "1",
+                "25"
+              ]
+            },
+            {
+              "rank": "3",
+              "org": "St John's",
+              "team": "Year 10",
+              "stats": [
+                "7",
+                "5",
+                "0",
+                "2",
+                "0",
+                "0",
+                "0",
+                "1",
+                "22"
+              ]
+            },
+            {
+              "rank": "4",
+              "org": "Canterbury",
+              "team": "Year 10",
+              "stats": [
+                "7",
+                "4",
+                "0",
+                "3",
+                "0",
+                "0",
+                "0",
+                "1",
+                "19"
+              ]
+            },
+            {
+              "rank": "5",
+              "org": "WestMAC",
+              "team": "Year 10",
+              "stats": [
+                "7",
+                "3",
+                "0",
+                "4",
+                "0",
+                "0",
+                "0",
+                "1",
+                "16"
+              ]
+            },
+            {
+              "rank": "6",
+              "org": "John Paul",
+              "team": "Year 10",
+              "stats": [
+                "7",
+                "2",
+                "0",
+                "5",
+                "0",
+                "0",
+                "0",
+                "1",
+                "13"
+              ]
+            },
+            {
+              "rank": "7",
+              "org": "St Columban's",
+              "team": "Year 10",
+              "stats": [
+                "7",
+                "1",
+                "0",
+                "6",
+                "0",
+                "0",
+                "0",
+                "1",
+                "10"
+              ]
+            },
+            {
+              "rank": "8",
+              "org": "St Paul's",
+              "team": "Year 10",
+              "stats": [
+                "7",
+                "0",
+                "0",
+                "7",
+                "0",
+                "0",
+                "0",
+                "1",
+                "7"
+              ]
+            }
+          ]
+        },
+        {
+          "division": "Girls Year 9",
+          "headers": [
+            "Rank",
+            "Team",
+            "P",
+            "W",
+            "FW",
+            "L",
+            "FL",
+            "D",
+            "C",
+            "Byes",
+            "Points"
+          ],
+          "rows": [
+            {
+              "rank": "1",
+              "org": "Ormiston",
+              "team": "Year 9",
+              "stats": [
+                "7",
+                "7",
+                "0",
+                "0",
+                "0",
+                "0",
+                "0",
+                "1",
+                "28"
+              ]
+            },
+            {
+              "rank": "2",
+              "org": "CHAC",
+              "team": "Year 9",
+              "stats": [
+                "7",
+                "6",
+                "0",
+                "1",
+                "0",
+                "0",
+                "0",
+                "1",
+                "25"
+              ]
+            },
+            {
+              "rank": "3",
+              "org": "St Paul's",
+              "team": "Year 9",
+              "stats": [
+                "7",
+                "5",
+                "0",
+                "2",
+                "0",
+                "0",
+                "0",
+                "1",
+                "22"
+              ]
+            },
+            {
+              "rank": "4",
+              "org": "Canterbury",
+              "team": "Year 9",
+              "stats": [
+                "7",
+                "4",
+                "0",
+                "3",
+                "0",
+                "0",
+                "0",
+                "1",
+                "19"
+              ]
+            },
+            {
+              "rank": "5",
+              "org": "John Paul",
+              "team": "Year 9",
+              "stats": [
+                "7",
+                "2",
+                "0",
+                "5",
+                "0",
+                "0",
+                "0",
+                "1",
+                "13"
+              ]
+            },
+            {
+              "rank": "5",
+              "org": "St John's",
+              "team": "Year 9",
+              "stats": [
+                "7",
+                "2",
+                "0",
+                "5",
+                "0",
+                "0",
+                "0",
+                "1",
+                "13"
+              ]
+            },
+            {
+              "rank": "7",
+              "org": "St Columban's",
+              "team": "Year 9",
+              "stats": [
+                "7",
+                "1",
+                "0",
+                "6",
+                "0",
+                "0",
+                "0",
+                "1",
+                "10"
+              ]
+            },
+            {
+              "rank": "7",
+              "org": "WestMAC",
+              "team": "Year 9",
+              "stats": [
+                "7",
+                "1",
+                "0",
+                "6",
+                "0",
+                "0",
+                "0",
+                "1",
+                "10"
+              ]
+            }
+          ]
+        },
+        {
+          "division": "Girls Year 8",
+          "headers": [
+            "Rank",
+            "Team",
+            "P",
+            "W",
+            "FW",
+            "L",
+            "FL",
+            "D",
+            "C",
+            "Byes",
+            "Points"
+          ],
+          "rows": [
+            {
+              "rank": "1",
+              "org": "CHAC",
+              "team": "Year 8",
+              "stats": [
+                "7",
+                "7",
+                "0",
+                "0",
+                "0",
+                "0",
+                "0",
+                "1",
+                "28"
+              ]
+            },
+            {
+              "rank": "2",
+              "org": "St Columban's",
+              "team": "Year 8",
+              "stats": [
+                "7",
+                "6",
+                "0",
+                "1",
+                "0",
+                "0",
+                "0",
+                "1",
+                "25"
+              ]
+            },
+            {
+              "rank": "3",
+              "org": "Ormiston",
+              "team": "Year 8",
+              "stats": [
+                "7",
+                "5",
+                "0",
+                "2",
+                "0",
+                "0",
+                "0",
+                "1",
+                "22"
+              ]
+            },
+            {
+              "rank": "4",
+              "org": "St John's",
+              "team": "Year 8",
+              "stats": [
+                "7",
+                "3",
+                "0",
+                "4",
+                "0",
+                "0",
+                "0",
+                "1",
+                "16"
+              ]
+            },
+            {
+              "rank": "4",
+              "org": "St Paul's",
+              "team": "Year 8",
+              "stats": [
+                "7",
+                "3",
+                "0",
+                "4",
+                "0",
+                "0",
+                "0",
+                "1",
+                "16"
+              ]
+            },
+            {
+              "rank": "6",
+              "org": "Canterbury",
+              "team": "Year 8",
+              "stats": [
+                "7",
+                "2",
+                "0",
+                "5",
+                "0",
+                "0",
+                "0",
+                "1",
+                "13"
+              ]
+            },
+            {
+              "rank": "6",
+              "org": "WestMAC",
+              "team": "Year 8",
+              "stats": [
+                "7",
+                "2",
+                "0",
+                "5",
+                "0",
+                "0",
+                "0",
+                "1",
+                "13"
+              ]
+            },
+            {
+              "rank": "8",
+              "org": "John Paul",
+              "team": "Year 8",
+              "stats": [
+                "7",
+                "0",
+                "0",
+                "7",
+                "0",
+                "0",
+                "0",
+                "1",
+                "7"
+              ]
+            }
+          ]
+        },
+        {
+          "division": "Girls Year 7",
+          "headers": [
+            "Rank",
+            "Team",
+            "P",
+            "W",
+            "FW",
+            "L",
+            "FL",
+            "D",
+            "C",
+            "Byes",
+            "Points"
+          ],
+          "rows": [
+            {
+              "rank": "1",
+              "org": "CHAC",
+              "team": "Year 7",
+              "stats": [
+                "7",
+                "6",
+                "0",
+                "1",
+                "0",
+                "0",
+                "0",
+                "1",
+                "25"
+              ]
+            },
+            {
+              "rank": "1",
+              "org": "John Paul",
+              "team": "Year 7",
+              "stats": [
+                "7",
+                "6",
+                "0",
+                "1",
+                "0",
+                "0",
+                "0",
+                "1",
+                "25"
+              ]
+            },
+            {
+              "rank": "1",
+              "org": "Ormiston",
+              "team": "Year 7",
+              "stats": [
+                "7",
+                "6",
+                "0",
+                "1",
+                "0",
+                "0",
+                "0",
+                "1",
+                "25"
+              ]
+            },
+            {
+              "rank": "4",
+              "org": "Canterbury",
+              "team": "Year 7",
+              "stats": [
+                "7",
+                "3",
+                "0",
+                "4",
+                "0",
+                "0",
+                "0",
+                "1",
+                "16"
+              ]
+            },
+            {
+              "rank": "4",
+              "org": "St Columban's",
+              "team": "Year 7",
+              "stats": [
+                "7",
+                "3",
+                "0",
+                "4",
+                "0",
+                "0",
+                "0",
+                "1",
+                "16"
+              ]
+            },
+            {
+              "rank": "4",
+              "org": "St John's",
+              "team": "Year 7",
+              "stats": [
+                "7",
+                "3",
+                "0",
+                "4",
+                "0",
+                "0",
+                "0",
+                "1",
+                "16"
+              ]
+            },
+            {
+              "rank": "7",
+              "org": "WestMAC",
+              "team": "Year 7",
+              "stats": [
+                "7",
+                "1",
+                "0",
+                "6",
+                "0",
+                "0",
+                "0",
+                "1",
+                "10"
+              ]
+            },
+            {
+              "rank": "8",
+              "org": "St Paul's",
+              "team": "Year 7",
+              "stats": [
+                "7",
+                "0",
+                "0",
+                "7",
+                "0",
+                "0",
+                "0",
+                "1",
+                "7"
+              ]
+            }
+          ]
+        },
+        {
+          "division": "Girls Senior Shield",
+          "headers": [
+            "Rank",
+            "Team",
+            "P",
+            "W",
+            "FW",
+            "L",
+            "FL",
+            "D",
+            "C",
+            "Byes",
+            "Points"
+          ],
+          "rows": [
+            {
+              "rank": "1",
+              "org": "CHAC",
+              "team": "4th VI",
+              "stats": [
+                "5",
+                "5",
+                "0",
+                "0",
+                "0",
+                "0",
+                "0",
+                "2",
+                "20"
+              ]
+            },
+            {
+              "rank": "2",
+              "org": "CHAC",
+              "team": "3rd VI",
+              "stats": [
+                "5",
+                "3",
+                "0",
+                "2",
+                "0",
+                "0",
+                "0",
+                "3",
+                "14"
+              ]
+            },
+            {
+              "rank": "3",
+              "org": "CHAC",
+              "team": "5th VI",
+              "stats": [
+                "5",
+                "2",
+                "0",
+                "3",
+                "0",
+                "0",
+                "0",
+                "3",
+                "11"
+              ]
+            },
+            {
+              "rank": "3",
+              "org": "Ormiston",
+              "team": "3rd VI",
+              "stats": [
+                "5",
+                "2",
+                "0",
+                "3",
+                "0",
+                "0",
+                "0",
+                "3",
+                "11"
+              ]
+            },
+            {
+              "rank": "3",
+              "org": "St Columban's",
+              "team": "3rd VI",
+              "stats": [
+                "5",
+                "2",
+                "0",
+                "3",
+                "0",
+                "0",
+                "0",
+                "3",
+                "11"
+              ]
+            },
+            {
+              "rank": "6",
+              "org": "John Paul",
+              "team": "3rd VI",
+              "stats": [
+                "5",
+                "1",
+                "0",
+                "4",
+                "0",
+                "0",
+                "0",
+                "3",
+                "8"
+              ]
+            },
+            {
+              "rank": "7",
+              "org": "Canterbury",
+              "team": "3rd VI",
+              "stats": [
+                "0",
+                "0",
+                "0",
+                "0",
+                "0",
+                "0",
+                "0",
+                "0",
+                "0"
+              ]
+            }
+          ]
+        },
+        {
+          "division": "Girls Intermediate Shield (Division 1)",
+          "headers": [
+            "Rank",
+            "Team",
+            "P",
+            "W",
+            "FW",
+            "L",
+            "FL",
+            "D",
+            "C",
+            "Byes",
+            "Points"
+          ],
+          "rows": [
+            {
+              "rank": "1",
+              "org": "CHAC",
+              "team": "Year 10 Blue",
+              "stats": [
+                "7",
+                "7",
+                "0",
+                "0",
+                "0",
+                "0",
+                "0",
+                "1",
+                "28"
+              ]
+            },
+            {
+              "rank": "2",
+              "org": "CHAC",
+              "team": "Year 9 Blue",
+              "stats": [
+                "7",
+                "5",
+                "0",
+                "2",
+                "0",
+                "0",
+                "0",
+                "1",
+                "22"
+              ]
+            },
+            {
+              "rank": "3",
+              "org": "Canterbury",
+              "team": "Year 10 Navy",
+              "stats": [
+                "7",
+                "4",
+                "0",
+                "3",
+                "0",
+                "0",
+                "0",
+                "1",
+                "19"
+              ]
+            },
+            {
+              "rank": "4",
+              "org": "Ormiston",
+              "team": "Year 10 Blue",
+              "stats": [
+                "7",
+                "3",
+                "0",
+                "4",
+                "0",
+                "0",
+                "0",
+                "1",
                 "16"
               ]
             },
             {
               "rank": "5",
               "org": "Canterbury",
-              "grade": "Year 9 Navy",
-              "team": "",
+              "team": "Year 9 Navy",
+              "stats": [
+                "7",
+                "2",
+                "0",
+                "5",
+                "0",
+                "0",
+                "0",
+                "1",
+                "13"
+              ]
+            },
+            {
+              "rank": "6",
+              "org": "John Paul",
+              "team": "Year 10 Blue",
+              "stats": [
+                "7",
+                "0",
+                "0",
+                "7",
+                "0",
+                "0",
+                "0",
+                "1",
+                "7"
+              ]
+            }
+          ]
+        },
+        {
+          "division": "Girls Intermediate Shield (Division 2)",
+          "headers": [
+            "Rank",
+            "Team",
+            "P",
+            "W",
+            "FW",
+            "L",
+            "FL",
+            "D",
+            "C",
+            "Byes",
+            "Points"
+          ],
+          "rows": [
+            {
+              "rank": "1",
+              "org": "St Columban's",
+              "team": "Intermediate Blue",
               "stats": [
                 "6",
-                "3",
+                "6",
+                "0",
+                "0",
+                "0",
+                "0",
+                "1",
+                "1",
+                "26"
+              ]
+            },
+            {
+              "rank": "2",
+              "org": "CHAC",
+              "team": "Year 10 Red",
+              "stats": [
+                "7",
+                "4",
+                "1",
+                "2",
+                "0",
+                "0",
+                "0",
+                "1",
+                "22"
+              ]
+            },
+            {
+              "rank": "3",
+              "org": "CHAC",
+              "team": "Year 9 Red",
+              "stats": [
+                "7",
+                "4",
                 "0",
                 "3",
                 "0",
+                "0",
+                "0",
+                "1",
+                "19"
+              ]
+            },
+            {
+              "rank": "3",
+              "org": "Ormiston",
+              "team": "Year 9 Blue",
+              "stats": [
+                "7",
+                "4",
+                "0",
+                "3",
+                "0",
+                "0",
+                "0",
+                "1",
+                "19"
+              ]
+            },
+            {
+              "rank": "5",
+              "org": "John Paul",
+              "team": "Year 8/9 Blue",
+              "stats": [
+                "7",
+                "4",
+                "0",
+                "2",
+                "1",
+                "0",
+                "0",
+                "1",
+                "18"
+              ]
+            },
+            {
+              "rank": "6",
+              "org": "WestMAC",
+              "team": "Intermediate Rust",
+              "stats": [
+                "7",
+                "2",
+                "0",
+                "5",
+                "0",
+                "0",
+                "0",
+                "0",
+                "13"
+              ]
+            },
+            {
+              "rank": "7",
+              "org": "John Paul",
+              "team": "Year 9/10 Burgundy",
+              "stats": [
+                "6",
+                "1",
+                "0",
+                "5",
+                "0",
+                "0",
+                "1",
+                "1",
+                "11"
+              ]
+            },
+            {
+              "rank": "8",
+              "org": "Canterbury",
+              "team": "Year 9/10 Red",
+              "stats": [
+                "7",
+                "1",
+                "0",
+                "6",
+                "0",
+                "0",
+                "0",
+                "1",
+                "10"
+              ]
+            },
+            {
+              "rank": "9",
+              "org": "Ormiston",
+              "team": "Year 9/10 Red",
+              "stats": [
+                "0",
+                "0",
+                "0",
+                "0",
+                "0",
+                "0",
+                "0",
+                "0",
+                "0"
+              ]
+            }
+          ]
+        },
+        {
+          "division": "Girls Junior Shield (Division 3)",
+          "headers": [
+            "Rank",
+            "Team",
+            "P",
+            "W",
+            "FW",
+            "L",
+            "FL",
+            "D",
+            "C",
+            "Byes",
+            "Points"
+          ],
+          "rows": [
+            {
+              "rank": "1",
+              "org": "CHAC",
+              "team": "Year 7 Red",
+              "stats": [
+                "7",
+                "5",
+                "1",
+                "1",
+                "0",
+                "0",
+                "0",
+                "1",
+                "25"
+              ]
+            },
+            {
+              "rank": "1",
+              "org": "John Paul",
+              "team": "Year 7 White",
+              "stats": [
+                "7",
+                "6",
+                "0",
+                "1",
+                "0",
+                "0",
+                "0",
+                "1",
+                "25"
+              ]
+            },
+            {
+              "rank": "3",
+              "org": "Ormiston",
+              "team": "Year 7 Red",
+              "stats": [
+                "7",
+                "4",
+                "0",
+                "3",
+                "0",
+                "0",
+                "0",
+                "1",
+                "19"
+              ]
+            },
+            {
+              "rank": "4",
+              "org": "Canterbury",
+              "team": "Year 7 Red",
+              "stats": [
+                "7",
+                "3",
+                "0",
+                "3",
+                "1",
                 "0",
                 "0",
                 "1",
@@ -1357,68 +3305,637 @@
             },
             {
               "rank": "5",
-              "org": "Ormiston",
-              "grade": "Year 9 Blue",
-              "team": "",
+              "org": "CHAC",
+              "team": "Year 7 White",
               "stats": [
-                "6",
-                "3",
-                "0",
-                "3",
+                "7",
+                "1",
+                "1",
+                "5",
                 "0",
                 "0",
                 "0",
                 "1",
-                "15"
+                "13"
+              ]
+            },
+            {
+              "rank": "6",
+              "org": "John Paul",
+              "team": "Year 7 Burgundy",
+              "stats": [
+                "7",
+                "0",
+                "0",
+                "6",
+                "1",
+                "0",
+                "0",
+                "1",
+                "6"
+              ]
+            },
+            {
+              "rank": "7",
+              "org": "Ormiston",
+              "team": "Year 7 White",
+              "stats": [
+                "0",
+                "0",
+                "0",
+                "0",
+                "0",
+                "0",
+                "0",
+                "0",
+                "0"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sport": "Football/Soccer (Boys)",
+      "divisions": [
+        {
+          "division": "Boys Year 10",
+          "headers": [
+            "Rank",
+            "Team",
+            "P",
+            "W",
+            "FW",
+            "L",
+            "FL",
+            "D",
+            "C",
+            "Byes",
+            "Points"
+          ],
+          "rows": [
+            {
+              "rank": "1",
+              "org": "CHAC",
+              "team": "Year 10",
+              "stats": [
+                "7",
+                "6",
+                "0",
+                "0",
+                "0",
+                "1",
+                "0",
+                "1",
+                "26"
+              ]
+            },
+            {
+              "rank": "2",
+              "org": "John Paul",
+              "team": "Year 10",
+              "stats": [
+                "7",
+                "6",
+                "0",
+                "1",
+                "0",
+                "0",
+                "0",
+                "1",
+                "25"
+              ]
+            },
+            {
+              "rank": "3",
+              "org": "Canterbury",
+              "team": "Year 10",
+              "stats": [
+                "7",
+                "5",
+                "0",
+                "1",
+                "0",
+                "1",
+                "0",
+                "1",
+                "23"
+              ]
+            },
+            {
+              "rank": "4",
+              "org": "Ormiston",
+              "team": "Year 10",
+              "stats": [
+                "7",
+                "3",
+                "0",
+                "3",
+                "0",
+                "1",
+                "0",
+                "1",
+                "17"
               ]
             },
             {
               "rank": "5",
               "org": "St Paul's",
-              "grade": "Year 9 Red",
-              "team": "",
+              "team": "Year 10",
               "stats": [
-                "6",
+                "7",
                 "3",
                 "0",
-                "3",
+                "4",
                 "0",
                 "0",
                 "0",
                 "1",
-                "15"
+                "16"
+              ]
+            },
+            {
+              "rank": "6",
+              "org": "St Columban's",
+              "team": "Year 10",
+              "stats": [
+                "7",
+                "2",
+                "0",
+                "4",
+                "0",
+                "1",
+                "0",
+                "1",
+                "14"
+              ]
+            },
+            {
+              "rank": "7",
+              "org": "WestMAC",
+              "team": "Year 10",
+              "stats": [
+                "7",
+                "1",
+                "0",
+                "6",
+                "0",
+                "0",
+                "0",
+                "1",
+                "10"
               ]
             },
             {
               "rank": "8",
-              "org": "John Paul",
-              "grade": "Intermediate Burgundy",
-              "team": "",
+              "org": "St John's",
+              "team": "Year 10",
               "stats": [
-                "5",
+                "7",
                 "0",
                 "0",
-                "5",
+                "7",
                 "0",
-                "0",
-                "2",
-                "0",
-                "9"
-              ]
-            },
-            {
-              "rank": "9",
-              "org": "CHAC",
-              "grade": "Year 9 Red",
-              "team": "",
-              "stats": [
-                "5",
-                "0",
-                "0",
-                "5",
                 "0",
                 "0",
                 "1",
+                "7"
+              ]
+            }
+          ]
+        },
+        {
+          "division": "Boys Year 9",
+          "headers": [
+            "Rank",
+            "Team",
+            "P",
+            "W",
+            "FW",
+            "L",
+            "FL",
+            "D",
+            "C",
+            "Byes",
+            "Points"
+          ],
+          "rows": [
+            {
+              "rank": "1",
+              "org": "St Columban's",
+              "team": "Year 9",
+              "stats": [
+                "7",
+                "5",
+                "0",
+                "1",
+                "0",
+                "1",
+                "0",
+                "1",
+                "23"
+              ]
+            },
+            {
+              "rank": "1",
+              "org": "St Paul's",
+              "team": "Year 9",
+              "stats": [
+                "7",
+                "5",
+                "0",
+                "1",
+                "0",
+                "1",
+                "0",
+                "1",
+                "23"
+              ]
+            },
+            {
+              "rank": "3",
+              "org": "CHAC",
+              "team": "Year 9",
+              "stats": [
+                "7",
+                "4",
+                "0",
+                "3",
+                "0",
+                "0",
+                "0",
+                "1",
+                "19"
+              ]
+            },
+            {
+              "rank": "3",
+              "org": "John Paul",
+              "team": "Year 9",
+              "stats": [
+                "7",
+                "4",
+                "0",
+                "3",
+                "0",
+                "0",
+                "0",
+                "1",
+                "19"
+              ]
+            },
+            {
+              "rank": "3",
+              "org": "Ormiston",
+              "team": "Year 9",
+              "stats": [
+                "7",
+                "4",
+                "0",
+                "3",
+                "0",
+                "0",
+                "0",
+                "1",
+                "19"
+              ]
+            },
+            {
+              "rank": "6",
+              "org": "St John's",
+              "team": "Year 9",
+              "stats": [
+                "7",
+                "3",
+                "0",
+                "4",
+                "0",
+                "0",
+                "0",
+                "1",
+                "16"
+              ]
+            },
+            {
+              "rank": "7",
+              "org": "Canterbury",
+              "team": "Year 9",
+              "stats": [
+                "7",
+                "1",
+                "0",
+                "6",
+                "0",
+                "0",
+                "0",
+                "1",
+                "10"
+              ]
+            },
+            {
+              "rank": "7",
+              "org": "WestMAC",
+              "team": "Year 9",
+              "stats": [
+                "7",
+                "1",
+                "0",
+                "6",
+                "0",
+                "0",
+                "0",
+                "1",
+                "10"
+              ]
+            }
+          ]
+        },
+        {
+          "division": "Boys Year 8",
+          "headers": [
+            "Rank",
+            "Team",
+            "P",
+            "W",
+            "FW",
+            "L",
+            "FL",
+            "D",
+            "C",
+            "Byes",
+            "Points"
+          ],
+          "rows": [
+            {
+              "rank": "1",
+              "org": "John Paul",
+              "team": "Year 8",
+              "stats": [
+                "7",
+                "7",
+                "0",
+                "0",
+                "0",
+                "0",
+                "0",
+                "1",
+                "28"
+              ]
+            },
+            {
+              "rank": "2",
+              "org": "Ormiston",
+              "team": "Year 8",
+              "stats": [
+                "7",
+                "6",
+                "0",
+                "1",
+                "0",
+                "0",
+                "0",
+                "1",
+                "25"
+              ]
+            },
+            {
+              "rank": "3",
+              "org": "CHAC",
+              "team": "Year 8",
+              "stats": [
+                "7",
+                "5",
+                "0",
+                "2",
+                "0",
+                "0",
+                "0",
+                "1",
+                "22"
+              ]
+            },
+            {
+              "rank": "4",
+              "org": "St John's",
+              "team": "Year 8",
+              "stats": [
+                "7",
+                "4",
+                "0",
+                "3",
+                "0",
+                "0",
+                "0",
+                "1",
+                "19"
+              ]
+            },
+            {
+              "rank": "5",
+              "org": "Canterbury",
+              "team": "Boys Year 8",
+              "stats": [
+                "7",
+                "2",
+                "0",
+                "4",
+                "0",
+                "1",
+                "0",
+                "1",
+                "14"
+              ]
+            },
+            {
+              "rank": "6",
+              "org": "St Columban's",
+              "team": "Year 8",
+              "stats": [
+                "7",
+                "1",
+                "0",
+                "5",
+                "0",
+                "1",
+                "0",
+                "1",
+                "11"
+              ]
+            },
+            {
+              "rank": "6",
+              "org": "St Paul's",
+              "team": "Year 8",
+              "stats": [
+                "7",
+                "1",
+                "0",
+                "5",
+                "0",
+                "1",
+                "0",
+                "1",
+                "11"
+              ]
+            },
+            {
+              "rank": "8",
+              "org": "WestMAC",
+              "team": "Year 8",
+              "stats": [
+                "7",
+                "0",
+                "0",
+                "6",
+                "0",
+                "1",
+                "0",
+                "1",
+                "8"
+              ]
+            }
+          ]
+        },
+        {
+          "division": "Boys Year 7",
+          "headers": [
+            "Rank",
+            "Team",
+            "P",
+            "W",
+            "FW",
+            "L",
+            "FL",
+            "D",
+            "C",
+            "Byes",
+            "Points"
+          ],
+          "rows": [
+            {
+              "rank": "1",
+              "org": "John Paul",
+              "team": "Year 7",
+              "stats": [
+                "7",
+                "7",
+                "0",
+                "0",
+                "0",
+                "0",
+                "0",
+                "1",
+                "28"
+              ]
+            },
+            {
+              "rank": "2",
+              "org": "WestMAC",
+              "team": "Year 7",
+              "stats": [
+                "7",
+                "6",
+                "0",
+                "1",
+                "0",
+                "0",
+                "0",
+                "1",
+                "25"
+              ]
+            },
+            {
+              "rank": "3",
+              "org": "CHAC",
+              "team": "Year 7",
+              "stats": [
+                "7",
+                "5",
+                "0",
+                "2",
+                "0",
+                "0",
+                "0",
+                "1",
+                "22"
+              ]
+            },
+            {
+              "rank": "4",
+              "org": "St Columban's",
+              "team": "Year 7",
+              "stats": [
+                "7",
+                "3",
+                "0",
+                "3",
+                "0",
+                "1",
+                "0",
+                "1",
+                "17"
+              ]
+            },
+            {
+              "rank": "5",
+              "org": "St John's",
+              "team": "Year 7",
+              "stats": [
+                "7",
+                "3",
+                "0",
+                "4",
+                "0",
+                "0",
+                "0",
+                "1",
+                "16"
+              ]
+            },
+            {
+              "rank": "6",
+              "org": "Ormiston",
+              "team": "Year 7",
+              "stats": [
+                "7",
+                "2",
+                "0",
+                "5",
+                "0",
+                "0",
+                "0",
+                "1",
+                "13"
+              ]
+            },
+            {
+              "rank": "7",
+              "org": "St Paul's",
+              "team": "Year 7",
+              "stats": [
+                "7",
+                "1",
+                "0",
+                "5",
+                "0",
+                "1",
+                "0",
+                "1",
+                "11"
+              ]
+            },
+            {
+              "rank": "8",
+              "org": "Canterbury",
+              "team": "Year 7",
+              "stats": [
+                "7",
+                "0",
+                "0",
+                "7",
+                "0",
+                "0",
+                "0",
                 "1",
                 "7"
               ]
@@ -1444,25 +3961,7 @@
             {
               "rank": "1",
               "org": "CHAC",
-              "grade": "Year 8 Blue",
-              "team": "",
-              "stats": [
-                "5",
-                "5",
-                "0",
-                "0",
-                "0",
-                "0",
-                "2",
-                "0",
-                "24"
-              ]
-            },
-            {
-              "rank": "2",
-              "org": "Ormiston",
-              "grade": "Year 8 Blue",
-              "team": "",
+              "team": "Year 8 Blue",
               "stats": [
                 "6",
                 "5",
@@ -1470,67 +3969,339 @@
                 "1",
                 "0",
                 "0",
-                "1",
                 "0",
-                "23"
+                "2",
+                "21"
               ]
             },
             {
-              "rank": "3",
-              "org": "St John's",
-              "grade": "Boys Year 8 Red",
-              "team": "",
+              "rank": "1",
+              "org": "CHAC",
+              "team": "Year 8 Red",
               "stats": [
+                "6",
                 "5",
-                "4",
                 "0",
                 "1",
                 "0",
                 "0",
-                "2",
                 "0",
+                "2",
+                "21"
+              ]
+            },
+            {
+              "rank": "1",
+              "org": "John Paul",
+              "team": "Year 7 Blue",
+              "stats": [
+                "6",
+                "5",
+                "0",
+                "1",
+                "0",
+                "0",
+                "0",
+                "2",
                 "21"
               ]
             },
             {
               "rank": "4",
-              "org": "St Paul's",
-              "grade": "Year 8 Red",
-              "team": "",
-              "stats": [
-                "5",
-                "3",
-                "0",
-                "2",
-                "0",
-                "0",
-                "2",
-                "0",
-                "18"
-              ]
-            },
-            {
-              "rank": "5",
-              "org": "WestMAC",
-              "grade": "Junior Navy",
-              "team": "",
+              "org": "Ormiston",
+              "team": "Year 8 Blue",
               "stats": [
                 "6",
-                "3",
+                "2",
                 "0",
                 "3",
-                "0",
                 "0",
                 "1",
                 "0",
-                "17"
+                "2",
+                "13"
+              ]
+            },
+            {
+              "rank": "4",
+              "org": "WestMAC",
+              "team": "Junior Navy",
+              "stats": [
+                "6",
+                "2",
+                "0",
+                "3",
+                "0",
+                "1",
+                "0",
+                "2",
+                "13"
               ]
             },
             {
               "rank": "6",
+              "org": "CHAC",
+              "team": "Year 7 Blue",
+              "stats": [
+                "6",
+                "1",
+                "0",
+                "5",
+                "0",
+                "0",
+                "0",
+                "2",
+                "9"
+              ]
+            },
+            {
+              "rank": "7",
+              "org": "St Paul's",
+              "team": "Year 7/8 Red",
+              "stats": [
+                "6",
+                "0",
+                "0",
+                "6",
+                "0",
+                "0",
+                "0",
+                "2",
+                "6"
+              ]
+            }
+          ]
+        },
+        {
+          "division": "Boys 1st XI",
+          "headers": [
+            "Rank",
+            "Team",
+            "P",
+            "W",
+            "FW",
+            "L",
+            "FL",
+            "D",
+            "C",
+            "Byes",
+            "Points"
+          ],
+          "rows": [
+            {
+              "rank": "1",
+              "org": "Ormiston",
+              "team": "1st XI",
+              "stats": [
+                "7",
+                "6",
+                "0",
+                "1",
+                "0",
+                "0",
+                "0",
+                "1",
+                "25"
+              ]
+            },
+            {
+              "rank": "2",
+              "org": "CHAC",
+              "team": "1st XI",
+              "stats": [
+                "7",
+                "5",
+                "0",
+                "1",
+                "0",
+                "1",
+                "0",
+                "1",
+                "23"
+              ]
+            },
+            {
+              "rank": "2",
+              "org": "WestMAC",
+              "team": "1st XI",
+              "stats": [
+                "7",
+                "5",
+                "0",
+                "1",
+                "0",
+                "1",
+                "0",
+                "1",
+                "23"
+              ]
+            },
+            {
+              "rank": "4",
+              "org": "St Paul's",
+              "team": "1st XI",
+              "stats": [
+                "7",
+                "5",
+                "0",
+                "2",
+                "0",
+                "0",
+                "0",
+                "1",
+                "22"
+              ]
+            },
+            {
+              "rank": "5",
+              "org": "St Columban's",
+              "team": "1st XI",
+              "stats": [
+                "7",
+                "2",
+                "0",
+                "4",
+                "0",
+                "1",
+                "0",
+                "1",
+                "14"
+              ]
+            },
+            {
+              "rank": "6",
+              "org": "St John's",
+              "team": "1st XI",
+              "stats": [
+                "7",
+                "2",
+                "0",
+                "5",
+                "0",
+                "0",
+                "0",
+                "1",
+                "13"
+              ]
+            },
+            {
+              "rank": "7",
               "org": "Canterbury",
-              "grade": "Year 8 Navy",
-              "team": "",
+              "team": "1st XI",
+              "stats": [
+                "7",
+                "1",
+                "0",
+                "6",
+                "0",
+                "0",
+                "0",
+                "1",
+                "10"
+              ]
+            },
+            {
+              "rank": "8",
+              "org": "John Paul",
+              "team": "1st XI",
+              "stats": [
+                "7",
+                "0",
+                "0",
+                "6",
+                "0",
+                "1",
+                "0",
+                "1",
+                "8"
+              ]
+            }
+          ]
+        },
+        {
+          "division": "Boys 2nd XI",
+          "headers": [
+            "Rank",
+            "Team",
+            "P",
+            "W",
+            "FW",
+            "L",
+            "FL",
+            "D",
+            "C",
+            "Byes",
+            "Points"
+          ],
+          "rows": [
+            {
+              "rank": "1",
+              "org": "CHAC",
+              "team": "2nd XI",
+              "stats": [
+                "7",
+                "6",
+                "0",
+                "1",
+                "0",
+                "0",
+                "0",
+                "1",
+                "25"
+              ]
+            },
+            {
+              "rank": "1",
+              "org": "St John's",
+              "team": "2nd XI",
+              "stats": [
+                "7",
+                "6",
+                "0",
+                "1",
+                "0",
+                "0",
+                "0",
+                "1",
+                "25"
+              ]
+            },
+            {
+              "rank": "3",
+              "org": "St Columban's",
+              "team": "2nd XI",
+              "stats": [
+                "7",
+                "5",
+                "0",
+                "2",
+                "0",
+                "0",
+                "0",
+                "1",
+                "22"
+              ]
+            },
+            {
+              "rank": "4",
+              "org": "Ormiston",
+              "team": "2nd XI",
+              "stats": [
+                "7",
+                "4",
+                "0",
+                "2",
+                "0",
+                "1",
+                "0",
+                "1",
+                "20"
+              ]
+            },
+            {
+              "rank": "5",
+              "org": "Canterbury",
+              "team": "2nd XI",
               "stats": [
                 "7",
                 "3",
@@ -1539,32 +4310,46 @@
                 "0",
                 "0",
                 "0",
-                "0",
+                "1",
                 "16"
               ]
             },
             {
-              "rank": "7",
-              "org": "John Paul",
-              "grade": "Junior Blue",
-              "team": "",
+              "rank": "6",
+              "org": "St Paul's",
+              "team": "2nd XI",
               "stats": [
                 "7",
                 "1",
                 "0",
-                "6",
+                "4",
                 "0",
+                "2",
                 "0",
+                "1",
+                "12"
+              ]
+            },
+            {
+              "rank": "7",
+              "org": "WestMAC",
+              "team": "2nd XI",
+              "stats": [
+                "7",
+                "1",
                 "0",
+                "5",
                 "0",
-                "10"
+                "1",
+                "0",
+                "1",
+                "11"
               ]
             },
             {
               "rank": "8",
-              "org": "St Columban's",
-              "grade": "Junior Blue",
-              "team": "",
+              "org": "John Paul",
+              "team": "2nd XI",
               "stats": [
                 "7",
                 "0",
@@ -1573,14 +4358,14 @@
                 "0",
                 "0",
                 "0",
-                "0",
+                "1",
                 "7"
               ]
             }
           ]
         },
         {
-          "division": "Boys Junior Shield (Division 2)",
+          "division": "Boys Intermediate Shield",
           "headers": [
             "Rank",
             "Team",
@@ -1597,385 +4382,72 @@
           "rows": [
             {
               "rank": "1",
-              "org": "CHAC",
-              "grade": "Year 8 Red",
-              "team": "",
+              "org": "Ormiston",
+              "team": "Year 10 Blue",
               "stats": [
-                "6",
+                "7",
                 "5",
                 "0",
-                "0",
-                "0",
-                "1",
                 "1",
                 "0",
-                "24"
+                "1",
+                "0",
+                "1",
+                "23"
               ]
             },
             {
               "rank": "1",
-              "org": "Ormiston",
-              "grade": "Year 8 Red",
-              "team": "",
-              "stats": [
-                "6",
-                "5",
-                "0",
-                "0",
-                "0",
-                "1",
-                "1",
-                "0",
-                "24"
-              ]
-            },
-            {
-              "rank": "3",
-              "org": "Canterbury",
-              "grade": "Year 8 Red",
-              "team": "",
-              "stats": [
-                "7",
-                "4",
-                "0",
-                "3",
-                "0",
-                "0",
-                "0",
-                "0",
-                "19"
-              ]
-            },
-            {
-              "rank": "4",
-              "org": "St Paul's",
-              "grade": "Year 8 Green",
-              "team": "",
-              "stats": [
-                "5",
-                "3",
-                "0",
-                "2",
-                "0",
-                "0",
-                "2",
-                "0",
-                "18"
-              ]
-            },
-            {
-              "rank": "5",
-              "org": "St John's",
-              "grade": "Boys Year 7 Red",
-              "team": "",
-              "stats": [
-                "6",
-                "3",
-                "0",
-                "3",
-                "0",
-                "0",
-                "1",
-                "0",
-                "17"
-              ]
-            },
-            {
-              "rank": "6",
-              "org": "John Paul",
-              "grade": "Junior Burgundy",
-              "team": "",
-              "stats": [
-                "6",
-                "2",
-                "0",
-                "4",
-                "0",
-                "0",
-                "1",
-                "0",
-                "14"
-              ]
-            },
-            {
-              "rank": "7",
-              "org": "St Columban's",
-              "grade": "Junior Sky Blue",
-              "team": "",
-              "stats": [
-                "6",
-                "1",
-                "0",
-                "5",
-                "0",
-                "0",
-                "1",
-                "0",
-                "11"
-              ]
-            },
-            {
-              "rank": "8",
               "org": "WestMAC",
-              "grade": "Junior Rust",
-              "team": "",
-              "stats": [
-                "6",
-                "0",
-                "0",
-                "6",
-                "0",
-                "0",
-                "1",
-                "0",
-                "8"
-              ]
-            }
-          ]
-        },
-        {
-          "division": "Boys Junior Shield (Division 3)",
-          "headers": [
-            "Rank",
-            "Team",
-            "P",
-            "W",
-            "FW",
-            "L",
-            "FL",
-            "D",
-            "C",
-            "Byes",
-            "Points"
-          ],
-          "rows": [
-            {
-              "rank": "1",
-              "org": "Ormiston",
-              "grade": "Year 8 White",
-              "team": "",
-              "stats": [
-                "6",
-                "6",
-                "0",
-                "0",
-                "0",
-                "0",
-                "1",
-                "0",
-                "26"
-              ]
-            },
-            {
-              "rank": "2",
-              "org": "CHAC",
-              "grade": "Year 7 Blue",
-              "team": "",
-              "stats": [
-                "6",
-                "4",
-                "0",
-                "2",
-                "0",
-                "0",
-                "1",
-                "0",
-                "20"
-              ]
-            },
-            {
-              "rank": "3",
-              "org": "CHAC",
-              "grade": "Year 8 Green",
-              "team": "",
+              "team": "Intermediate Navy",
               "stats": [
                 "7",
-                "4",
-                "0",
-                "3",
-                "0",
-                "0",
-                "0",
-                "0",
-                "19"
-              ]
-            },
-            {
-              "rank": "3",
-              "org": "CHAC",
-              "grade": "Year 8 Gold",
-              "team": "",
-              "stats": [
-                "7",
-                "4",
-                "0",
-                "3",
-                "0",
-                "0",
-                "0",
-                "0",
-                "19"
-              ]
-            },
-            {
-              "rank": "3",
-              "org": "CHAC",
-              "grade": "Year 8 White",
-              "team": "",
-              "stats": [
-                "7",
-                "4",
-                "0",
-                "3",
-                "0",
-                "0",
-                "0",
-                "0",
-                "19"
-              ]
-            },
-            {
-              "rank": "6",
-              "org": "WestMAC",
-              "grade": "Junior Red",
-              "team": "",
-              "stats": [
-                "6",
-                "2",
-                "0",
-                "4",
-                "0",
-                "0",
-                "1",
-                "0",
-                "14"
-              ]
-            },
-            {
-              "rank": "7",
-              "org": "Ormiston",
-              "grade": "Year 8 Purple",
-              "team": "",
-              "stats": [
-                "7",
-                "2",
-                "0",
-                "5",
-                "0",
-                "0",
-                "0",
-                "0",
-                "13"
-              ]
-            },
-            {
-              "rank": "8",
-              "org": "St Paul's",
-              "grade": "Year 7 Red",
-              "team": "",
-              "stats": [
-                "6",
-                "0",
-                "0",
-                "6",
-                "0",
-                "0",
-                "1",
-                "0",
-                "8"
-              ]
-            }
-          ]
-        },
-        {
-          "division": "Boys Intermediate Shield (Division 3)",
-          "headers": [
-            "Rank",
-            "Team",
-            "P",
-            "W",
-            "FW",
-            "L",
-            "FL",
-            "D",
-            "C",
-            "Byes",
-            "Points"
-          ],
-          "rows": [
-            {
-              "rank": "1",
-              "org": "St John's",
-              "grade": "Boys Year 9 Red",
-              "team": "",
-              "stats": [
-                "6",
-                "6",
-                "0",
-                "0",
-                "0",
-                "0",
-                "1",
-                "0",
-                "26"
-              ]
-            },
-            {
-              "rank": "2",
-              "org": "CHAC",
-              "grade": "Year 10 White",
-              "team": "",
-              "stats": [
-                "6",
                 "5",
                 "0",
                 "1",
                 "0",
-                "0",
                 "1",
                 "0",
+                "1",
                 "23"
               ]
             },
             {
               "rank": "3",
-              "org": "Ormiston",
-              "grade": "Year 9 White",
-              "team": "",
+              "org": "CHAC",
+              "team": "Year 10 Blue",
               "stats": [
                 "7",
                 "4",
                 "0",
+                "0",
+                "0",
                 "3",
                 "0",
                 "0",
-                "0",
-                "0",
-                "19"
+                "22"
               ]
             },
             {
               "rank": "4",
-              "org": "CHAC",
-              "grade": "Year 10 Gold",
-              "team": "",
+              "org": "John Paul",
+              "team": "Year 8/9 Blue",
               "stats": [
-                "6",
+                "7",
                 "3",
                 "0",
                 "3",
-                "0",
                 "0",
                 "1",
                 "0",
+                "1",
                 "17"
               ]
             },
             {
               "rank": "5",
-              "org": "CHAC",
-              "grade": "Year 9 Gold",
-              "team": "",
+              "org": "Ormiston",
+              "team": "Year 9 Blue",
               "stats": [
                 "7",
                 "3",
@@ -1984,65 +4456,911 @@
                 "0",
                 "0",
                 "0",
-                "0",
+                "1",
                 "16"
               ]
             },
             {
               "rank": "6",
-              "org": "Ormiston",
-              "grade": "Year 9 Red",
-              "team": "",
+              "org": "CHAC",
+              "team": "Year 9 Blue",
               "stats": [
-                "6",
+                "7",
                 "2",
                 "0",
-                "4",
+                "3",
+                "0",
+                "2",
+                "0",
+                "1",
+                "15"
+              ]
+            },
+            {
+              "rank": "7",
+              "org": "St Paul's",
+              "team": "Year 9/10 Red",
+              "stats": [
+                "7",
+                "2",
+                "0",
+                "5",
+                "0",
+                "0",
+                "0",
+                "1",
+                "13"
+              ]
+            },
+            {
+              "rank": "8",
+              "org": "Canterbury",
+              "team": "Year 7 - 9 Shield",
+              "stats": [
+                "7",
+                "0",
+                "0",
+                "7",
+                "0",
+                "0",
+                "0",
+                "1",
+                "7"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sport": "Touch Football",
+      "divisions": [
+        {
+          "division": "Year 8",
+          "headers": [
+            "Rank",
+            "Team",
+            "P",
+            "W",
+            "FW",
+            "L",
+            "FL",
+            "D",
+            "C",
+            "Byes",
+            "Points"
+          ],
+          "rows": [
+            {
+              "rank": "1",
+              "org": "John Paul",
+              "team": "Year 8",
+              "stats": [
+                "7",
+                "6",
+                "0",
                 "0",
                 "0",
                 "1",
                 "0",
+                "1",
+                "26"
+              ]
+            },
+            {
+              "rank": "2",
+              "org": "WestMAC",
+              "team": "Year 8",
+              "stats": [
+                "7",
+                "5",
+                "0",
+                "0",
+                "0",
+                "2",
+                "0",
+                "1",
+                "24"
+              ]
+            },
+            {
+              "rank": "3",
+              "org": "Ormiston",
+              "team": "Year 8",
+              "stats": [
+                "7",
+                "5",
+                "0",
+                "1",
+                "0",
+                "1",
+                "0",
+                "1",
+                "23"
+              ]
+            },
+            {
+              "rank": "4",
+              "org": "St Columban's",
+              "team": "Year 8",
+              "stats": [
+                "7",
+                "3",
+                "0",
+                "4",
+                "0",
+                "0",
+                "0",
+                "1",
+                "16"
+              ]
+            },
+            {
+              "rank": "5",
+              "org": "CHAC",
+              "team": "Year 8",
+              "stats": [
+                "7",
+                "2",
+                "0",
+                "4",
+                "0",
+                "1",
+                "0",
+                "1",
+                "14"
+              ]
+            },
+            {
+              "rank": "5",
+              "org": "Canterbury",
+              "team": "Year 8",
+              "stats": [
+                "7",
+                "2",
+                "0",
+                "4",
+                "0",
+                "1",
+                "0",
+                "1",
                 "14"
               ]
             },
             {
               "rank": "7",
-              "org": "CHAC",
-              "grade": "Year 9 White",
-              "team": "",
+              "org": "St Paul's",
+              "team": "Year 8",
               "stats": [
                 "7",
-                "1",
-                "1",
+                "2",
+                "0",
                 "5",
                 "0",
                 "0",
+                "0",
+                "1",
+                "13"
+              ]
+            },
+            {
+              "rank": "8",
+              "org": "St John's",
+              "team": "Year 8",
+              "stats": [
+                "7",
+                "0",
+                "0",
+                "7",
+                "0",
+                "0",
+                "0",
+                "1",
+                "7"
+              ]
+            }
+          ]
+        },
+        {
+          "division": "Year 7",
+          "headers": [
+            "Rank",
+            "Team",
+            "P",
+            "W",
+            "FW",
+            "L",
+            "FL",
+            "D",
+            "C",
+            "Byes",
+            "Points"
+          ],
+          "rows": [
+            {
+              "rank": "1",
+              "org": "John Paul",
+              "team": "Year 7",
+              "stats": [
+                "7",
+                "6",
+                "0",
+                "0",
+                "0",
+                "1",
+                "0",
+                "1",
+                "26"
+              ]
+            },
+            {
+              "rank": "2",
+              "org": "CHAC",
+              "team": "Year 7",
+              "stats": [
+                "7",
+                "5",
+                "0",
+                "0",
+                "0",
+                "2",
+                "0",
+                "1",
+                "24"
+              ]
+            },
+            {
+              "rank": "3",
+              "org": "Ormiston",
+              "team": "Year 7",
+              "stats": [
+                "7",
+                "5",
+                "0",
+                "1",
+                "0",
+                "1",
+                "0",
+                "1",
+                "23"
+              ]
+            },
+            {
+              "rank": "4",
+              "org": "WestMAC",
+              "team": "Year 7",
+              "stats": [
+                "7",
+                "4",
+                "0",
+                "3",
+                "0",
+                "0",
+                "0",
+                "1",
+                "19"
+              ]
+            },
+            {
+              "rank": "5",
+              "org": "Canterbury",
+              "team": "Year 7",
+              "stats": [
+                "7",
+                "3",
+                "0",
+                "4",
+                "0",
+                "0",
+                "0",
+                "1",
+                "16"
+              ]
+            },
+            {
+              "rank": "6",
+              "org": "St John's",
+              "team": "Year 7",
+              "stats": [
+                "7",
+                "2",
+                "0",
+                "5",
+                "0",
+                "0",
+                "0",
+                "1",
+                "13"
+              ]
+            },
+            {
+              "rank": "7",
+              "org": "St Columban's",
+              "team": "Year 7",
+              "stats": [
+                "7",
+                "1",
+                "0",
+                "6",
+                "0",
+                "0",
+                "0",
+                "1",
+                "10"
+              ]
+            },
+            {
+              "rank": "8",
+              "org": "St Paul's",
+              "team": "Year 7",
+              "stats": [
+                "7",
+                "0",
+                "0",
+                "7",
+                "0",
+                "0",
+                "0",
+                "1",
+                "7"
+              ]
+            }
+          ]
+        },
+        {
+          "division": "Intermediate Shield",
+          "headers": [
+            "Rank",
+            "Team",
+            "P",
+            "W",
+            "FW",
+            "L",
+            "FL",
+            "D",
+            "C",
+            "Byes",
+            "Points"
+          ],
+          "rows": [
+            {
+              "rank": "1",
+              "org": "Ormiston",
+              "team": "Year 9 Blue",
+              "stats": [
+                "7",
+                "6",
+                "0",
+                "0",
+                "0",
+                "1",
+                "0",
+                "1",
+                "26"
+              ]
+            },
+            {
+              "rank": "2",
+              "org": "CHAC",
+              "team": "Year 9 Blue",
+              "stats": [
+                "7",
+                "6",
+                "0",
+                "1",
+                "0",
+                "0",
+                "0",
+                "1",
+                "25"
+              ]
+            },
+            {
+              "rank": "3",
+              "org": "St Paul's",
+              "team": "Year 9/10 Green",
+              "stats": [
+                "7",
+                "3",
+                "2",
+                "1",
+                "0",
+                "1",
+                "0",
+                "0",
+                "23"
+              ]
+            },
+            {
+              "rank": "4",
+              "org": "St Columban's",
+              "team": "Intermediate Navy",
+              "stats": [
+                "7",
+                "4",
+                "0",
+                "3",
+                "0",
+                "0",
+                "0",
+                "1",
+                "19"
+              ]
+            },
+            {
+              "rank": "5",
+              "org": "CHAC",
+              "team": "3rd VI",
+              "stats": [
+                "7",
+                "2",
+                "0",
+                "3",
+                "1",
+                "1",
                 "0",
                 "0",
                 "13"
               ]
             },
             {
-              "rank": "8",
-              "org": "St Paul's",
-              "grade": "Year 9 Green",
-              "team": "",
+              "rank": "6",
+              "org": "John Paul",
+              "team": "Year 10 Blue",
               "stats": [
-                "5",
-                "0",
+                "7",
+                "1",
                 "0",
                 "4",
-                "1",
                 "0",
                 "2",
                 "0",
-                "8"
+                "1",
+                "12"
+              ]
+            },
+            {
+              "rank": "7",
+              "org": "John Paul",
+              "team": "Year 9 Burgundy",
+              "stats": [
+                "7",
+                "1",
+                "0",
+                "4",
+                "1",
+                "1",
+                "0",
+                "1",
+                "10"
+              ]
+            },
+            {
+              "rank": "8",
+              "org": "WestMAC",
+              "team": "Intermediate Rust",
+              "stats": [
+                "7",
+                "0",
+                "0",
+                "7",
+                "0",
+                "0",
+                "0",
+                "1",
+                "7"
+              ]
+            },
+            {
+              "rank": "9",
+              "org": "John Paul",
+              "team": "Year 9 White",
+              "stats": [
+                "0",
+                "0",
+                "0",
+                "0",
+                "0",
+                "0",
+                "0",
+                "1",
+                "0"
               ]
             }
           ]
         },
         {
-          "division": "Boys Junior Shield (Division 4)",
+          "division": "Junior Shield (Division 1)",
+          "headers": [
+            "Rank",
+            "Team",
+            "P",
+            "W",
+            "FW",
+            "L",
+            "FL",
+            "D",
+            "C",
+            "Byes",
+            "Points"
+          ],
+          "rows": [
+            {
+              "rank": "1",
+              "org": "John Paul",
+              "team": "Year 8 Blue",
+              "stats": [
+                "6",
+                "5",
+                "0",
+                "1",
+                "0",
+                "0",
+                "0",
+                "2",
+                "21"
+              ]
+            },
+            {
+              "rank": "1",
+              "org": "WestMAC",
+              "team": "Junior Navy",
+              "stats": [
+                "6",
+                "5",
+                "0",
+                "1",
+                "0",
+                "0",
+                "0",
+                "2",
+                "21"
+              ]
+            },
+            {
+              "rank": "3",
+              "org": "Canterbury",
+              "team": "Year 7/8 Navy",
+              "stats": [
+                "6",
+                "4",
+                "0",
+                "2",
+                "0",
+                "0",
+                "0",
+                "2",
+                "18"
+              ]
+            },
+            {
+              "rank": "4",
+              "org": "CHAC",
+              "team": "Year 8 Blue",
+              "stats": [
+                "6",
+                "3",
+                "0",
+                "3",
+                "0",
+                "0",
+                "0",
+                "2",
+                "15"
+              ]
+            },
+            {
+              "rank": "5",
+              "org": "Ormiston",
+              "team": "Year 8 Blue",
+              "stats": [
+                "6",
+                "1",
+                "0",
+                "5",
+                "0",
+                "0",
+                "0",
+                "2",
+                "9"
+              ]
+            },
+            {
+              "rank": "6",
+              "org": "St Paul's",
+              "team": "Year 7/8 Green",
+              "stats": [
+                "6",
+                "0",
+                "0",
+                "6",
+                "0",
+                "0",
+                "0",
+                "2",
+                "6"
+              ]
+            },
+            {
+              "rank": "7",
+              "org": "St Columban's",
+              "team": "Junior Navy",
+              "stats": [
+                "0",
+                "0",
+                "0",
+                "0",
+                "0",
+                "0",
+                "0",
+                "1",
+                "0"
+              ]
+            }
+          ]
+        },
+        {
+          "division": "Junior Shield (Division 2)",
+          "headers": [
+            "Rank",
+            "Team",
+            "P",
+            "W",
+            "FW",
+            "L",
+            "FL",
+            "D",
+            "C",
+            "Byes",
+            "Points"
+          ],
+          "rows": [
+            {
+              "rank": "1",
+              "org": "Ormiston",
+              "team": "Year 7 Blue",
+              "stats": [
+                "6",
+                "5",
+                "0",
+                "1",
+                "0",
+                "0",
+                "0",
+                "2",
+                "21"
+              ]
+            },
+            {
+              "rank": "2",
+              "org": "CHAC",
+              "team": "Year 7 Blue",
+              "stats": [
+                "6",
+                "4",
+                "0",
+                "2",
+                "0",
+                "0",
+                "0",
+                "2",
+                "18"
+              ]
+            },
+            {
+              "rank": "2",
+              "org": "WestMAC",
+              "team": "Junior Gold",
+              "stats": [
+                "6",
+                "4",
+                "0",
+                "2",
+                "0",
+                "0",
+                "0",
+                "2",
+                "18"
+              ]
+            },
+            {
+              "rank": "4",
+              "org": "John Paul",
+              "team": "Year 7 Burgundy",
+              "stats": [
+                "6",
+                "2",
+                "0",
+                "4",
+                "0",
+                "0",
+                "0",
+                "2",
+                "12"
+              ]
+            },
+            {
+              "rank": "5",
+              "org": "John Paul",
+              "team": "Year 7 Blue",
+              "stats": [
+                "6",
+                "0",
+                "0",
+                "6",
+                "0",
+                "0",
+                "0",
+                "3",
+                "6"
+              ]
+            },
+            {
+              "rank": "6",
+              "org": "WestMAC",
+              "team": "Junior Rust",
+              "stats": [
+                "0",
+                "0",
+                "0",
+                "0",
+                "0",
+                "0",
+                "0",
+                "1",
+                "0"
+              ]
+            }
+          ]
+        },
+        {
+          "division": "1st VI",
+          "headers": [
+            "Rank",
+            "Team",
+            "P",
+            "W",
+            "FW",
+            "L",
+            "FL",
+            "D",
+            "C",
+            "Byes",
+            "Points"
+          ],
+          "rows": [
+            {
+              "rank": "1",
+              "org": "Ormiston",
+              "team": "1st VI",
+              "stats": [
+                "7",
+                "7",
+                "0",
+                "0",
+                "0",
+                "0",
+                "0",
+                "1",
+                "28"
+              ]
+            },
+            {
+              "rank": "2",
+              "org": "CHAC",
+              "team": "1st VI",
+              "stats": [
+                "7",
+                "6",
+                "0",
+                "1",
+                "0",
+                "0",
+                "0",
+                "1",
+                "25"
+              ]
+            },
+            {
+              "rank": "3",
+              "org": "Canterbury",
+              "team": "1st VI",
+              "stats": [
+                "7",
+                "5",
+                "0",
+                "2",
+                "0",
+                "0",
+                "0",
+                "1",
+                "22"
+              ]
+            },
+            {
+              "rank": "4",
+              "org": "St Columban's",
+              "team": "1st VI",
+              "stats": [
+                "7",
+                "4",
+                "0",
+                "3",
+                "0",
+                "0",
+                "0",
+                "1",
+                "19"
+              ]
+            },
+            {
+              "rank": "5",
+              "org": "St Paul's",
+              "team": "1st VI",
+              "stats": [
+                "7",
+                "3",
+                "0",
+                "4",
+                "0",
+                "0",
+                "0",
+                "1",
+                "16"
+              ]
+            },
+            {
+              "rank": "6",
+              "org": "WestMAC",
+              "team": "1st VI",
+              "stats": [
+                "7",
+                "2",
+                "0",
+                "5",
+                "0",
+                "0",
+                "0",
+                "1",
+                "13"
+              ]
+            },
+            {
+              "rank": "7",
+              "org": "John Paul",
+              "team": "1st VI",
+              "stats": [
+                "7",
+                "1",
+                "0",
+                "6",
+                "0",
+                "0",
+                "0",
+                "1",
+                "10"
+              ]
+            },
+            {
+              "rank": "8",
+              "org": "St John's",
+              "team": "1st VI",
+              "stats": [
+                "7",
+                "0",
+                "0",
+                "7",
+                "0",
+                "0",
+                "0",
+                "1",
+                "7"
+              ]
+            }
+          ]
+        },
+        {
+          "division": "2nd VI",
           "headers": [
             "Rank",
             "Team",
@@ -2060,59 +5378,55 @@
             {
               "rank": "1",
               "org": "CHAC",
-              "grade": "Year 7 Red",
-              "team": "",
+              "team": "2nd VI",
               "stats": [
                 "6",
-                "6",
-                "0",
-                "0",
+                "5",
                 "0",
                 "0",
                 "0",
                 "1",
-                "24"
-              ]
-            },
-            {
-              "rank": "2",
-              "org": "CHAC",
-              "grade": "Year 7 White",
-              "team": "",
-              "stats": [
-                "6",
-                "4",
-                "0",
-                "2",
-                "0",
-                "0",
                 "0",
                 "1",
-                "18"
+                "22"
               ]
             },
             {
-              "rank": "2",
+              "rank": "1",
               "org": "Ormiston",
-              "grade": "Year 7 White",
-              "team": "",
+              "team": "2nd VI",
               "stats": [
                 "6",
-                "4",
-                "0",
-                "2",
+                "5",
                 "0",
                 "0",
                 "0",
                 "1",
-                "18"
+                "0",
+                "1",
+                "22"
+              ]
+            },
+            {
+              "rank": "3",
+              "org": "Canterbury",
+              "team": "2nd VI",
+              "stats": [
+                "6",
+                "3",
+                "0",
+                "2",
+                "0",
+                "1",
+                "0",
+                "1",
+                "16"
               ]
             },
             {
               "rank": "4",
-              "org": "Ormiston",
-              "grade": "Year 7 Blue",
-              "team": "",
+              "org": "WestMAC",
+              "team": "2nd VI",
               "stats": [
                 "6",
                 "3",
@@ -2127,9 +5441,8 @@
             },
             {
               "rank": "5",
-              "org": "CHAC",
-              "grade": "Year 7 Gold",
-              "team": "",
+              "org": "St Columban's",
+              "team": "2nd VI",
               "stats": [
                 "6",
                 "2",
@@ -2143,27 +5456,25 @@
               ]
             },
             {
-              "rank": "5",
-              "org": "Canterbury",
-              "grade": "Year 7 Navy",
-              "team": "",
+              "rank": "6",
+              "org": "John Paul",
+              "team": "2nd VI",
               "stats": [
                 "6",
-                "2",
+                "1",
                 "0",
                 "4",
                 "0",
-                "0",
+                "1",
                 "0",
                 "1",
-                "12"
+                "10"
               ]
             },
             {
               "rank": "7",
-              "org": "Ormiston",
-              "grade": "Year 7 Red",
-              "team": "",
+              "org": "St Paul's",
+              "team": "2nd VI",
               "stats": [
                 "6",
                 "0",
@@ -2178,9 +5489,8 @@
             },
             {
               "rank": "8",
-              "org": "WestMAC",
-              "grade": "Junior Gold",
-              "team": "",
+              "org": "St John's",
+              "team": "2nd VI",
               "stats": [
                 "0",
                 "0",
@@ -2194,118 +5504,298 @@
               ]
             }
           ]
-        }
-      ],
-      "canterburyResults": [
-        {
-          "sport": "Basketball",
-          "gender": "Boys Basketball",
-          "grade": "Boys Junior Shield (Division 1)",
-          "home": "John Paul Year 8 Burgundy",
-          "away": "Canterbury Year 8 Shield",
-          "score": "39 - 26",
-          "result": "John Paul wins",
-          "venue": "location_on Court 1 (Coleman Centre) 1 John Paul Dr, Daisy Hill QLD 4127, Australia",
-          "date": "calendar_today 5 Sep 2026 7:30am"
         },
         {
-          "sport": "Basketball",
-          "gender": "Boys Basketball",
-          "grade": "Boys Junior Shield (Division 2)",
-          "home": "John Paul Year 7 Blue",
-          "away": "Canterbury Year 7 Navy",
-          "score": "50 - 13",
-          "result": "John Paul wins",
-          "venue": "location_onPines Court Entry 4 or 5, Chatswood Rd, Daisy Hill QLD 4127, Australia",
-          "date": "calendar_today 5 Sep 2026 7:30am"
+          "division": "Year 10",
+          "headers": [
+            "Rank",
+            "Team",
+            "P",
+            "W",
+            "FW",
+            "L",
+            "FL",
+            "D",
+            "C",
+            "Byes",
+            "Points"
+          ],
+          "rows": [
+            {
+              "rank": "1",
+              "org": "St Columban's",
+              "team": "Year 10",
+              "stats": [
+                "7",
+                "7",
+                "0",
+                "0",
+                "0",
+                "0",
+                "0",
+                "1",
+                "28"
+              ]
+            },
+            {
+              "rank": "2",
+              "org": "WestMAC",
+              "team": "Year 10",
+              "stats": [
+                "7",
+                "6",
+                "0",
+                "1",
+                "0",
+                "0",
+                "0",
+                "1",
+                "25"
+              ]
+            },
+            {
+              "rank": "3",
+              "org": "CHAC",
+              "team": "Year 10",
+              "stats": [
+                "7",
+                "4",
+                "0",
+                "3",
+                "0",
+                "0",
+                "0",
+                "1",
+                "19"
+              ]
+            },
+            {
+              "rank": "3",
+              "org": "Canterbury",
+              "team": "Year 10",
+              "stats": [
+                "7",
+                "4",
+                "0",
+                "3",
+                "0",
+                "0",
+                "0",
+                "1",
+                "19"
+              ]
+            },
+            {
+              "rank": "5",
+              "org": "John Paul",
+              "team": "Year 10",
+              "stats": [
+                "7",
+                "3",
+                "0",
+                "3",
+                "0",
+                "1",
+                "0",
+                "1",
+                "17"
+              ]
+            },
+            {
+              "rank": "6",
+              "org": "Ormiston",
+              "team": "Year 10",
+              "stats": [
+                "7",
+                "2",
+                "0",
+                "4",
+                "0",
+                "1",
+                "0",
+                "1",
+                "14"
+              ]
+            },
+            {
+              "rank": "7",
+              "org": "St Paul's",
+              "team": "Year 10",
+              "stats": [
+                "7",
+                "1",
+                "0",
+                "6",
+                "0",
+                "0",
+                "0",
+                "1",
+                "10"
+              ]
+            },
+            {
+              "rank": "8",
+              "org": "St John's",
+              "team": "Year 10",
+              "stats": [
+                "7",
+                "0",
+                "0",
+                "7",
+                "0",
+                "0",
+                "0",
+                "1",
+                "7"
+              ]
+            }
+          ]
         },
         {
-          "sport": "Basketball",
-          "gender": "Boys Basketball",
-          "grade": "Boys Year 10",
-          "home": "John Paul Year 10",
-          "away": "Canterbury Year 10",
-          "score": "35 - 39",
-          "result": "Canterbury wins",
-          "venue": "location_on Court 1 (Coleman Centre) 1 John Paul Dr, Daisy Hill QLD 4127, Australia",
-          "date": "calendar_today 5 Sep 2026 8:30am"
-        },
-        {
-          "sport": "Basketball",
-          "gender": "Boys Basketball",
-          "grade": "Boys Year 7",
-          "home": "John Paul Year 7",
-          "away": "Canterbury Year 7",
-          "score": "54 - 24",
-          "result": "John Paul wins",
-          "venue": "location_on Court 2 (Jukambi Courts) Entry 3, Chatswood Rd, Daisy Hill QLD 4127, Australia",
-          "date": "calendar_today 5 Sep 2026 8:30am"
-        },
-        {
-          "sport": "Basketball",
-          "gender": "Boys Basketball",
-          "grade": "Boys Year 8",
-          "home": "John Paul Year 8",
-          "away": "Canterbury Year 8",
-          "score": "87 - 20",
-          "result": "John Paul wins",
-          "venue": "location_on Court 2 (Jukambi Courts) Entry 3, Chatswood Rd, Daisy Hill QLD 4127, Australia",
-          "date": "calendar_today 5 Sep 2026 9:30am"
-        },
-        {
-          "sport": "Basketball",
-          "gender": "Boys Basketball",
-          "grade": "Boys 2nd V",
-          "home": "John Paul 2nd V",
-          "away": "Canterbury 2nd V",
-          "score": "25 - 21",
-          "result": "John Paul wins",
-          "venue": "location_on Court 1 (Coleman Centre) 1 John Paul Dr, Daisy Hill QLD 4127, Australia",
-          "date": "calendar_today 5 Sep 2026 9:30am"
-        },
-        {
-          "sport": "Basketball",
-          "gender": "Boys Basketball",
-          "grade": "Boys Year 9",
-          "home": "John Paul Year 9",
-          "away": "Canterbury Year 9",
-          "score": "65 - 32",
-          "result": "John Paul wins",
-          "venue": "location_on Court 2 (Jukambi Courts) Entry 3, Chatswood Rd, Daisy Hill QLD 4127, Australia",
-          "date": "calendar_today 5 Sep 2026 10:30am"
-        },
-        {
-          "sport": "Basketball",
-          "gender": "Boys Basketball",
-          "grade": "Boys Intermediate Shield (Division 2)",
-          "home": "John Paul Year 9 Blue",
-          "away": "Canterbury Year 9/10 Navy",
-          "score": "40 - 23",
-          "result": "John Paul wins",
-          "venue": "location_onPines Court Entry 4 or 5, Chatswood Rd, Daisy Hill QLD 4127, Australia",
-          "date": "calendar_today 5 Sep 2026 10:30am"
-        },
-        {
-          "sport": "Basketball",
-          "gender": "Boys Basketball",
-          "grade": "Boys 1st V",
-          "home": "John Paul 1st V",
-          "away": "Canterbury 1st V",
-          "score": "58 - 40",
-          "result": "John Paul wins",
-          "venue": "location_on Court 1 (Coleman Centre) 1 John Paul Dr, Daisy Hill QLD 4127, Australia",
-          "date": "calendar_today 5 Sep 2026 10:30am"
-        },
-        {
-          "sport": "Basketball",
-          "gender": "Boys Basketball",
-          "grade": "Boys Senior Shield",
-          "home": "John Paul 3rd V",
-          "away": "Canterbury 3rd V",
-          "score": "25 - 21",
-          "result": "John Paul wins",
-          "venue": "location_on Court 1 (Coleman Centre) 1 John Paul Dr, Daisy Hill QLD 4127, Australia",
-          "date": "calendar_today 5 Sep 2026 11:30am"
+          "division": "Year 9",
+          "headers": [
+            "Rank",
+            "Team",
+            "P",
+            "W",
+            "FW",
+            "L",
+            "FL",
+            "D",
+            "C",
+            "Byes",
+            "Points"
+          ],
+          "rows": [
+            {
+              "rank": "1",
+              "org": "CHAC",
+              "team": "Year 9",
+              "stats": [
+                "7",
+                "7",
+                "0",
+                "0",
+                "0",
+                "0",
+                "0",
+                "1",
+                "28"
+              ]
+            },
+            {
+              "rank": "2",
+              "org": "St Columban's",
+              "team": "Year 9",
+              "stats": [
+                "7",
+                "6",
+                "0",
+                "1",
+                "0",
+                "0",
+                "0",
+                "1",
+                "25"
+              ]
+            },
+            {
+              "rank": "3",
+              "org": "Ormiston",
+              "team": "Year 9",
+              "stats": [
+                "7",
+                "5",
+                "0",
+                "2",
+                "0",
+                "0",
+                "0",
+                "1",
+                "22"
+              ]
+            },
+            {
+              "rank": "4",
+              "org": "WestMAC",
+              "team": "Year 9",
+              "stats": [
+                "7",
+                "4",
+                "0",
+                "3",
+                "0",
+                "0",
+                "0",
+                "1",
+                "19"
+              ]
+            },
+            {
+              "rank": "5",
+              "org": "Canterbury",
+              "team": "Year 9",
+              "stats": [
+                "7",
+                "3",
+                "0",
+                "4",
+                "0",
+                "0",
+                "0",
+                "1",
+                "16"
+              ]
+            },
+            {
+              "rank": "6",
+              "org": "John Paul",
+              "team": "Year 9",
+              "stats": [
+                "7",
+                "2",
+                "0",
+                "5",
+                "0",
+                "0",
+                "0",
+                "1",
+                "13"
+              ]
+            },
+            {
+              "rank": "7",
+              "org": "St John's",
+              "team": "Year 9",
+              "stats": [
+                "7",
+                "1",
+                "0",
+                "6",
+                "0",
+                "0",
+                "0",
+                "1",
+                "10"
+              ]
+            },
+            {
+              "rank": "8",
+              "org": "St Paul's",
+              "team": "Year 9",
+              "stats": [
+                "7",
+                "0",
+                "0",
+                "7",
+                "0",
+                "0",
+                "0",
+                "1",
+                "7"
+              ]
+            }
+          ]
         }
       ]
     }
