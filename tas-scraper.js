@@ -21,22 +21,48 @@ const path = require('path');
 // CONFIG
 // ---------------------------------------------------------------------------
 // `schoolName` must match the org name exactly as TAS displays it (case-sensitive).
+// `organisationId` is Canterbury's numeric TAS org id (visible in the URL of any
+// fixture card's logo image, or just trust this one — it's confirmed correct).
 //
-// Each entry in `sports` is a filtered TAS "fixtures" URL for one sport/competition
-// group. To get one: open https://fixtures.clipboard.app/tas/fixtures, use the
-// Filter panel to pick a sport (and grade/competition group if it offers one),
-// then copy the URL the page lands on and paste it below. One line per sport —
-// this is the only manual step, and only needs redoing once a season (or if TAS
-// changes how a competition is grouped).
+// RESULTS come from `resultsUrl` alone, and cover EVERY sport Canterbury plays —
+// filtering the Fixtures page by organisation only (no sport/competition filter)
+// returns all of Canterbury's matches across the whole season, live-tested against
+// the real site. Nothing else needs to be added here for new sports to start
+// showing up in results/scores/the ticker.
+//
+// LADDERS are different: a ladder table only makes sense for one specific
+// sport/competition at a time (there's no such thing as a combined ladder across
+// sports), so each sport you want a ladder shown for needs its own filtered URL.
+// To get one: open the sport's ladder on fixtures.clipboard.app (either through
+// the Filter panel on /tas/fixtures, or straight to /tas/ladder?...&view=table),
+// then copy the full URL the page lands on and add it below with the correct
+// sport name. Both URL styles work fine — the script checks which tab it landed
+// on and only clicks across to "Ladders" if it needs to. This is the only manual
+// step in the whole system, and only needs doing once per sport per season.
 const CONFIG = {
   schoolName: 'Canterbury',
-  sports: [
+  organisationId: 341,
+  resultsUrl: 'https://fixtures.clipboard.app/tas/fixtures?organisationIds=%5B341%5D',
+  // Every entry below was confirmed live against the site's own Filter panel
+  // (which shows the exact competition name, e.g. "Boys Basketball"), not
+  // guessed from the URL or the division names.
+  ladders: [
     {
-      sport: 'Basketball',
-      url: 'https://fixtures.clipboard.app/tas/fixtures?associationSeasonId=4f3d0fea-c36e-11f0-a05d-7f9e8a3a8eea&associationActivityTypeIds=%5B%22919dddc6-8763-11ef-ba61-b5575f4a157b%22%5D&associationActivityGradeIds=%5B%5D&organisationIds=%5B340,341,389,1141,434,1093,479,492,521%5D&competitionGroupIds=%5B%22e224c106-93df-45fc-b90a-f106e1f4dba6%22%5D',
+      sport: 'Basketball (Boys)',
+      url: 'https://fixtures.clipboard.app/tas/ladder?associationSeasonId=4f3d0fea-c36e-11f0-a05d-7f9e8a3a8eea&associationActivityTypeIds=%5B%5D&associationActivityGradeIds=%5B%5D&organisationIds=%5B340,341,389,1141,434,1093,479,492,521%5D&view=table&competitionGroupId=e224c106-93df-45fc-b90a-f106e1f4dba6',
     },
-    // { sport: 'Volleyball', url: 'PASTE THE VOLLEYBALL FILTER URL HERE' },
-    // { sport: 'Football (Soccer)', url: 'PASTE THE FOOTBALL FILTER URL HERE' },
+    {
+      sport: 'Volleyball (Girls)',
+      url: 'https://fixtures.clipboard.app/tas/ladder?associationSeasonId=4f3d0fea-c36e-11f0-a05d-7f9e8a3a8eea&associationActivityTypeIds=%5B%5D&associationActivityGradeIds=%5B%5D&organisationIds=%5B340,341,389,1141,434,1093,479,492,521%5D&view=table&competitionGroupId=9dcbf4eb-f176-452a-8a14-0fa99d78461e',
+    },
+    {
+      sport: 'Football/Soccer (Boys)',
+      url: 'https://fixtures.clipboard.app/tas/ladder?associationSeasonId=4f3d0fea-c36e-11f0-a05d-7f9e8a3a8eea&associationActivityTypeIds=%5B%5D&associationActivityGradeIds=%5B%5D&organisationIds=%5B340,341,389,1141,434,1093,479,492,521%5D&view=table&competitionGroupId=6b0b8ece-ebb9-44f6-b66c-864ac0237952',
+    },
+    {
+      sport: 'Touch Football',
+      url: 'https://fixtures.clipboard.app/tas/ladder?associationSeasonId=4f3d0fea-c36e-11f0-a05d-7f9e8a3a8eea&associationActivityTypeIds=%5B%5D&associationActivityGradeIds=%5B%5D&organisationIds=%5B340,341,389,1141,434,1093,479,492,521%5D&view=table&competitionGroupId=f503b0cb-2d44-4025-b76a-7b55abb4fe67',
+    },
   ],
 };
 
@@ -83,14 +109,16 @@ async function extractLadders(page) {
         const headers = Array.from(table.querySelectorAll('thead th')).map((th) => th.textContent.trim());
         const rows = Array.from(table.querySelectorAll('tbody tr')).map((tr) => {
           const cells = Array.from(tr.querySelectorAll('td'));
+          // Ladder team cells hold just [org name, team label] — e.g. ["CHAC", "1st VI"] —
+          // unlike fixture rows below, which also carry a separate grade name. The
+          // division/grade here is already the card's heading, not a per-row field.
           const teamSpans = Array.from(cells[1]?.querySelectorAll('.participant__team span') || []).map((s) =>
             s.textContent.trim()
           );
           return {
             rank: cells[0]?.textContent.trim() || '',
             org: teamSpans[0] || '',
-            grade: teamSpans[1] || '',
-            team: teamSpans[2] || '',
+            team: teamSpans[1] || '',
             // aligned with headers.slice(2) — e.g. P, W, FW, L, FL, D, C, Byes, Points
             stats: cells.slice(2).map((td) => td.textContent.trim()),
           };
@@ -172,57 +200,78 @@ async function goToNextPage(page) {
 // ---------------------------------------------------------------------------
 // Main
 // ---------------------------------------------------------------------------
+async function scrapeAllPages(page) {
+  let allRows = [];
+  let hasMore = true;
+  while (hasMore) {
+    allRows = allRows.concat(await extractFixturePage(page));
+    hasMore = await goToNextPage(page);
+  }
+  return allRows;
+}
+
 (async () => {
   const browser = await chromium.launch();
   const page = await browser.newPage();
   const targetSaturday = mostRecentSaturday();
 
-  const output = {
-    generatedAt: new Date().toISOString(),
-    weekOf: targetSaturday.toISOString().slice(0, 10),
-    sports: [],
-  };
+  // ---- results: ONE url, covers every sport Canterbury plays ----
+  console.log('Scraping results (all sports)...');
+  await page.goto(CONFIG.resultsUrl, { waitUntil: 'networkidle' });
+  await page.waitForSelector('cb-association-fixture-list table tbody tr', { timeout: 15000 }).catch(() => {});
+  const allRows = await scrapeAllPages(page);
 
-  for (const cfg of CONFIG.sports) {
-    console.log(`Scraping ${cfg.sport}...`);
+  const canterburyResults = allRows
+    .filter((r) => r.homeOrg === CONFIG.schoolName || r.awayOrg === CONFIG.schoolName)
+    .filter((r) => sameDay(parseFixtureDate(r.dateText), targetSaturday))
+    .map((r) => ({
+      sport: r.sport,
+      gender: r.gender,
+      grade: r.homeOrg === CONFIG.schoolName ? r.homeGrade : r.awayGrade,
+      home: `${r.homeOrg} ${r.homeTeam}`.trim(),
+      away: `${r.awayOrg} ${r.awayTeam}`.trim(),
+      score: r.scoreText,
+      result: r.winnerText,
+      venue: r.venueText,
+      date: r.dateText,
+    }));
+
+  // ---- ladders: one url per sport (see CONFIG comment for why) ----
+  const ladders = [];
+  for (const cfg of CONFIG.ladders) {
+    console.log(`Scraping ${cfg.sport} ladder...`);
     await page.goto(cfg.url, { waitUntil: 'networkidle' });
-
-    // ---- ladder ----
-    await clickTab(page, 'Ladders');
-    await page.waitForSelector('mat-card table', { timeout: 15000 }).catch(() => {});
-    const ladder = await extractLadders(page);
-
-    // ---- fixtures / results, paged (TAS shows up to 250 rows per page) ----
-    await clickTab(page, 'Fixtures');
-    await page.waitForSelector('cb-association-fixture-list table tbody tr', { timeout: 15000 }).catch(() => {});
-    let allRows = [];
-    let hasMore = true;
-    while (hasMore) {
-      allRows = allRows.concat(await extractFixturePage(page));
-      hasMore = await goToNextPage(page);
+    // Some ladder URLs (the old /tas/fixtures?...&competitionGroupIds=[...] style)
+    // land on the Fixtures tab and need a click across to Ladders. Others (the
+    // newer /tas/ladder?...&view=table style) already land directly on the
+    // ladder. Checking first — instead of always clicking — means this works
+    // for both URL styles without risking an extra click on a page that's
+    // already showing the ladder.
+    const alreadyOnLadder = await page
+      .waitForSelector('.ladder-header-row h3', { timeout: 5000 })
+      .then(() => true)
+      .catch(() => false);
+    if (!alreadyOnLadder) {
+      await clickTab(page, 'Ladders');
     }
-
-    const canterburyLastSaturday = allRows
-      .filter((r) => r.homeOrg === CONFIG.schoolName || r.awayOrg === CONFIG.schoolName)
-      .filter((r) => sameDay(parseFixtureDate(r.dateText), targetSaturday))
-      .map((r) => ({
-        sport: cfg.sport,
-        gender: r.gender,
-        grade: r.homeOrg === CONFIG.schoolName ? r.homeGrade : r.awayGrade,
-        home: `${r.homeOrg} ${r.homeTeam}`.trim(),
-        away: `${r.awayOrg} ${r.awayTeam}`.trim(),
-        score: r.scoreText,
-        result: r.winnerText,
-        venue: r.venueText,
-        date: r.dateText,
-      }));
-
-    output.sports.push({ sport: cfg.sport, ladder, canterburyResults: canterburyLastSaturday });
+    await page.waitForSelector('mat-card table', { timeout: 15000 }).catch(() => {});
+    const divisions = await extractLadders(page);
+    ladders.push({ sport: cfg.sport, divisions });
   }
 
   await browser.close();
+
+  const output = {
+    generatedAt: new Date().toISOString(),
+    weekOf: targetSaturday.toISOString().slice(0, 10),
+    canterburyResults,
+    ladders,
+  };
+
   fs.writeFileSync(OUTPUT_PATH, JSON.stringify(output, null, 2));
-  console.log(`Wrote ${OUTPUT_PATH} (${output.sports.length} sport(s), week of ${output.weekOf})`);
+  console.log(
+    `Wrote ${OUTPUT_PATH} (${canterburyResults.length} result(s) across all sports, ${ladders.length} ladder sport(s), week of ${output.weekOf})`
+  );
 })().catch((err) => {
   console.error('Scrape failed:', err);
   process.exit(1);
