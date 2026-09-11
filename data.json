@@ -1,7 +1,11 @@
 {
-  "generatedAt": "2026-09-11T02:49:40.988Z",
+  "generatedAt": "2026-09-11T03:06:36.941Z",
   "weekOf": "2026-09-05",
   "canterburyResults": [],
+  "upcomingFixtures": {
+    "weekOf": "2026-09-12",
+    "matches": []
+  },
   "ladders": [
     {
       "sport": "Basketball (Boys)",
