@@ -150,9 +150,21 @@ async function clickTab(page, label) {
 async function goToNextPage(page) {
   const btn = await page.$('mat-paginator button.mat-mdc-paginator-navigation-next');
   if (!btn) return false;
-  const isDisabled = await btn.evaluate((el) => el.disabled);
+  // This site's "Next page" button uses Material's "disabled-interactive" pattern:
+  // the native `disabled` property stays false even when there's nothing left to
+  // page through — it signals "no more pages" via aria-disabled="true" instead.
+  // Checking only `.disabled` (as an earlier version of this script did) makes
+  // Playwright wait forever for a button that's actually already at the end.
+  const isDisabled = await btn.evaluate((el) => el.disabled || el.getAttribute('aria-disabled') === 'true');
   if (isDisabled) return false;
-  await btn.click();
+  try {
+    await btn.click({ timeout: 5000 });
+  } catch (err) {
+    // Belt-and-braces: if a click still hangs for some other reason, don't let
+    // it crash the whole run — just stop paging and use what's been collected.
+    console.warn('Could not advance to next page, stopping pagination:', err.message);
+    return false;
+  }
   await page.waitForTimeout(1200);
   return true;
 }
