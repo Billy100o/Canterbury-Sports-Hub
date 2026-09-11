@@ -12,6 +12,9 @@
 //
 // Output: writes data.json next to this script — that's the file your dashboard
 // front end reads and displays. Nothing else needs to touch this script weekly.
+// data.json includes last Saturday's results, next Saturday's scheduled
+// fixtures (upcomingFixtures — no score yet, they haven't been played), and
+// the configured ladders.
 
 const { chromium } = require('playwright');
 const fs = require('fs');
@@ -88,6 +91,14 @@ function mostRecentSaturday(from = new Date()) {
   const diff = (d.getDay() + 1) % 7; // days since the last Saturday (Sat=6 -> 0)
   d.setDate(d.getDate() - diff);
   d.setHours(0, 0, 0, 0);
+  return d;
+}
+
+// The Saturday exactly one week after `saturday` — TAS runs weekly Saturday
+// rounds, so this is "next weekend's" fixtures.
+function nextSaturday(saturday) {
+  const d = new Date(saturday);
+  d.setDate(d.getDate() + 7);
   return d;
 }
 
@@ -214,6 +225,7 @@ async function scrapeAllPages(page) {
   const browser = await chromium.launch();
   const page = await browser.newPage();
   const targetSaturday = mostRecentSaturday();
+  const upcomingSaturday = nextSaturday(targetSaturday);
 
   // ---- results: ONE url, covers every sport Canterbury plays ----
   console.log('Scraping results (all sports)...');
@@ -221,8 +233,9 @@ async function scrapeAllPages(page) {
   await page.waitForSelector('cb-association-fixture-list table tbody tr', { timeout: 15000 }).catch(() => {});
   const allRows = await scrapeAllPages(page);
 
-  const canterburyResults = allRows
-    .filter((r) => r.homeOrg === CONFIG.schoolName || r.awayOrg === CONFIG.schoolName)
+  const canterburyRows = allRows.filter((r) => r.homeOrg === CONFIG.schoolName || r.awayOrg === CONFIG.schoolName);
+
+  const canterburyResults = canterburyRows
     .filter((r) => sameDay(parseFixtureDate(r.dateText), targetSaturday))
     .map((r) => ({
       sport: r.sport,
@@ -232,6 +245,20 @@ async function scrapeAllPages(page) {
       away: `${r.awayOrg} ${r.awayTeam}`.trim(),
       score: r.scoreText,
       result: r.winnerText,
+      venue: r.venueText,
+      date: r.dateText,
+    }));
+
+  // ---- upcoming: next Saturday's fixtures for Canterbury — no score/result yet
+  // since these haven't been played, only used for a "coming up" section ----
+  const upcomingFixtures = canterburyRows
+    .filter((r) => sameDay(parseFixtureDate(r.dateText), upcomingSaturday))
+    .map((r) => ({
+      sport: r.sport,
+      gender: r.gender,
+      grade: r.homeOrg === CONFIG.schoolName ? r.homeGrade : r.awayGrade,
+      home: `${r.homeOrg} ${r.homeTeam}`.trim(),
+      away: `${r.awayOrg} ${r.awayTeam}`.trim(),
       venue: r.venueText,
       date: r.dateText,
     }));
@@ -265,12 +292,16 @@ async function scrapeAllPages(page) {
     generatedAt: new Date().toISOString(),
     weekOf: targetSaturday.toISOString().slice(0, 10),
     canterburyResults,
+    upcomingFixtures: {
+      weekOf: upcomingSaturday.toISOString().slice(0, 10),
+      matches: upcomingFixtures,
+    },
     ladders,
   };
 
   fs.writeFileSync(OUTPUT_PATH, JSON.stringify(output, null, 2));
   console.log(
-    `Wrote ${OUTPUT_PATH} (${canterburyResults.length} result(s) across all sports, ${ladders.length} ladder sport(s), week of ${output.weekOf})`
+    `Wrote ${OUTPUT_PATH} (${canterburyResults.length} result(s), ${upcomingFixtures.length} upcoming fixture(s), ${ladders.length} ladder sport(s), week of ${output.weekOf})`
   );
 })().catch((err) => {
   console.error('Scrape failed:', err);
