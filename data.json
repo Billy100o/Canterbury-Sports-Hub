@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-09-26T10:10:33.330Z",
-  "weekOf": "2026-09-26",
+  "generatedAt": "2026-10-10T15:43:52.770Z",
+  "weekOf": "2026-10-10",
   "canterburyResults": [],
   "upcomingFixtures": {
-    "weekOf": "2026-10-03",
+    "weekOf": "2026-10-17",
     "matches": []
   },
   "ladders": [
@@ -13,7 +13,7 @@
         {
           "division": "Boys Year 10",
           "headers": [
-            "Rank",
+            "Rank#",
             "Team",
             "P",
             "W",
@@ -29,7 +29,7 @@
             {
               "rank": "1",
               "org": "CHAC",
-              "team": "Year 10",
+              "team": "CHAC",
               "stats": [
                 "7",
                 "6",
@@ -45,7 +45,7 @@
             {
               "rank": "1",
               "org": "St Columban's",
-              "team": "Year 10",
+              "team": "STC",
               "stats": [
                 "7",
                 "6",
@@ -61,7 +61,7 @@
             {
               "rank": "3",
               "org": "St Paul's",
-              "team": "Year 10",
+              "team": "SPS",
               "stats": [
                 "7",
                 "4",
@@ -77,7 +77,7 @@
             {
               "rank": "4",
               "org": "Canterbury",
-              "team": "Year 10",
+              "team": "CC",
               "stats": [
                 "7",
                 "4",
@@ -93,7 +93,7 @@
             {
               "rank": "5",
               "org": "Ormiston",
-              "team": "Year 10",
+              "team": "OC",
               "stats": [
                 "7",
                 "3",
@@ -109,7 +109,7 @@
             {
               "rank": "6",
               "org": "John Paul",
-              "team": "Year 10",
+              "team": "JPC",
               "stats": [
                 "7",
                 "2",
@@ -125,7 +125,7 @@
             {
               "rank": "7",
               "org": "St John's",
-              "team": "Year 10",
+              "team": "STJ",
               "stats": [
                 "7",
                 "1",
@@ -141,7 +141,7 @@
             {
               "rank": "8",
               "org": "WestMAC",
-              "team": "Year 10",
+              "team": "WMAC",
               "stats": [
                 "7",
                 "0",
@@ -159,7 +159,7 @@
         {
           "division": "Boys Year 9",
           "headers": [
-            "Rank",
+            "Rank#",
             "Team",
             "P",
             "W",
@@ -175,7 +175,7 @@
             {
               "rank": "1",
               "org": "St Columban's",
-              "team": "Year 9",
+              "team": "STC",
               "stats": [
                 "7",
                 "7",
@@ -191,7 +191,7 @@
             {
               "rank": "2",
               "org": "WestMAC",
-              "team": "Year 9",
+              "team": "WMAC",
               "stats": [
                 "7",
                 "6",
@@ -207,7 +207,7 @@
             {
               "rank": "3",
               "org": "John Paul",
-              "team": "Year 9",
+              "team": "JPC",
               "stats": [
                 "7",
                 "3",
@@ -223,7 +223,7 @@
             {
               "rank": "3",
               "org": "Ormiston",
-              "team": "Year 9",
+              "team": "OC",
               "stats": [
                 "7",
                 "4",
@@ -239,7 +239,7 @@
             {
               "rank": "5",
               "org": "Canterbury",
-              "team": "Year 9",
+              "team": "CC",
               "stats": [
                 "7",
                 "3",
@@ -255,7 +255,7 @@
             {
               "rank": "6",
               "org": "CHAC",
-              "team": "Year 9",
+              "team": "CHAC",
               "stats": [
                 "7",
                 "2",
@@ -271,7 +271,7 @@
             {
               "rank": "7",
               "org": "St John's",
-              "team": "Year 9",
+              "team": "STJ",
               "stats": [
                 "7",
                 "1",
@@ -287,7 +287,7 @@
             {
               "rank": "8",
               "org": "St Paul's",
-              "team": "Year 9",
+              "team": "SPS",
               "stats": [
                 "7",
                 "0",
@@ -305,7 +305,7 @@
         {
           "division": "Boys Year 8",
           "headers": [
-            "Rank",
+            "Rank#",
             "Team",
             "P",
             "W",
@@ -321,7 +321,7 @@
             {
               "rank": "1",
               "org": "John Paul",
-              "team": "Year 8",
+              "team": "JPC",
               "stats": [
                 "7",
                 "7",
@@ -337,7 +337,7 @@
             {
               "rank": "2",
               "org": "Ormiston",
-              "team": "Year 8",
+              "team": "OC",
               "stats": [
                 "7",
                 "6",
@@ -353,7 +353,7 @@
             {
               "rank": "3",
               "org": "Canterbury",
-              "team": "Year 8",
+              "team": "CC",
               "stats": [
                 "7",
                 "5",
@@ -369,7 +369,7 @@
             {
               "rank": "4",
               "org": "CHAC",
-              "team": "Year 8",
+              "team": "CHAC",
               "stats": [
                 "7",
                 "4",
@@ -385,7 +385,7 @@
             {
               "rank": "5",
               "org": "St John's",
-              "team": "Year 8",
+              "team": "STJ",
               "stats": [
                 "7",
                 "3",
@@ -401,7 +401,7 @@
             {
               "rank": "6",
               "org": "St Paul's",
-              "team": "Year 8",
+              "team": "SPS",
               "stats": [
                 "7",
                 "2",
@@ -417,7 +417,7 @@
             {
               "rank": "7",
               "org": "St Columban's",
-              "team": "Year 8",
+              "team": "STC",
               "stats": [
                 "7",
                 "1",
@@ -433,7 +433,7 @@
             {
               "rank": "8",
               "org": "WestMAC",
-              "team": "Year 8",
+              "team": "WMAC",
               "stats": [
                 "7",
                 "0",
@@ -451,7 +451,7 @@
         {
           "division": "Boys Year 7",
           "headers": [
-            "Rank",
+            "Rank#",
             "Team",
             "P",
             "W",
@@ -467,7 +467,7 @@
             {
               "rank": "1",
               "org": "WestMAC",
-              "team": "Year 7",
+              "team": "WMAC",
               "stats": [
                 "7",
                 "7",
@@ -483,7 +483,7 @@
             {
               "rank": "2",
               "org": "John Paul",
-              "team": "Year 7",
+              "team": "JPC",
               "stats": [
                 "7",
                 "6",
@@ -499,7 +499,7 @@
             {
               "rank": "3",
               "org": "CHAC",
-              "team": "Year 7",
+              "team": "CHAC",
               "stats": [
                 "7",
                 "5",
@@ -515,7 +515,7 @@
             {
               "rank": "4",
               "org": "Ormiston",
-              "team": "Year 7",
+              "team": "OC",
               "stats": [
                 "7",
                 "4",
@@ -531,7 +531,7 @@
             {
               "rank": "5",
               "org": "St Columban's",
-              "team": "Year 7",
+              "team": "STC",
               "stats": [
                 "7",
                 "2",
@@ -547,7 +547,7 @@
             {
               "rank": "5",
               "org": "St John's",
-              "team": "Year 7",
+              "team": "STJ",
               "stats": [
                 "7",
                 "2",
@@ -563,7 +563,7 @@
             {
               "rank": "7",
               "org": "St Paul's",
-              "team": "Year 7",
+              "team": "SPS",
               "stats": [
                 "7",
                 "1",
@@ -579,7 +579,7 @@
             {
               "rank": "8",
               "org": "Canterbury",
-              "team": "Year 7",
+              "team": "CC",
               "stats": [
                 "7",
                 "0",
@@ -597,7 +597,7 @@
         {
           "division": "Boys Senior Shield",
           "headers": [
-            "Rank",
+            "Rank#",
             "Team",
             "P",
             "W",
@@ -613,7 +613,7 @@
             {
               "rank": "1",
               "org": "CHAC",
-              "team": "3rd V",
+              "team": "CHAC",
               "stats": [
                 "7",
                 "6",
@@ -629,7 +629,7 @@
             {
               "rank": "1",
               "org": "CHAC",
-              "team": "4th V",
+              "team": "CHAC",
               "stats": [
                 "7",
                 "6",
@@ -645,7 +645,7 @@
             {
               "rank": "3",
               "org": "Ormiston",
-              "team": "3rd V",
+              "team": "OC",
               "stats": [
                 "7",
                 "5",
@@ -661,7 +661,7 @@
             {
               "rank": "4",
               "org": "Canterbury",
-              "team": "3rd V",
+              "team": "CC",
               "stats": [
                 "7",
                 "3",
@@ -677,7 +677,7 @@
             {
               "rank": "4",
               "org": "John Paul",
-              "team": "3rd V",
+              "team": "JPC",
               "stats": [
                 "7",
                 "4",
@@ -693,7 +693,7 @@
             {
               "rank": "6",
               "org": "CHAC",
-              "team": "5th V",
+              "team": "CHAC",
               "stats": [
                 "7",
                 "1",
@@ -709,7 +709,7 @@
             {
               "rank": "6",
               "org": "Ormiston",
-              "team": "4th V",
+              "team": "OC",
               "stats": [
                 "7",
                 "3",
@@ -725,7 +725,7 @@
             {
               "rank": "8",
               "org": "St Paul's",
-              "team": "3rd V",
+              "team": "SPS",
               "stats": [
                 "6",
                 "2",
@@ -741,7 +741,7 @@
             {
               "rank": "9",
               "org": "John Paul",
-              "team": "4th V",
+              "team": "JPC",
               "stats": [
                 "7",
                 "0",
@@ -757,7 +757,7 @@
             {
               "rank": "10",
               "org": "John Paul",
-              "team": "5th V",
+              "team": "JPC",
               "stats": [
                 "6",
                 "0",
@@ -775,7 +775,7 @@
         {
           "division": "Boys Intermediate Shield (Division 1)",
           "headers": [
-            "Rank",
+            "Rank#",
             "Team",
             "P",
             "W",
@@ -791,7 +791,7 @@
             {
               "rank": "1",
               "org": "CHAC",
-              "team": "Year 10 Blue",
+              "team": "CHAC",
               "stats": [
                 "4",
                 "3",
@@ -807,7 +807,7 @@
             {
               "rank": "1",
               "org": "John Paul",
-              "team": "Year 10 Blue",
+              "team": "JPC",
               "stats": [
                 "4",
                 "3",
@@ -823,7 +823,7 @@
             {
               "rank": "3",
               "org": "John Paul",
-              "team": "Year 10 Burgundy",
+              "team": "JPC",
               "stats": [
                 "4",
                 "2",
@@ -839,7 +839,7 @@
             {
               "rank": "4",
               "org": "CHAC",
-              "team": "Year 10 Red",
+              "team": "CHAC",
               "stats": [
                 "4",
                 "1",
@@ -855,7 +855,7 @@
             {
               "rank": "5",
               "org": "Ormiston",
-              "team": "Year 10 Blue",
+              "team": "OC",
               "stats": [
                 "4",
                 "0",
@@ -871,7 +871,7 @@
             {
               "rank": "6",
               "org": "St Paul's",
-              "team": "Year 10 Red",
+              "team": "SPS",
               "stats": [
                 "0",
                 "0",
@@ -889,7 +889,7 @@
         {
           "division": "Boys Intermediate Shield (Division 2)",
           "headers": [
-            "Rank",
+            "Rank#",
             "Team",
             "P",
             "W",
@@ -905,7 +905,7 @@
             {
               "rank": "1",
               "org": "John Paul",
-              "team": "Year 9 Blue",
+              "team": "JPC",
               "stats": [
                 "7",
                 "7",
@@ -921,7 +921,7 @@
             {
               "rank": "2",
               "org": "Ormiston",
-              "team": "Year 9 Blue",
+              "team": "OC",
               "stats": [
                 "7",
                 "6",
@@ -937,7 +937,7 @@
             {
               "rank": "3",
               "org": "John Paul",
-              "team": "Year 9 Burgundy",
+              "team": "JPC",
               "stats": [
                 "7",
                 "4",
@@ -953,7 +953,7 @@
             {
               "rank": "4",
               "org": "CHAC",
-              "team": "Year 9 Blue",
+              "team": "CHAC",
               "stats": [
                 "7",
                 "2",
@@ -969,7 +969,7 @@
             {
               "rank": "4",
               "org": "Canterbury",
-              "team": "Year 9/10 Navy",
+              "team": "CC",
               "stats": [
                 "7",
                 "2",
@@ -985,7 +985,7 @@
             {
               "rank": "6",
               "org": "Ormiston",
-              "team": "Year 8/9 Red",
+              "team": "OC",
               "stats": [
                 "7",
                 "0",
@@ -1001,7 +1001,7 @@
             {
               "rank": "7",
               "org": "St John's",
-              "team": "Year 10 Red",
+              "team": "STJ",
               "stats": [
                 "0",
                 "0",
@@ -1019,7 +1019,7 @@
         {
           "division": "Boys Junior Shield (Division 1)",
           "headers": [
-            "Rank",
+            "Rank#",
             "Team",
             "P",
             "W",
@@ -1035,7 +1035,7 @@
             {
               "rank": "1",
               "org": "John Paul",
-              "team": "Year 8 Burgundy",
+              "team": "JPC",
               "stats": [
                 "7",
                 "7",
@@ -1051,7 +1051,7 @@
             {
               "rank": "2",
               "org": "Ormiston",
-              "team": "Year 8 Blue",
+              "team": "OC",
               "stats": [
                 "7",
                 "5",
@@ -1067,7 +1067,7 @@
             {
               "rank": "3",
               "org": "John Paul",
-              "team": "Year 8 Blue",
+              "team": "JPC",
               "stats": [
                 "7",
                 "5",
@@ -1083,7 +1083,7 @@
             {
               "rank": "4",
               "org": "Canterbury",
-              "team": "Year 8 Shield",
+              "team": "CC",
               "stats": [
                 "7",
                 "4",
@@ -1099,7 +1099,7 @@
             {
               "rank": "5",
               "org": "John Paul",
-              "team": "Year 8 White",
+              "team": "JPC",
               "stats": [
                 "7",
                 "3",
@@ -1115,7 +1115,7 @@
             {
               "rank": "6",
               "org": "CHAC",
-              "team": "Year 8 Blue",
+              "team": "CHAC",
               "stats": [
                 "7",
                 "2",
@@ -1131,7 +1131,7 @@
             {
               "rank": "7",
               "org": "St Paul's",
-              "team": "Year 8 Green",
+              "team": "SPS",
               "stats": [
                 "7",
                 "1",
@@ -1147,7 +1147,7 @@
             {
               "rank": "8",
               "org": "CHAC",
-              "team": "Year 8 Red",
+              "team": "CHAC",
               "stats": [
                 "7",
                 "0",
@@ -1165,7 +1165,7 @@
         {
           "division": "Boys Junior Shield (Division 2)",
           "headers": [
-            "Rank",
+            "Rank#",
             "Team",
             "P",
             "W",
@@ -1181,7 +1181,7 @@
             {
               "rank": "1",
               "org": "John Paul",
-              "team": "Year 7 Blue",
+              "team": "JPC",
               "stats": [
                 "6",
                 "6",
@@ -1197,7 +1197,7 @@
             {
               "rank": "2",
               "org": "St Paul's",
-              "team": "Year 7/8 Red",
+              "team": "SPS",
               "stats": [
                 "6",
                 "5",
@@ -1213,7 +1213,7 @@
             {
               "rank": "3",
               "org": "John Paul",
-              "team": "Year 7 Burgundy",
+              "team": "JPC",
               "stats": [
                 "6",
                 "4",
@@ -1229,7 +1229,7 @@
             {
               "rank": "3",
               "org": "WestMAC",
-              "team": "Junior Gold",
+              "team": "WMAC",
               "stats": [
                 "6",
                 "4",
@@ -1245,7 +1245,7 @@
             {
               "rank": "5",
               "org": "CHAC",
-              "team": "Year 7 Blue",
+              "team": "CHAC",
               "stats": [
                 "6",
                 "3",
@@ -1261,7 +1261,7 @@
             {
               "rank": "5",
               "org": "CHAC",
-              "team": "Year 7 Red",
+              "team": "CHAC",
               "stats": [
                 "6",
                 "3",
@@ -1277,7 +1277,7 @@
             {
               "rank": "7",
               "org": "Canterbury",
-              "team": "Year 7 Navy",
+              "team": "CC",
               "stats": [
                 "6",
                 "1",
@@ -1293,7 +1293,7 @@
             {
               "rank": "7",
               "org": "Ormiston",
-              "team": "Year 7 Blue",
+              "team": "OC",
               "stats": [
                 "6",
                 "1",
@@ -1309,7 +1309,7 @@
             {
               "rank": "9",
               "org": "St John's",
-              "team": "Year 7/8 Boys Basketball",
+              "team": "STJ",
               "stats": [
                 "6",
                 "0",
@@ -1325,7 +1325,7 @@
             {
               "rank": "10",
               "org": "Ormiston",
-              "team": "Year 7 Red",
+              "team": "OC",
               "stats": [
                 "0",
                 "0",
@@ -1343,7 +1343,7 @@
         {
           "division": "Boys 1st V",
           "headers": [
-            "Rank",
+            "Rank#",
             "Team",
             "P",
             "W",
@@ -1359,7 +1359,7 @@
             {
               "rank": "1",
               "org": "Ormiston",
-              "team": "1st V",
+              "team": "OC",
               "stats": [
                 "7",
                 "5",
@@ -1375,7 +1375,7 @@
             {
               "rank": "1",
               "org": "St John's",
-              "team": "1st V",
+              "team": "STJ",
               "stats": [
                 "7",
                 "5",
@@ -1391,7 +1391,7 @@
             {
               "rank": "1",
               "org": "St Paul's",
-              "team": "1st V",
+              "team": "SPS",
               "stats": [
                 "7",
                 "5",
@@ -1407,7 +1407,7 @@
             {
               "rank": "4",
               "org": "John Paul",
-              "team": "1st V",
+              "team": "JPC",
               "stats": [
                 "7",
                 "4",
@@ -1423,7 +1423,7 @@
             {
               "rank": "5",
               "org": "Canterbury",
-              "team": "1st V",
+              "team": "CC",
               "stats": [
                 "7",
                 "3",
@@ -1439,7 +1439,7 @@
             {
               "rank": "6",
               "org": "CHAC",
-              "team": "1st V",
+              "team": "CHAC",
               "stats": [
                 "7",
                 "2",
@@ -1455,7 +1455,7 @@
             {
               "rank": "6",
               "org": "St Columban's",
-              "team": "1st V",
+              "team": "STC",
               "stats": [
                 "7",
                 "2",
@@ -1471,7 +1471,7 @@
             {
               "rank": "8",
               "org": "WestMAC",
-              "team": "1st V",
+              "team": "WMAC",
               "stats": [
                 "7",
                 "0",
@@ -1489,7 +1489,7 @@
         {
           "division": "Boys 2nd V",
           "headers": [
-            "Rank",
+            "Rank#",
             "Team",
             "P",
             "W",
@@ -1505,7 +1505,7 @@
             {
               "rank": "1",
               "org": "John Paul",
-              "team": "2nd V",
+              "team": "JPC",
               "stats": [
                 "7",
                 "7",
@@ -1521,7 +1521,7 @@
             {
               "rank": "2",
               "org": "Ormiston",
-              "team": "2nd V",
+              "team": "OC",
               "stats": [
                 "7",
                 "6",
@@ -1537,7 +1537,7 @@
             {
               "rank": "3",
               "org": "CHAC",
-              "team": "2nd V",
+              "team": "CHAC",
               "stats": [
                 "7",
                 "4",
@@ -1553,7 +1553,7 @@
             {
               "rank": "4",
               "org": "Canterbury",
-              "team": "2nd V",
+              "team": "CC",
               "stats": [
                 "7",
                 "3",
@@ -1569,7 +1569,7 @@
             {
               "rank": "5",
               "org": "St Paul's",
-              "team": "2nd V",
+              "team": "SPS",
               "stats": [
                 "7",
                 "2",
@@ -1585,7 +1585,7 @@
             {
               "rank": "6",
               "org": "St Columban's",
-              "team": "2nd V",
+              "team": "STC",
               "stats": [
                 "7",
                 "2",
@@ -1601,7 +1601,7 @@
             {
               "rank": "6",
               "org": "St John's",
-              "team": "2nd V",
+              "team": "STJ",
               "stats": [
                 "7",
                 "2",
@@ -1617,7 +1617,7 @@
             {
               "rank": "8",
               "org": "WestMAC",
-              "team": "2nd V",
+              "team": "WMAC",
               "stats": [
                 "7",
                 "0",
@@ -1640,7 +1640,7 @@
         {
           "division": "Girls 1st VI",
           "headers": [
-            "Rank",
+            "Rank#",
             "Team",
             "P",
             "W",
@@ -1656,7 +1656,7 @@
             {
               "rank": "1",
               "org": "Ormiston",
-              "team": "1st VI",
+              "team": "OC",
               "stats": [
                 "7",
                 "7",
@@ -1672,7 +1672,7 @@
             {
               "rank": "2",
               "org": "Canterbury",
-              "team": "1st VI",
+              "team": "CC",
               "stats": [
                 "7",
                 "6",
@@ -1688,7 +1688,7 @@
             {
               "rank": "3",
               "org": "CHAC",
-              "team": "1st VI",
+              "team": "CHAC",
               "stats": [
                 "7",
                 "5",
@@ -1704,7 +1704,7 @@
             {
               "rank": "4",
               "org": "John Paul",
-              "team": "1st VI",
+              "team": "JPC",
               "stats": [
                 "7",
                 "3",
@@ -1720,7 +1720,7 @@
             {
               "rank": "5",
               "org": "St Columban's",
-              "team": "1st VI",
+              "team": "STC",
               "stats": [
                 "7",
                 "2",
@@ -1736,7 +1736,7 @@
             {
               "rank": "5",
               "org": "St Paul's",
-              "team": "1st VI",
+              "team": "SPS",
               "stats": [
                 "7",
                 "2",
@@ -1752,7 +1752,7 @@
             {
               "rank": "5",
               "org": "WestMAC",
-              "team": "1st VI",
+              "team": "WMAC",
               "stats": [
                 "7",
                 "2",
@@ -1768,7 +1768,7 @@
             {
               "rank": "8",
               "org": "St John's",
-              "team": "1st VI",
+              "team": "STJ",
               "stats": [
                 "7",
                 "1",
@@ -1786,7 +1786,7 @@
         {
           "division": "Girls 2nd VI",
           "headers": [
-            "Rank",
+            "Rank#",
             "Team",
             "P",
             "W",
@@ -1802,7 +1802,7 @@
             {
               "rank": "1",
               "org": "Ormiston",
-              "team": "2nd VI",
+              "team": "OC",
               "stats": [
                 "7",
                 "7",
@@ -1818,7 +1818,7 @@
             {
               "rank": "2",
               "org": "CHAC",
-              "team": "2nd VI",
+              "team": "CHAC",
               "stats": [
                 "7",
                 "6",
@@ -1834,7 +1834,7 @@
             {
               "rank": "3",
               "org": "Canterbury",
-              "team": "2nd VI",
+              "team": "CC",
               "stats": [
                 "7",
                 "5",
@@ -1850,7 +1850,7 @@
             {
               "rank": "4",
               "org": "St Columban's",
-              "team": "2nd VI",
+              "team": "STC",
               "stats": [
                 "7",
                 "4",
@@ -1866,7 +1866,7 @@
             {
               "rank": "5",
               "org": "John Paul",
-              "team": "2nd VI",
+              "team": "JPC",
               "stats": [
                 "7",
                 "3",
@@ -1882,7 +1882,7 @@
             {
               "rank": "6",
               "org": "St John's",
-              "team": "2nd VI",
+              "team": "STJ",
               "stats": [
                 "7",
                 "2",
@@ -1898,7 +1898,7 @@
             {
               "rank": "7",
               "org": "WestMAC",
-              "team": "2nd VI",
+              "team": "WMAC",
               "stats": [
                 "7",
                 "1",
@@ -1914,7 +1914,7 @@
             {
               "rank": "8",
               "org": "St Paul's",
-              "team": "2nd VI",
+              "team": "SPS",
               "stats": [
                 "7",
                 "0",
@@ -1932,7 +1932,7 @@
         {
           "division": "Girls Junior Shield (Division 1)",
           "headers": [
-            "Rank",
+            "Rank#",
             "Team",
             "P",
             "W",
@@ -1948,7 +1948,7 @@
             {
               "rank": "1",
               "org": "Ormiston",
-              "team": "Year 8 Blue",
+              "team": "OC",
               "stats": [
                 "7",
                 "7",
@@ -1964,7 +1964,7 @@
             {
               "rank": "2",
               "org": "CHAC",
-              "team": "Year 8 Blue",
+              "team": "CHAC",
               "stats": [
                 "7",
                 "6",
@@ -1980,7 +1980,7 @@
             {
               "rank": "2",
               "org": "St Columban's",
-              "team": "Junior Sky Blue",
+              "team": "STC",
               "stats": [
                 "7",
                 "6",
@@ -1996,7 +1996,7 @@
             {
               "rank": "4",
               "org": "Ormiston",
-              "team": "Year 8 White",
+              "team": "OC",
               "stats": [
                 "7",
                 "5",
@@ -2012,7 +2012,7 @@
             {
               "rank": "5",
               "org": "Canterbury",
-              "team": "Year 8 Navy",
+              "team": "CC",
               "stats": [
                 "7",
                 "4",
@@ -2028,7 +2028,7 @@
             {
               "rank": "6",
               "org": "Ormiston",
-              "team": "Year 8 Red",
+              "team": "OC",
               "stats": [
                 "7",
                 "3",
@@ -2044,7 +2044,7 @@
             {
               "rank": "7",
               "org": "St Paul's",
-              "team": "Year 8 Red",
+              "team": "SPS",
               "stats": [
                 "7",
                 "2",
@@ -2060,7 +2060,7 @@
             {
               "rank": "8",
               "org": "CHAC",
-              "team": "Year 8 Red",
+              "team": "CHAC",
               "stats": [
                 "7",
                 "1",
@@ -2076,7 +2076,7 @@
             {
               "rank": "8",
               "org": "Canterbury",
-              "team": "Year 7 Navy",
+              "team": "CC",
               "stats": [
                 "7",
                 "1",
@@ -2092,7 +2092,7 @@
             {
               "rank": "10",
               "org": "WestMAC",
-              "team": "Junior Navy",
+              "team": "WMAC",
               "stats": [
                 "7",
                 "0",
@@ -2110,7 +2110,7 @@
         {
           "division": "Girls Junior Shield (Division 2)",
           "headers": [
-            "Rank",
+            "Rank#",
             "Team",
             "P",
             "W",
@@ -2126,7 +2126,7 @@
             {
               "rank": "1",
               "org": "St John's",
-              "team": "Year 7 Red",
+              "team": "STJ",
               "stats": [
                 "6",
                 "6",
@@ -2142,7 +2142,7 @@
             {
               "rank": "2",
               "org": "CHAC",
-              "team": "Year 7 Blue",
+              "team": "CHAC",
               "stats": [
                 "6",
                 "5",
@@ -2158,7 +2158,7 @@
             {
               "rank": "3",
               "org": "John Paul",
-              "team": "Year 7/8 Blue",
+              "team": "JPC",
               "stats": [
                 "6",
                 "3",
@@ -2174,7 +2174,7 @@
             {
               "rank": "3",
               "org": "Ormiston",
-              "team": "Year 7 Blue",
+              "team": "OC",
               "stats": [
                 "6",
                 "3",
@@ -2190,7 +2190,7 @@
             {
               "rank": "5",
               "org": "St Columban's",
-              "team": "Junior Blue",
+              "team": "STC",
               "stats": [
                 "6",
                 "2",
@@ -2206,7 +2206,7 @@
             {
               "rank": "6",
               "org": "Canterbury",
-              "team": "Year 8 Red",
+              "team": "CC",
               "stats": [
                 "6",
                 "1",
@@ -2222,7 +2222,7 @@
             {
               "rank": "6",
               "org": "St Paul's",
-              "team": "Year 7 Red",
+              "team": "SPS",
               "stats": [
                 "6",
                 "1",
@@ -2240,7 +2240,7 @@
         {
           "division": "Girls Year 10",
           "headers": [
-            "Rank",
+            "Rank#",
             "Team",
             "P",
             "W",
@@ -2256,7 +2256,7 @@
             {
               "rank": "1",
               "org": "CHAC",
-              "team": "Year 10",
+              "team": "CHAC",
               "stats": [
                 "7",
                 "7",
@@ -2272,7 +2272,7 @@
             {
               "rank": "2",
               "org": "Ormiston",
-              "team": "Year 10",
+              "team": "OC",
               "stats": [
                 "7",
                 "6",
@@ -2288,7 +2288,7 @@
             {
               "rank": "3",
               "org": "St John's",
-              "team": "Year 10",
+              "team": "STJ",
               "stats": [
                 "7",
                 "5",
@@ -2304,7 +2304,7 @@
             {
               "rank": "4",
               "org": "Canterbury",
-              "team": "Year 10",
+              "team": "CC",
               "stats": [
                 "7",
                 "4",
@@ -2320,7 +2320,7 @@
             {
               "rank": "5",
               "org": "WestMAC",
-              "team": "Year 10",
+              "team": "WMAC",
               "stats": [
                 "7",
                 "3",
@@ -2336,7 +2336,7 @@
             {
               "rank": "6",
               "org": "John Paul",
-              "team": "Year 10",
+              "team": "JPC",
               "stats": [
                 "7",
                 "2",
@@ -2352,7 +2352,7 @@
             {
               "rank": "7",
               "org": "St Columban's",
-              "team": "Year 10",
+              "team": "STC",
               "stats": [
                 "7",
                 "1",
@@ -2368,7 +2368,7 @@
             {
               "rank": "8",
               "org": "St Paul's",
-              "team": "Year 10",
+              "team": "SPS",
               "stats": [
                 "7",
                 "0",
@@ -2386,7 +2386,7 @@
         {
           "division": "Girls Year 9",
           "headers": [
-            "Rank",
+            "Rank#",
             "Team",
             "P",
             "W",
@@ -2402,7 +2402,7 @@
             {
               "rank": "1",
               "org": "Ormiston",
-              "team": "Year 9",
+              "team": "OC",
               "stats": [
                 "7",
                 "7",
@@ -2418,7 +2418,7 @@
             {
               "rank": "2",
               "org": "CHAC",
-              "team": "Year 9",
+              "team": "CHAC",
               "stats": [
                 "7",
                 "6",
@@ -2434,7 +2434,7 @@
             {
               "rank": "3",
               "org": "St Paul's",
-              "team": "Year 9",
+              "team": "SPS",
               "stats": [
                 "7",
                 "5",
@@ -2450,7 +2450,7 @@
             {
               "rank": "4",
               "org": "Canterbury",
-              "team": "Year 9",
+              "team": "CC",
               "stats": [
                 "7",
                 "4",
@@ -2466,7 +2466,7 @@
             {
               "rank": "5",
               "org": "John Paul",
-              "team": "Year 9",
+              "team": "JPC",
               "stats": [
                 "7",
                 "2",
@@ -2482,7 +2482,7 @@
             {
               "rank": "5",
               "org": "St John's",
-              "team": "Year 9",
+              "team": "STJ",
               "stats": [
                 "7",
                 "2",
@@ -2498,7 +2498,7 @@
             {
               "rank": "7",
               "org": "St Columban's",
-              "team": "Year 9",
+              "team": "STC",
               "stats": [
                 "7",
                 "1",
@@ -2514,7 +2514,7 @@
             {
               "rank": "7",
               "org": "WestMAC",
-              "team": "Year 9",
+              "team": "WMAC",
               "stats": [
                 "7",
                 "1",
@@ -2532,7 +2532,7 @@
         {
           "division": "Girls Year 8",
           "headers": [
-            "Rank",
+            "Rank#",
             "Team",
             "P",
             "W",
@@ -2548,7 +2548,7 @@
             {
               "rank": "1",
               "org": "CHAC",
-              "team": "Year 8",
+              "team": "CHAC",
               "stats": [
                 "7",
                 "7",
@@ -2564,7 +2564,7 @@
             {
               "rank": "2",
               "org": "St Columban's",
-              "team": "Year 8",
+              "team": "STC",
               "stats": [
                 "7",
                 "6",
@@ -2580,7 +2580,7 @@
             {
               "rank": "3",
               "org": "Ormiston",
-              "team": "Year 8",
+              "team": "OC",
               "stats": [
                 "7",
                 "5",
@@ -2596,7 +2596,7 @@
             {
               "rank": "4",
               "org": "St John's",
-              "team": "Year 8",
+              "team": "STJ",
               "stats": [
                 "7",
                 "3",
@@ -2612,7 +2612,7 @@
             {
               "rank": "4",
               "org": "St Paul's",
-              "team": "Year 8",
+              "team": "SPS",
               "stats": [
                 "7",
                 "3",
@@ -2628,7 +2628,7 @@
             {
               "rank": "6",
               "org": "Canterbury",
-              "team": "Year 8",
+              "team": "CC",
               "stats": [
                 "7",
                 "2",
@@ -2644,7 +2644,7 @@
             {
               "rank": "6",
               "org": "WestMAC",
-              "team": "Year 8",
+              "team": "WMAC",
               "stats": [
                 "7",
                 "2",
@@ -2660,7 +2660,7 @@
             {
               "rank": "8",
               "org": "John Paul",
-              "team": "Year 8",
+              "team": "JPC",
               "stats": [
                 "7",
                 "0",
@@ -2678,7 +2678,7 @@
         {
           "division": "Girls Year 7",
           "headers": [
-            "Rank",
+            "Rank#",
             "Team",
             "P",
             "W",
@@ -2694,7 +2694,7 @@
             {
               "rank": "1",
               "org": "CHAC",
-              "team": "Year 7",
+              "team": "CHAC",
               "stats": [
                 "7",
                 "6",
@@ -2710,7 +2710,7 @@
             {
               "rank": "1",
               "org": "John Paul",
-              "team": "Year 7",
+              "team": "JPC",
               "stats": [
                 "7",
                 "6",
@@ -2726,7 +2726,7 @@
             {
               "rank": "1",
               "org": "Ormiston",
-              "team": "Year 7",
+              "team": "OC",
               "stats": [
                 "7",
                 "6",
@@ -2742,7 +2742,7 @@
             {
               "rank": "4",
               "org": "Canterbury",
-              "team": "Year 7",
+              "team": "CC",
               "stats": [
                 "7",
                 "3",
@@ -2758,7 +2758,7 @@
             {
               "rank": "4",
               "org": "St Columban's",
-              "team": "Year 7",
+              "team": "STC",
               "stats": [
                 "7",
                 "3",
@@ -2774,7 +2774,7 @@
             {
               "rank": "4",
               "org": "St John's",
-              "team": "Year 7",
+              "team": "STJ",
               "stats": [
                 "7",
                 "3",
@@ -2790,7 +2790,7 @@
             {
               "rank": "7",
               "org": "WestMAC",
-              "team": "Year 7",
+              "team": "WMAC",
               "stats": [
                 "7",
                 "1",
@@ -2806,7 +2806,7 @@
             {
               "rank": "8",
               "org": "St Paul's",
-              "team": "Year 7",
+              "team": "SPS",
               "stats": [
                 "7",
                 "0",
@@ -2824,7 +2824,7 @@
         {
           "division": "Girls Senior Shield",
           "headers": [
-            "Rank",
+            "Rank#",
             "Team",
             "P",
             "W",
@@ -2840,7 +2840,7 @@
             {
               "rank": "1",
               "org": "CHAC",
-              "team": "4th VI",
+              "team": "CHAC",
               "stats": [
                 "5",
                 "5",
@@ -2856,7 +2856,7 @@
             {
               "rank": "2",
               "org": "CHAC",
-              "team": "3rd VI",
+              "team": "CHAC",
               "stats": [
                 "5",
                 "3",
@@ -2872,7 +2872,7 @@
             {
               "rank": "3",
               "org": "CHAC",
-              "team": "5th VI",
+              "team": "CHAC",
               "stats": [
                 "5",
                 "2",
@@ -2888,7 +2888,7 @@
             {
               "rank": "3",
               "org": "Ormiston",
-              "team": "3rd VI",
+              "team": "OC",
               "stats": [
                 "5",
                 "2",
@@ -2904,7 +2904,7 @@
             {
               "rank": "3",
               "org": "St Columban's",
-              "team": "3rd VI",
+              "team": "STC",
               "stats": [
                 "5",
                 "2",
@@ -2920,7 +2920,7 @@
             {
               "rank": "6",
               "org": "John Paul",
-              "team": "3rd VI",
+              "team": "JPC",
               "stats": [
                 "5",
                 "1",
@@ -2936,7 +2936,7 @@
             {
               "rank": "7",
               "org": "Canterbury",
-              "team": "3rd VI",
+              "team": "CC",
               "stats": [
                 "0",
                 "0",
@@ -2954,7 +2954,7 @@
         {
           "division": "Girls Intermediate Shield (Division 1)",
           "headers": [
-            "Rank",
+            "Rank#",
             "Team",
             "P",
             "W",
@@ -2970,7 +2970,7 @@
             {
               "rank": "1",
               "org": "CHAC",
-              "team": "Year 10 Blue",
+              "team": "CHAC",
               "stats": [
                 "7",
                 "7",
@@ -2986,7 +2986,7 @@
             {
               "rank": "2",
               "org": "CHAC",
-              "team": "Year 9 Blue",
+              "team": "CHAC",
               "stats": [
                 "7",
                 "5",
@@ -3002,7 +3002,7 @@
             {
               "rank": "3",
               "org": "Canterbury",
-              "team": "Year 10 Navy",
+              "team": "CC",
               "stats": [
                 "7",
                 "4",
@@ -3018,7 +3018,7 @@
             {
               "rank": "4",
               "org": "Ormiston",
-              "team": "Year 10 Blue",
+              "team": "OC",
               "stats": [
                 "7",
                 "3",
@@ -3034,7 +3034,7 @@
             {
               "rank": "5",
               "org": "Canterbury",
-              "team": "Year 9 Navy",
+              "team": "CC",
               "stats": [
                 "7",
                 "2",
@@ -3050,7 +3050,7 @@
             {
               "rank": "6",
               "org": "John Paul",
-              "team": "Year 10 Blue",
+              "team": "JPC",
               "stats": [
                 "7",
                 "0",
@@ -3068,7 +3068,7 @@
         {
           "division": "Girls Intermediate Shield (Division 2)",
           "headers": [
-            "Rank",
+            "Rank#",
             "Team",
             "P",
             "W",
@@ -3084,7 +3084,7 @@
             {
               "rank": "1",
               "org": "St Columban's",
-              "team": "Intermediate Blue",
+              "team": "STC",
               "stats": [
                 "6",
                 "6",
@@ -3100,7 +3100,7 @@
             {
               "rank": "2",
               "org": "CHAC",
-              "team": "Year 10 Red",
+              "team": "CHAC",
               "stats": [
                 "7",
                 "4",
@@ -3116,7 +3116,7 @@
             {
               "rank": "3",
               "org": "CHAC",
-              "team": "Year 9 Red",
+              "team": "CHAC",
               "stats": [
                 "7",
                 "4",
@@ -3132,7 +3132,7 @@
             {
               "rank": "3",
               "org": "Ormiston",
-              "team": "Year 9 Blue",
+              "team": "OC",
               "stats": [
                 "7",
                 "4",
@@ -3148,7 +3148,7 @@
             {
               "rank": "5",
               "org": "John Paul",
-              "team": "Year 8/9 Blue",
+              "team": "JPC",
               "stats": [
                 "7",
                 "4",
@@ -3164,7 +3164,7 @@
             {
               "rank": "6",
               "org": "WestMAC",
-              "team": "Intermediate Rust",
+              "team": "WMAC",
               "stats": [
                 "7",
                 "2",
@@ -3180,7 +3180,7 @@
             {
               "rank": "7",
               "org": "John Paul",
-              "team": "Year 9/10 Burgundy",
+              "team": "JPC",
               "stats": [
                 "6",
                 "1",
@@ -3196,7 +3196,7 @@
             {
               "rank": "8",
               "org": "Canterbury",
-              "team": "Year 9/10 Red",
+              "team": "CC",
               "stats": [
                 "7",
                 "1",
@@ -3212,7 +3212,7 @@
             {
               "rank": "9",
               "org": "Ormiston",
-              "team": "Year 9/10 Red",
+              "team": "OC",
               "stats": [
                 "0",
                 "0",
@@ -3230,7 +3230,7 @@
         {
           "division": "Girls Junior Shield (Division 3)",
           "headers": [
-            "Rank",
+            "Rank#",
             "Team",
             "P",
             "W",
@@ -3246,7 +3246,7 @@
             {
               "rank": "1",
               "org": "CHAC",
-              "team": "Year 7 Red",
+              "team": "CHAC",
               "stats": [
                 "7",
                 "5",
@@ -3262,7 +3262,7 @@
             {
               "rank": "1",
               "org": "John Paul",
-              "team": "Year 7 White",
+              "team": "JPC",
               "stats": [
                 "7",
                 "6",
@@ -3278,7 +3278,7 @@
             {
               "rank": "3",
               "org": "Ormiston",
-              "team": "Year 7 Red",
+              "team": "OC",
               "stats": [
                 "7",
                 "4",
@@ -3294,7 +3294,7 @@
             {
               "rank": "4",
               "org": "Canterbury",
-              "team": "Year 7 Red",
+              "team": "CC",
               "stats": [
                 "7",
                 "3",
@@ -3310,7 +3310,7 @@
             {
               "rank": "5",
               "org": "CHAC",
-              "team": "Year 7 White",
+              "team": "CHAC",
               "stats": [
                 "7",
                 "1",
@@ -3326,7 +3326,7 @@
             {
               "rank": "6",
               "org": "John Paul",
-              "team": "Year 7 Burgundy",
+              "team": "JPC",
               "stats": [
                 "7",
                 "0",
@@ -3342,7 +3342,7 @@
             {
               "rank": "7",
               "org": "Ormiston",
-              "team": "Year 7 White",
+              "team": "OC",
               "stats": [
                 "0",
                 "0",
@@ -3365,7 +3365,7 @@
         {
           "division": "Boys Year 10",
           "headers": [
-            "Rank",
+            "Rank#",
             "Team",
             "P",
             "W",
@@ -3381,7 +3381,7 @@
             {
               "rank": "1",
               "org": "CHAC",
-              "team": "Year 10",
+              "team": "CHAC",
               "stats": [
                 "7",
                 "6",
@@ -3397,7 +3397,7 @@
             {
               "rank": "2",
               "org": "John Paul",
-              "team": "Year 10",
+              "team": "JPC",
               "stats": [
                 "7",
                 "6",
@@ -3413,7 +3413,7 @@
             {
               "rank": "3",
               "org": "Canterbury",
-              "team": "Year 10",
+              "team": "CC",
               "stats": [
                 "7",
                 "5",
@@ -3429,7 +3429,7 @@
             {
               "rank": "4",
               "org": "Ormiston",
-              "team": "Year 10",
+              "team": "OC",
               "stats": [
                 "7",
                 "3",
@@ -3445,7 +3445,7 @@
             {
               "rank": "5",
               "org": "St Paul's",
-              "team": "Year 10",
+              "team": "SPS",
               "stats": [
                 "7",
                 "3",
@@ -3461,7 +3461,7 @@
             {
               "rank": "6",
               "org": "St Columban's",
-              "team": "Year 10",
+              "team": "STC",
               "stats": [
                 "7",
                 "2",
@@ -3477,7 +3477,7 @@
             {
               "rank": "7",
               "org": "WestMAC",
-              "team": "Year 10",
+              "team": "WMAC",
               "stats": [
                 "7",
                 "1",
@@ -3493,7 +3493,7 @@
             {
               "rank": "8",
               "org": "St John's",
-              "team": "Year 10",
+              "team": "STJ",
               "stats": [
                 "7",
                 "0",
@@ -3511,7 +3511,7 @@
         {
           "division": "Boys Year 9",
           "headers": [
-            "Rank",
+            "Rank#",
             "Team",
             "P",
             "W",
@@ -3527,7 +3527,7 @@
             {
               "rank": "1",
               "org": "St Columban's",
-              "team": "Year 9",
+              "team": "STC",
               "stats": [
                 "7",
                 "5",
@@ -3543,7 +3543,7 @@
             {
               "rank": "1",
               "org": "St Paul's",
-              "team": "Year 9",
+              "team": "SPS",
               "stats": [
                 "7",
                 "5",
@@ -3559,7 +3559,7 @@
             {
               "rank": "3",
               "org": "CHAC",
-              "team": "Year 9",
+              "team": "CHAC",
               "stats": [
                 "7",
                 "4",
@@ -3575,7 +3575,7 @@
             {
               "rank": "3",
               "org": "John Paul",
-              "team": "Year 9",
+              "team": "JPC",
               "stats": [
                 "7",
                 "4",
@@ -3591,7 +3591,7 @@
             {
               "rank": "3",
               "org": "Ormiston",
-              "team": "Year 9",
+              "team": "OC",
               "stats": [
                 "7",
                 "4",
@@ -3607,7 +3607,7 @@
             {
               "rank": "6",
               "org": "St John's",
-              "team": "Year 9",
+              "team": "STJ",
               "stats": [
                 "7",
                 "3",
@@ -3623,7 +3623,7 @@
             {
               "rank": "7",
               "org": "Canterbury",
-              "team": "Year 9",
+              "team": "CC",
               "stats": [
                 "7",
                 "1",
@@ -3639,7 +3639,7 @@
             {
               "rank": "7",
               "org": "WestMAC",
-              "team": "Year 9",
+              "team": "WMAC",
               "stats": [
                 "7",
                 "1",
@@ -3657,7 +3657,7 @@
         {
           "division": "Boys Year 8",
           "headers": [
-            "Rank",
+            "Rank#",
             "Team",
             "P",
             "W",
@@ -3673,7 +3673,7 @@
             {
               "rank": "1",
               "org": "John Paul",
-              "team": "Year 8",
+              "team": "JPC",
               "stats": [
                 "7",
                 "7",
@@ -3689,7 +3689,7 @@
             {
               "rank": "2",
               "org": "Ormiston",
-              "team": "Year 8",
+              "team": "OC",
               "stats": [
                 "7",
                 "6",
@@ -3705,7 +3705,7 @@
             {
               "rank": "3",
               "org": "CHAC",
-              "team": "Year 8",
+              "team": "CHAC",
               "stats": [
                 "7",
                 "5",
@@ -3721,7 +3721,7 @@
             {
               "rank": "4",
               "org": "St John's",
-              "team": "Year 8",
+              "team": "STJ",
               "stats": [
                 "7",
                 "4",
@@ -3737,7 +3737,7 @@
             {
               "rank": "5",
               "org": "Canterbury",
-              "team": "Boys Year 8",
+              "team": "CC",
               "stats": [
                 "7",
                 "2",
@@ -3753,7 +3753,7 @@
             {
               "rank": "6",
               "org": "St Columban's",
-              "team": "Year 8",
+              "team": "STC",
               "stats": [
                 "7",
                 "1",
@@ -3769,7 +3769,7 @@
             {
               "rank": "6",
               "org": "St Paul's",
-              "team": "Year 8",
+              "team": "SPS",
               "stats": [
                 "7",
                 "1",
@@ -3785,7 +3785,7 @@
             {
               "rank": "8",
               "org": "WestMAC",
-              "team": "Year 8",
+              "team": "WMAC",
               "stats": [
                 "7",
                 "0",
@@ -3803,7 +3803,7 @@
         {
           "division": "Boys Year 7",
           "headers": [
-            "Rank",
+            "Rank#",
             "Team",
             "P",
             "W",
@@ -3819,7 +3819,7 @@
             {
               "rank": "1",
               "org": "John Paul",
-              "team": "Year 7",
+              "team": "JPC",
               "stats": [
                 "7",
                 "7",
@@ -3835,7 +3835,7 @@
             {
               "rank": "2",
               "org": "WestMAC",
-              "team": "Year 7",
+              "team": "WMAC",
               "stats": [
                 "7",
                 "6",
@@ -3851,7 +3851,7 @@
             {
               "rank": "3",
               "org": "CHAC",
-              "team": "Year 7",
+              "team": "CHAC",
               "stats": [
                 "7",
                 "5",
@@ -3867,7 +3867,7 @@
             {
               "rank": "4",
               "org": "St Columban's",
-              "team": "Year 7",
+              "team": "STC",
               "stats": [
                 "7",
                 "3",
@@ -3883,7 +3883,7 @@
             {
               "rank": "5",
               "org": "St John's",
-              "team": "Year 7",
+              "team": "STJ",
               "stats": [
                 "7",
                 "3",
@@ -3899,7 +3899,7 @@
             {
               "rank": "6",
               "org": "Ormiston",
-              "team": "Year 7",
+              "team": "OC",
               "stats": [
                 "7",
                 "2",
@@ -3915,7 +3915,7 @@
             {
               "rank": "7",
               "org": "St Paul's",
-              "team": "Year 7",
+              "team": "SPS",
               "stats": [
                 "7",
                 "1",
@@ -3931,7 +3931,7 @@
             {
               "rank": "8",
               "org": "Canterbury",
-              "team": "Year 7",
+              "team": "CC",
               "stats": [
                 "7",
                 "0",
@@ -3949,7 +3949,7 @@
         {
           "division": "Boys Junior Shield (Division 1)",
           "headers": [
-            "Rank",
+            "Rank#",
             "Team",
             "P",
             "W",
@@ -3965,7 +3965,7 @@
             {
               "rank": "1",
               "org": "CHAC",
-              "team": "Year 8 Blue",
+              "team": "CHAC",
               "stats": [
                 "6",
                 "5",
@@ -3981,7 +3981,7 @@
             {
               "rank": "1",
               "org": "CHAC",
-              "team": "Year 8 Red",
+              "team": "CHAC",
               "stats": [
                 "6",
                 "5",
@@ -3997,7 +3997,7 @@
             {
               "rank": "1",
               "org": "John Paul",
-              "team": "Year 7 Blue",
+              "team": "JPC",
               "stats": [
                 "6",
                 "5",
@@ -4013,7 +4013,7 @@
             {
               "rank": "4",
               "org": "Ormiston",
-              "team": "Year 8 Blue",
+              "team": "OC",
               "stats": [
                 "6",
                 "2",
@@ -4029,7 +4029,7 @@
             {
               "rank": "4",
               "org": "WestMAC",
-              "team": "Junior Navy",
+              "team": "WMAC",
               "stats": [
                 "6",
                 "2",
@@ -4045,7 +4045,7 @@
             {
               "rank": "6",
               "org": "CHAC",
-              "team": "Year 7 Blue",
+              "team": "CHAC",
               "stats": [
                 "6",
                 "1",
@@ -4061,7 +4061,7 @@
             {
               "rank": "7",
               "org": "St Paul's",
-              "team": "Year 7/8 Red",
+              "team": "SPS",
               "stats": [
                 "6",
                 "0",
@@ -4079,7 +4079,7 @@
         {
           "division": "Boys 1st XI",
           "headers": [
-            "Rank",
+            "Rank#",
             "Team",
             "P",
             "W",
@@ -4095,7 +4095,7 @@
             {
               "rank": "1",
               "org": "Ormiston",
-              "team": "1st XI",
+              "team": "OC",
               "stats": [
                 "7",
                 "6",
@@ -4111,7 +4111,7 @@
             {
               "rank": "2",
               "org": "CHAC",
-              "team": "1st XI",
+              "team": "CHAC",
               "stats": [
                 "7",
                 "5",
@@ -4127,7 +4127,7 @@
             {
               "rank": "2",
               "org": "WestMAC",
-              "team": "1st XI",
+              "team": "WMAC",
               "stats": [
                 "7",
                 "5",
@@ -4143,7 +4143,7 @@
             {
               "rank": "4",
               "org": "St Paul's",
-              "team": "1st XI",
+              "team": "SPS",
               "stats": [
                 "7",
                 "5",
@@ -4159,7 +4159,7 @@
             {
               "rank": "5",
               "org": "St Columban's",
-              "team": "1st XI",
+              "team": "STC",
               "stats": [
                 "7",
                 "2",
@@ -4175,7 +4175,7 @@
             {
               "rank": "6",
               "org": "St John's",
-              "team": "1st XI",
+              "team": "STJ",
               "stats": [
                 "7",
                 "2",
@@ -4191,7 +4191,7 @@
             {
               "rank": "7",
               "org": "Canterbury",
-              "team": "1st XI",
+              "team": "CC",
               "stats": [
                 "7",
                 "1",
@@ -4207,7 +4207,7 @@
             {
               "rank": "8",
               "org": "John Paul",
-              "team": "1st XI",
+              "team": "JPC",
               "stats": [
                 "7",
                 "0",
@@ -4225,7 +4225,7 @@
         {
           "division": "Boys 2nd XI",
           "headers": [
-            "Rank",
+            "Rank#",
             "Team",
             "P",
             "W",
@@ -4241,7 +4241,7 @@
             {
               "rank": "1",
               "org": "CHAC",
-              "team": "2nd XI",
+              "team": "CHAC",
               "stats": [
                 "7",
                 "6",
@@ -4257,7 +4257,7 @@
             {
               "rank": "1",
               "org": "St John's",
-              "team": "2nd XI",
+              "team": "STJ",
               "stats": [
                 "7",
                 "6",
@@ -4273,7 +4273,7 @@
             {
               "rank": "3",
               "org": "St Columban's",
-              "team": "2nd XI",
+              "team": "STC",
               "stats": [
                 "7",
                 "5",
@@ -4289,7 +4289,7 @@
             {
               "rank": "4",
               "org": "Ormiston",
-              "team": "2nd XI",
+              "team": "OC",
               "stats": [
                 "7",
                 "4",
@@ -4305,7 +4305,7 @@
             {
               "rank": "5",
               "org": "Canterbury",
-              "team": "2nd XI",
+              "team": "CC",
               "stats": [
                 "7",
                 "3",
@@ -4321,7 +4321,7 @@
             {
               "rank": "6",
               "org": "St Paul's",
-              "team": "2nd XI",
+              "team": "SPS",
               "stats": [
                 "7",
                 "1",
@@ -4337,7 +4337,7 @@
             {
               "rank": "7",
               "org": "WestMAC",
-              "team": "2nd XI",
+              "team": "WMAC",
               "stats": [
                 "7",
                 "1",
@@ -4353,7 +4353,7 @@
             {
               "rank": "8",
               "org": "John Paul",
-              "team": "2nd XI",
+              "team": "JPC",
               "stats": [
                 "7",
                 "0",
@@ -4371,7 +4371,7 @@
         {
           "division": "Boys Intermediate Shield",
           "headers": [
-            "Rank",
+            "Rank#",
             "Team",
             "P",
             "W",
@@ -4387,7 +4387,7 @@
             {
               "rank": "1",
               "org": "Ormiston",
-              "team": "Year 10 Blue",
+              "team": "OC",
               "stats": [
                 "7",
                 "5",
@@ -4403,7 +4403,7 @@
             {
               "rank": "1",
               "org": "WestMAC",
-              "team": "Intermediate Navy",
+              "team": "WMAC",
               "stats": [
                 "7",
                 "5",
@@ -4419,7 +4419,7 @@
             {
               "rank": "3",
               "org": "CHAC",
-              "team": "Year 10 Blue",
+              "team": "CHAC",
               "stats": [
                 "7",
                 "4",
@@ -4435,7 +4435,7 @@
             {
               "rank": "4",
               "org": "John Paul",
-              "team": "Year 8/9 Blue",
+              "team": "JPC",
               "stats": [
                 "7",
                 "3",
@@ -4451,7 +4451,7 @@
             {
               "rank": "5",
               "org": "Ormiston",
-              "team": "Year 9 Blue",
+              "team": "OC",
               "stats": [
                 "7",
                 "3",
@@ -4467,7 +4467,7 @@
             {
               "rank": "6",
               "org": "CHAC",
-              "team": "Year 9 Blue",
+              "team": "CHAC",
               "stats": [
                 "7",
                 "2",
@@ -4483,7 +4483,7 @@
             {
               "rank": "7",
               "org": "St Paul's",
-              "team": "Year 9/10 Red",
+              "team": "SPS",
               "stats": [
                 "7",
                 "2",
@@ -4499,7 +4499,7 @@
             {
               "rank": "8",
               "org": "Canterbury",
-              "team": "Year 7 - 9 Shield",
+              "team": "CC",
               "stats": [
                 "7",
                 "0",
@@ -4522,7 +4522,7 @@
         {
           "division": "Year 8",
           "headers": [
-            "Rank",
+            "Rank#",
             "Team",
             "P",
             "W",
@@ -4538,7 +4538,7 @@
             {
               "rank": "1",
               "org": "John Paul",
-              "team": "Year 8",
+              "team": "JPC",
               "stats": [
                 "7",
                 "6",
@@ -4554,7 +4554,7 @@
             {
               "rank": "2",
               "org": "WestMAC",
-              "team": "Year 8",
+              "team": "WMAC",
               "stats": [
                 "7",
                 "5",
@@ -4570,7 +4570,7 @@
             {
               "rank": "3",
               "org": "Ormiston",
-              "team": "Year 8",
+              "team": "OC",
               "stats": [
                 "7",
                 "5",
@@ -4586,7 +4586,7 @@
             {
               "rank": "4",
               "org": "St Columban's",
-              "team": "Year 8",
+              "team": "STC",
               "stats": [
                 "7",
                 "3",
@@ -4602,7 +4602,7 @@
             {
               "rank": "5",
               "org": "CHAC",
-              "team": "Year 8",
+              "team": "CHAC",
               "stats": [
                 "7",
                 "2",
@@ -4618,7 +4618,7 @@
             {
               "rank": "5",
               "org": "Canterbury",
-              "team": "Year 8",
+              "team": "CC",
               "stats": [
                 "7",
                 "2",
@@ -4634,7 +4634,7 @@
             {
               "rank": "7",
               "org": "St Paul's",
-              "team": "Year 8",
+              "team": "SPS",
               "stats": [
                 "7",
                 "2",
@@ -4650,7 +4650,7 @@
             {
               "rank": "8",
               "org": "St John's",
-              "team": "Year 8",
+              "team": "STJ",
               "stats": [
                 "7",
                 "0",
@@ -4668,7 +4668,7 @@
         {
           "division": "Year 7",
           "headers": [
-            "Rank",
+            "Rank#",
             "Team",
             "P",
             "W",
@@ -4684,7 +4684,7 @@
             {
               "rank": "1",
               "org": "John Paul",
-              "team": "Year 7",
+              "team": "JPC",
               "stats": [
                 "7",
                 "6",
@@ -4700,7 +4700,7 @@
             {
               "rank": "2",
               "org": "CHAC",
-              "team": "Year 7",
+              "team": "CHAC",
               "stats": [
                 "7",
                 "5",
@@ -4716,7 +4716,7 @@
             {
               "rank": "3",
               "org": "Ormiston",
-              "team": "Year 7",
+              "team": "OC",
               "stats": [
                 "7",
                 "5",
@@ -4732,7 +4732,7 @@
             {
               "rank": "4",
               "org": "WestMAC",
-              "team": "Year 7",
+              "team": "WMAC",
               "stats": [
                 "7",
                 "4",
@@ -4748,7 +4748,7 @@
             {
               "rank": "5",
               "org": "Canterbury",
-              "team": "Year 7",
+              "team": "CC",
               "stats": [
                 "7",
                 "3",
@@ -4764,7 +4764,7 @@
             {
               "rank": "6",
               "org": "St John's",
-              "team": "Year 7",
+              "team": "STJ",
               "stats": [
                 "7",
                 "2",
@@ -4780,7 +4780,7 @@
             {
               "rank": "7",
               "org": "St Columban's",
-              "team": "Year 7",
+              "team": "STC",
               "stats": [
                 "7",
                 "1",
@@ -4796,7 +4796,7 @@
             {
               "rank": "8",
               "org": "St Paul's",
-              "team": "Year 7",
+              "team": "SPS",
               "stats": [
                 "7",
                 "0",
@@ -4814,7 +4814,7 @@
         {
           "division": "Intermediate Shield",
           "headers": [
-            "Rank",
+            "Rank#",
             "Team",
             "P",
             "W",
@@ -4830,7 +4830,7 @@
             {
               "rank": "1",
               "org": "Ormiston",
-              "team": "Year 9 Blue",
+              "team": "OC",
               "stats": [
                 "7",
                 "6",
@@ -4846,7 +4846,7 @@
             {
               "rank": "2",
               "org": "CHAC",
-              "team": "Year 9 Blue",
+              "team": "CHAC",
               "stats": [
                 "7",
                 "6",
@@ -4862,7 +4862,7 @@
             {
               "rank": "3",
               "org": "St Paul's",
-              "team": "Year 9/10 Green",
+              "team": "SPS",
               "stats": [
                 "7",
                 "3",
@@ -4878,7 +4878,7 @@
             {
               "rank": "4",
               "org": "St Columban's",
-              "team": "Intermediate Navy",
+              "team": "STC",
               "stats": [
                 "7",
                 "4",
@@ -4894,7 +4894,7 @@
             {
               "rank": "5",
               "org": "CHAC",
-              "team": "3rd VI",
+              "team": "CHAC",
               "stats": [
                 "7",
                 "2",
@@ -4910,7 +4910,7 @@
             {
               "rank": "6",
               "org": "John Paul",
-              "team": "Year 10 Blue",
+              "team": "JPC",
               "stats": [
                 "7",
                 "1",
@@ -4926,7 +4926,7 @@
             {
               "rank": "7",
               "org": "John Paul",
-              "team": "Year 9 Burgundy",
+              "team": "JPC",
               "stats": [
                 "7",
                 "1",
@@ -4942,7 +4942,7 @@
             {
               "rank": "8",
               "org": "WestMAC",
-              "team": "Intermediate Rust",
+              "team": "WMAC",
               "stats": [
                 "7",
                 "0",
@@ -4958,7 +4958,7 @@
             {
               "rank": "9",
               "org": "John Paul",
-              "team": "Year 9 White",
+              "team": "JPC",
               "stats": [
                 "0",
                 "0",
@@ -4976,7 +4976,7 @@
         {
           "division": "Junior Shield (Division 1)",
           "headers": [
-            "Rank",
+            "Rank#",
             "Team",
             "P",
             "W",
@@ -4992,7 +4992,7 @@
             {
               "rank": "1",
               "org": "John Paul",
-              "team": "Year 8 Blue",
+              "team": "JPC",
               "stats": [
                 "6",
                 "5",
@@ -5008,7 +5008,7 @@
             {
               "rank": "1",
               "org": "WestMAC",
-              "team": "Junior Navy",
+              "team": "WMAC",
               "stats": [
                 "6",
                 "5",
@@ -5024,7 +5024,7 @@
             {
               "rank": "3",
               "org": "Canterbury",
-              "team": "Year 7/8 Navy",
+              "team": "CC",
               "stats": [
                 "6",
                 "4",
@@ -5040,7 +5040,7 @@
             {
               "rank": "4",
               "org": "CHAC",
-              "team": "Year 8 Blue",
+              "team": "CHAC",
               "stats": [
                 "6",
                 "3",
@@ -5056,7 +5056,7 @@
             {
               "rank": "5",
               "org": "Ormiston",
-              "team": "Year 8 Blue",
+              "team": "OC",
               "stats": [
                 "6",
                 "1",
@@ -5072,7 +5072,7 @@
             {
               "rank": "6",
               "org": "St Paul's",
-              "team": "Year 7/8 Green",
+              "team": "SPS",
               "stats": [
                 "6",
                 "0",
@@ -5088,7 +5088,7 @@
             {
               "rank": "7",
               "org": "St Columban's",
-              "team": "Junior Navy",
+              "team": "STC",
               "stats": [
                 "0",
                 "0",
@@ -5106,7 +5106,7 @@
         {
           "division": "Junior Shield (Division 2)",
           "headers": [
-            "Rank",
+            "Rank#",
             "Team",
             "P",
             "W",
@@ -5122,7 +5122,7 @@
             {
               "rank": "1",
               "org": "Ormiston",
-              "team": "Year 7 Blue",
+              "team": "OC",
               "stats": [
                 "6",
                 "5",
@@ -5138,7 +5138,7 @@
             {
               "rank": "2",
               "org": "CHAC",
-              "team": "Year 7 Blue",
+              "team": "CHAC",
               "stats": [
                 "6",
                 "4",
@@ -5154,7 +5154,7 @@
             {
               "rank": "2",
               "org": "WestMAC",
-              "team": "Junior Gold",
+              "team": "WMAC",
               "stats": [
                 "6",
                 "4",
@@ -5170,7 +5170,7 @@
             {
               "rank": "4",
               "org": "John Paul",
-              "team": "Year 7 Burgundy",
+              "team": "JPC",
               "stats": [
                 "6",
                 "2",
@@ -5186,7 +5186,7 @@
             {
               "rank": "5",
               "org": "John Paul",
-              "team": "Year 7 Blue",
+              "team": "JPC",
               "stats": [
                 "6",
                 "0",
@@ -5202,7 +5202,7 @@
             {
               "rank": "6",
               "org": "WestMAC",
-              "team": "Junior Rust",
+              "team": "WMAC",
               "stats": [
                 "0",
                 "0",
@@ -5220,7 +5220,7 @@
         {
           "division": "1st VI",
           "headers": [
-            "Rank",
+            "Rank#",
             "Team",
             "P",
             "W",
@@ -5236,7 +5236,7 @@
             {
               "rank": "1",
               "org": "Ormiston",
-              "team": "1st VI",
+              "team": "OC",
               "stats": [
                 "7",
                 "7",
@@ -5252,7 +5252,7 @@
             {
               "rank": "2",
               "org": "CHAC",
-              "team": "1st VI",
+              "team": "CHAC",
               "stats": [
                 "7",
                 "6",
@@ -5268,7 +5268,7 @@
             {
               "rank": "3",
               "org": "Canterbury",
-              "team": "1st VI",
+              "team": "CC",
               "stats": [
                 "7",
                 "5",
@@ -5284,7 +5284,7 @@
             {
               "rank": "4",
               "org": "St Columban's",
-              "team": "1st VI",
+              "team": "STC",
               "stats": [
                 "7",
                 "4",
@@ -5300,7 +5300,7 @@
             {
               "rank": "5",
               "org": "St Paul's",
-              "team": "1st VI",
+              "team": "SPS",
               "stats": [
                 "7",
                 "3",
@@ -5316,7 +5316,7 @@
             {
               "rank": "6",
               "org": "WestMAC",
-              "team": "1st VI",
+              "team": "WMAC",
               "stats": [
                 "7",
                 "2",
@@ -5332,7 +5332,7 @@
             {
               "rank": "7",
               "org": "John Paul",
-              "team": "1st VI",
+              "team": "JPC",
               "stats": [
                 "7",
                 "1",
@@ -5348,7 +5348,7 @@
             {
               "rank": "8",
               "org": "St John's",
-              "team": "1st VI",
+              "team": "STJ",
               "stats": [
                 "7",
                 "0",
@@ -5366,7 +5366,7 @@
         {
           "division": "2nd VI",
           "headers": [
-            "Rank",
+            "Rank#",
             "Team",
             "P",
             "W",
@@ -5382,7 +5382,7 @@
             {
               "rank": "1",
               "org": "CHAC",
-              "team": "2nd VI",
+              "team": "CHAC",
               "stats": [
                 "6",
                 "5",
@@ -5398,7 +5398,7 @@
             {
               "rank": "1",
               "org": "Ormiston",
-              "team": "2nd VI",
+              "team": "OC",
               "stats": [
                 "6",
                 "5",
@@ -5414,7 +5414,7 @@
             {
               "rank": "3",
               "org": "Canterbury",
-              "team": "2nd VI",
+              "team": "CC",
               "stats": [
                 "6",
                 "3",
@@ -5430,7 +5430,7 @@
             {
               "rank": "4",
               "org": "WestMAC",
-              "team": "2nd VI",
+              "team": "WMAC",
               "stats": [
                 "6",
                 "3",
@@ -5446,7 +5446,7 @@
             {
               "rank": "5",
               "org": "St Columban's",
-              "team": "2nd VI",
+              "team": "STC",
               "stats": [
                 "6",
                 "2",
@@ -5462,7 +5462,7 @@
             {
               "rank": "6",
               "org": "John Paul",
-              "team": "2nd VI",
+              "team": "JPC",
               "stats": [
                 "6",
                 "1",
@@ -5478,7 +5478,7 @@
             {
               "rank": "7",
               "org": "St Paul's",
-              "team": "2nd VI",
+              "team": "SPS",
               "stats": [
                 "6",
                 "0",
@@ -5494,7 +5494,7 @@
             {
               "rank": "8",
               "org": "St John's",
-              "team": "2nd VI",
+              "team": "STJ",
               "stats": [
                 "0",
                 "0",
@@ -5512,7 +5512,7 @@
         {
           "division": "Year 10",
           "headers": [
-            "Rank",
+            "Rank#",
             "Team",
             "P",
             "W",
@@ -5528,7 +5528,7 @@
             {
               "rank": "1",
               "org": "St Columban's",
-              "team": "Year 10",
+              "team": "STC",
               "stats": [
                 "7",
                 "7",
@@ -5544,7 +5544,7 @@
             {
               "rank": "2",
               "org": "WestMAC",
-              "team": "Year 10",
+              "team": "WMAC",
               "stats": [
                 "7",
                 "6",
@@ -5560,7 +5560,7 @@
             {
               "rank": "3",
               "org": "CHAC",
-              "team": "Year 10",
+              "team": "CHAC",
               "stats": [
                 "7",
                 "4",
@@ -5576,7 +5576,7 @@
             {
               "rank": "3",
               "org": "Canterbury",
-              "team": "Year 10",
+              "team": "CC",
               "stats": [
                 "7",
                 "4",
@@ -5592,7 +5592,7 @@
             {
               "rank": "5",
               "org": "John Paul",
-              "team": "Year 10",
+              "team": "JPC",
               "stats": [
                 "7",
                 "3",
@@ -5608,7 +5608,7 @@
             {
               "rank": "6",
               "org": "Ormiston",
-              "team": "Year 10",
+              "team": "OC",
               "stats": [
                 "7",
                 "2",
@@ -5624,7 +5624,7 @@
             {
               "rank": "7",
               "org": "St Paul's",
-              "team": "Year 10",
+              "team": "SPS",
               "stats": [
                 "7",
                 "1",
@@ -5640,7 +5640,7 @@
             {
               "rank": "8",
               "org": "St John's",
-              "team": "Year 10",
+              "team": "STJ",
               "stats": [
                 "7",
                 "0",
@@ -5658,7 +5658,7 @@
         {
           "division": "Year 9",
           "headers": [
-            "Rank",
+            "Rank#",
             "Team",
             "P",
             "W",
@@ -5674,7 +5674,7 @@
             {
               "rank": "1",
               "org": "CHAC",
-              "team": "Year 9",
+              "team": "CHAC",
               "stats": [
                 "7",
                 "7",
@@ -5690,7 +5690,7 @@
             {
               "rank": "2",
               "org": "St Columban's",
-              "team": "Year 9",
+              "team": "STC",
               "stats": [
                 "7",
                 "6",
@@ -5706,7 +5706,7 @@
             {
               "rank": "3",
               "org": "Ormiston",
-              "team": "Year 9",
+              "team": "OC",
               "stats": [
                 "7",
                 "5",
@@ -5722,7 +5722,7 @@
             {
               "rank": "4",
               "org": "WestMAC",
-              "team": "Year 9",
+              "team": "WMAC",
               "stats": [
                 "7",
                 "4",
@@ -5738,7 +5738,7 @@
             {
               "rank": "5",
               "org": "Canterbury",
-              "team": "Year 9",
+              "team": "CC",
               "stats": [
                 "7",
                 "3",
@@ -5754,7 +5754,7 @@
             {
               "rank": "6",
               "org": "John Paul",
-              "team": "Year 9",
+              "team": "JPC",
               "stats": [
                 "7",
                 "2",
@@ -5770,7 +5770,7 @@
             {
               "rank": "7",
               "org": "St John's",
-              "team": "Year 9",
+              "team": "STJ",
               "stats": [
                 "7",
                 "1",
@@ -5786,7 +5786,7 @@
             {
               "rank": "8",
               "org": "St Paul's",
-              "team": "Year 9",
+              "team": "SPS",
               "stats": [
                 "7",
                 "0",
